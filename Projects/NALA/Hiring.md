@@ -33,17 +33,32 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - #talent
 - #talent-updates
 - #office-london
+- #hiring-head-of-compliance-and-risk
+- #hiring-eu-mlro--
+- #hiring-amlco-
+- #hiring-eu-managing-director
+- #hiring-engineers-feedback
+- #hiring-infra-engineer
+- #hiring-senior-engineer
+- #hiring-finance-associate-2026
 
 ## Critical-path items
 
-- [ ] EU remote hiring rollout — approved by Benji 2026-06-29, response rates expected to triple
-- [ ] Oli Woolf onboarded and owning engineering recruiting pipeline (handoff from Ryan in progress)
-- [ ] Global Head of Compliance — 2 candidates in first-stage with Peter (w/c 2026-06-29)
-- [ ] MLRO — strong candidates responding, pipeline building
-- [ ] Growth Manager Francophone Africa — references then offer (Benji impressed)
+- [x] EU remote hiring rollout — approved by Benji 2026-06-29; live but no new eng candidates surfaced yet
+- [ ] Oli Woolf onboarded and owning engineering recruiting pipeline — introduced in hiring channels 2026-07-02; handover actively underway
+- [ ] Global Head of Compliance — 4+ candidates in pipeline (Ben Ellis closing strategy, Gowtham, Michael Heider, Karanjit Randhawa); Himanshu disqualified; Peter wants to see a few more before closing
+- [ ] Gowtham Vijayakumar (GHoC) — BLOCKED on Owen: call on whether to advance to Peter
+- [ ] MLRO — Florence postponed Jul 2 conversation to next week; Aaron in pipeline (Mark chasing Josh for scheduling)
+- [ ] AMLCO (EU) — NEW role opened Jun 30; Mark kicked off with Josh, sourcing underway
+- [ ] EU Managing Director — NEW role opened Jun 30; Mark kicked off with Josh, sourcing underway
+- [ ] Growth Manager Francophone Africa — references then offer (Benji impressed); no Slack update since Jun 29
 - [ ] Growth Manager Ghana — 7 screenings booked, targeting 2-3 conversions
-- [ ] Platform Engineer — thin pipeline (1 candidate, ex-Meta); needs EU remote sourcing boost
+- [ ] Platform Engineer — thin pipeline (1 candidate, ex-Meta); Oli taking over; needs EU remote sourcing boost
 - [ ] 4-day in-office policy for engineering — Markus pushing for 2-3 days to improve candidate conversion
+- [ ] Head of Africa Compliance — Segun: Ryan chasing Benji/Nico to close; no response yet
+- [ ] FX Sales/Trading Lead — candidate passed Erisen's stage; Peter final call this week
+- [ ] Finance Associate (Kenya) — interviews scheduled Jul 7 (5 candidates, overlapping stages)
+- [ ] Interview capacity policy — engineers managing own schedules + swaps; on-call excluded from rotation (Markus expectation set Jul 2)
 
 ## Project owners
 
@@ -73,3 +88,4 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [2026-06-29] EU remote hiring approved by Benji — source: [[2026-06-29 - Eng leads weekly]]
 - [2026-06-29] Weekly recruiter targets: 20 events + 100-130 emails — source: [[2026-06-29 - Weekly talent kick off call]]
 - [2026-06-29] Engineering recruiting to transfer from Ryan to Oli Woolf — source: [[2026-06-29 - Weekly talent kick off call]]
+- [2026-07-02] Himanshu Roy (GHoC) disqualified — unwilling to meet 4-day in-office requirement; no flex granted
