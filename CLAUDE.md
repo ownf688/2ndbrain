@@ -94,6 +94,42 @@ The brain reads from these systems via MCP. They enrich People/Projects notes an
 - **What:** Employee data — active/inactive status, departments, roles
 - **When to use:** People-risk radar (who's new, who's leaving, probation dates); enriching People notes with current role/department; morning briefs when team changes are relevant
 
+### Windmill (NALA workspace — admin access)
+- **What:** Performance management platform — feedback, 1:1s, pulse surveys, weekly recaps, performance review cycles, org-wide stats
+- **Access level:** Admin. Owen can see **all 248 employees** org-wide, not just his direct org. No `my-org` preset needed for cross-org queries.
+- **When to use:**
+  - **Wednesday Manager Health Pulse (EYS):** `stats_query` for `feedback-given` + `one-on-one-meetings` per manager over last 30 days; `feedback_query` to check quality/recency of feedback
+  - **Friday Performance Risk Early Warning:** managers with zero `feedback-given` in 4+ weeks; stale 1:1 prep tasks
+  - **Meeting-prep (before 1:1s with directs):** pull recent Windmill feedback about the person + their weekly recaps
+  - **People note enrichment:** on-demand feedback history for EYS Evidence sections
+  - **Pulse monitoring:** check response rates and results for NALA Feedback Loops (12-week cycle) and weekly kick-offs
+  - **Recognition (EYS):** `feedback_create` with shoutout to amplify values-in-action moments
+- **Key employee IDs (People team + frequent contacts):**
+  - Owen Fleming: `fsx5cs0ee67cgcmluemym6k8`
+  - Peter Gulliver (CFO): `vu1zaj7ss6pdzhievxalnmjr`
+  - Lynnette Mutugi: `mvhx4jnxfv8iypvm03n0kfbi`
+  - Ryan Bolton-Smith: `c82bney6up4kwqzdxv1nmnbe`
+  - Sidi Ngade: `p2efd2ldv4bbl6mb1852jxpu`
+  - Mark McCracken: `xbkzey8z16ewfqbzv3vaf2yv`
+  - Oli Woolf: `zsre1u0k5nlmb02jgwrg5sh0`
+  - Jerry Chen: `e6t6aa9lo9doul2syr0ghgbf`
+  - Jocyline Owano: `td30uek3ilznqd4trd225ptr`
+  - Benjamin Fernandes (CEO): `gy4yo2xkxhamd46u8qgoga07`
+  - Nicolai Eddy (COO): `tehctkbuqsrr6su7ub2lir14`
+  - Markus Seebacher (HoE): `ez9e8p5fzwio58z4h0fietwi`
+  - Joshua Black (HoO): `cthvgnluk4aj26c8t98chu7p`
+  - Christos Petropoulos: `qnsl87qoztkq8xnq2beojoxi`
+  - Edoardo Foco: `zj4do0xv4eag5x1qdrf9kevc`
+  - Alessandro Colaneri: `f4tt2qq5g4sazs3mwca9j9cy`
+  - Chidi Onuekwusi: `ziu179q3ny2dzsjbv10j6n4i`
+- **Active pulses (recurring):**
+  - NALA Feedback Loop x5 (Eng & Prod, Operations, Finance/Treasury/People/IT/Data, Legal & Compliance, Revenue, Leadership & Exec) — 12-week cycle, last ran Jun 29
+  - Weekly People Ops Kick-off / Weekly Recruitment Kick-off — manual, paused since Apr 20
+  - Performance Review Feedback — one-time, completed May 25
+- **Stats available for any employee:** `feedback-given`, `feedback-received`, `one-on-one-meetings`, `one-on-one-agenda-edits`, `proactive-feedback-given`, `shoutouts-sent`, `slack-messages-sent`, `windmill-active-days`, plus code/Jira/Linear/meetings metrics
+- **1:1 pairs tracked:** Owen has 40+ pairs. Prep enabled for Lynnette and Ryan.
+- **Performance review cycles:** 1 completed — Spring Performance Review (Sep 2025 - Feb 2026)
+
 ## Earn Your Spot (EYS) — culture engine rules
 
 EYS is not a document — it's a living system embedded in how the brain processes every meeting, every interaction, every hire. These rules make it real.
@@ -121,7 +157,8 @@ Don't force it. Only flag genuine signals — not every comment maps to a value.
 
 ### 2. Manager accountability pulse (Wednesday, alongside hiring radar)
 Every Wednesday, surface a "Manager Health" check:
-- Pull Windmill "Feedback Given" stats if accessible (or ask Owen for latest export)
+- Pull Windmill `stats_query` for `feedback-given` and `one-on-one-meetings` per manager over the last 30 days (admin access = org-wide, no export needed)
+- Pull Windmill `feedback_query` for recent feedback by each manager to check quality, not just quantity
 - Cross-reference Calendar for 1:1 frequency per manager-report pair
 - Check People notes: who hasn't had an interaction logged in 3+ weeks?
 - Check meeting notes: which managers have open action items assigned to their reports that haven't closed?
@@ -131,7 +168,7 @@ Output: RAG per manager. Red = no feedback + cancelled 1:1s + stale interactions
 ### 3. Performance risk early warning (Friday reflection add-on)
 During the Friday reflection, scan for leading indicators across this week's meeting notes and Slack:
 - Same person named as blocker in 2+ meetings with no ownership taken
-- Manager hasn't given Windmill feedback in 4+ weeks
+- Manager hasn't given Windmill feedback in 4+ weeks (check via `stats_query` with `feedback-given`, aggregateBy `week`)
 - 1:1s cancelled 2+ weeks running (from Calendar)
 - Action items assigned but repeatedly not closed
 - Defensive communication patterns noted across multiple notes (like Sidi's)

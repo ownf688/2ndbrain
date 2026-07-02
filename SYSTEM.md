@@ -60,7 +60,7 @@ The brain itself is measured on the same Great/Good/Mediocre/Bad framework it us
 ┌─────────────────────────────────────────────────────────────────────┐
 │                        SOURCES                                       │
 │  Google Drive │ Notion │ Slack │ Workable │ Metaview │ Calendar │    │
-│  Gmail │ Manual paste                                                │
+│  Gmail │ Windmill │ Manual paste                                     │
 └──────────────┬───────────────┴────────┴───────┴──────────────────────┘
                │
                ▼
@@ -313,6 +313,20 @@ The brain reads from these systems via MCP (Model Context Protocol). They enrich
 ### HiBob (via Workable employees endpoint)
 - **What:** Employee data — active/inactive status, departments, roles
 - **When to use:** People-risk radar (who's new, who's leaving, probation dates); enriching People notes with current role/department; morning briefs when team changes are relevant
+
+### Windmill (NALA workspace — admin access)
+- **What:** Performance management platform — feedback (21+ entries), 1:1s (40+ pairs), pulse surveys (15 pulses, 5 recurring 12-week NALA Feedback Loops), weekly AI recaps, performance review cycles, org-wide engagement stats
+- **Access level:** Admin. Full visibility into all 248 employees — not limited to Owen's direct org. Can query feedback, stats, recaps, and 1:1 data for any employee or manager across NALA.
+- **When to use:**
+  - **Wednesday Manager Health Pulse (EYS):** `stats_query` for `feedback-given` + `one-on-one-meetings` per manager; `feedback_query` for quality checks
+  - **Friday Performance Risk Early Warning:** managers with zero `feedback-given` in 4+ weeks; stale 1:1 prep
+  - **Meeting-prep (before 1:1s):** pull recent feedback about the person + their weekly recaps via `weekly_recaps_query`
+  - **People note enrichment:** on-demand feedback history for EYS Evidence sections
+  - **Pulse monitoring:** response rates for NALA Feedback Loops; surface themes from pulse results
+  - **Recognition (EYS):** `feedback_create` with shoutout for values-in-action moments
+- **Key employee IDs:** Owen (`fsx5cs0ee67cgcmluemym6k8`), Peter (`vu1zaj7ss6pdzhievxalnmjr`), Lynnette (`mvhx4jnxfv8iypvm03n0kfbi`), Ryan (`c82bney6up4kwqzdxv1nmnbe`), Sidi (`p2efd2ldv4bbl6mb1852jxpu`), Mark (`xbkzey8z16ewfqbzv3vaf2yv`), Oli (`zsre1u0k5nlmb02jgwrg5sh0`), Jerry (`e6t6aa9lo9doul2syr0ghgbf`), Jocyline (`td30uek3ilznqd4trd225ptr`), Benji (`gy4yo2xkxhamd46u8qgoga07`), Nico (`tehctkbuqsrr6su7ub2lir14`), Markus (`ez9e8p5fzwio58z4h0fietwi`), Josh (`cthvgnluk4aj26c8t98chu7p`), Christos (`qnsl87qoztkq8xnq2beojoxi`), Edoardo (`zj4do0xv4eag5x1qdrf9kevc`), Alessandro (`f4tt2qq5g4sazs3mwca9j9cy`), Chidi (`ziu179q3ny2dzsjbv10j6n4i`)
+- **Useful stats:** `feedback-given`, `feedback-received`, `one-on-one-meetings`, `one-on-one-agenda-edits`, `proactive-feedback-given`, `shoutouts-sent`, `windmill-active-days`, `slack-messages-sent`, `code-prs-created`, `code-prs-merged`, `jira-issues-completed`, `linear-issues-completed`
+- **1:1 prep enabled for:** Lynnette Mutugi, Ryan Bolton-Smith
 
 ## Entity Resolution
 
@@ -577,6 +591,7 @@ The vault connects to external services via MCP (Model Context Protocol):
 | Metaview | Interview transcripts, scorecards, structured feedback | Cloud integration (claude.ai) |
 | Google Calendar | Schedule, attendees, event details | Cloud integration (claude.ai) |
 | Gmail | Email threads, drafts, send confirmation | Cloud integration (claude.ai) |
+| Windmill | Feedback, 1:1s, pulses, recaps, perf reviews, org stats | Cloud integration (claude.ai) |
 
 The `.mcp.json` in the vault root also has local MCP configs (Notion + Slack with `SLACK_MCP_TOKEN`), but the cloud integrations via claude.ai are the primary path.
 
@@ -679,7 +694,7 @@ These are enforced by the skills and should never be overridden:
 - **1 Brief** — Hiring 2026-07-02
 - **System cron active** — weekday 8am transcript pulls (permanent)
 - **Session crons defined** — daily ingest, commitment sweep, meeting-prep (30min), Wed hiring radar, Fri weekly reflection (ephemeral, re-set each session)
-- **All MCP servers connected** — Drive, Notion, Slack, Workable, Metaview, Calendar, Gmail (cloud integrations)
+- **All MCP servers connected** — Drive, Notion, Slack, Workable, Metaview, Calendar, Gmail, Windmill (cloud integrations)
 - **rclone + pandoc installed** — `~/.local/bin/` (no Homebrew, no sudo)
 - **Copilot Rules active** — 7 corrections logged, 6 decision heuristics, voice guidance established, draft corrections log initialized (no corrections yet)
 
