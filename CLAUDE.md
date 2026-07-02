@@ -96,6 +96,35 @@ The brain reads from these systems via MCP. They enrich People/Projects notes an
 
 ## Operational patterns
 
+### Commitment sweep + auto-draft (proactive, runs daily + on demand)
+Triggered by: morning cron, or user asks "what do I owe people" / "sweep"
+1. **Scan for open commitments Owen made:**
+   - Meeting notes: action items where DRI = [[Me]] that are still `- [ ]`
+   - Slack: messages where Owen said "I'll", "I will", "let me", "I owe you", "I need to" — cross-referenced against evidence of completion
+   - Gmail: threads where Owen is expected to reply (tagged, unanswered >24h)
+   - Calendar: upcoming deadlines from the Decisions log
+2. **For each open commitment, auto-research and draft:**
+   - Research what's needed (check Slack threads, Notion, Workable, People notes for context)
+   - Draft the deliverable: Slack message, email, document, or vault update
+   - Label each draft with confidence: "ready to send" vs "needs your input on X"
+3. **Present as a batch for review:**
+   - Format: `[OVERDUE/DUE TODAY/THIS WEEK] Commitment → Draft → [Approve / Edit / Skip]`
+   - Drafts use Owen's voice (direct, punchy, no fluff)
+   - External sends (Slack, email) require explicit approval per the non-negotiable rules
+4. **After Owen reviews:**
+   - Approved drafts → execute (send draft via Gmail/Slack MCP, or write to vault)
+   - Edited drafts → log the correction (see "Correction logging" below)
+   - Skipped items → carry forward with reason
+
+### Correction logging (how the brain learns)
+When Owen edits a draft before approving:
+1. Log the original draft and the final version to `/Copilot Rules.md` under a new `## Draft corrections log` section
+2. Extract the *pattern* — what was changed and why (tone? wrong audience? missing context? over-hedged?)
+3. After 3+ similar corrections, promote to a standing rule (e.g. "don't open Slack messages with 'Hi team' — Owen goes straight to the point")
+4. Periodically consolidate: merge specific corrections into general rules, archive the specifics
+
+This is how the brain stops repeating the same mistakes and learns Owen's voice, judgment, and preferences over time.
+
 ### Meeting-prep lookahead (before each call)
 Triggered by: user asks "prep me for my next meeting" or "what's on today"
 1. Pull today's calendar events

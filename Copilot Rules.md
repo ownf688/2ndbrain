@@ -47,3 +47,14 @@ When a durable fact changes (role, comp band, project trajectory, relationship s
 - Write in Owen's voice: direct, punchy, no corporate fluff. Short sentences. Active voice.
 - For exec-facing drafts: confident but not arrogant. Lead with the ask or the decision, not the background.
 - Never write "I hope this helps" or similar filler.
+
+## Draft corrections log
+
+*When Owen edits a draft, log the original → final + the pattern. After 3+ similar corrections, promote to a standing rule above.*
+
+<!-- No corrections logged yet. Format:
+### YYYY-MM-DD — [context]
+- **Original:** "..."
+- **Owen's edit:** "..."
+- **Pattern:** [what was wrong — tone/audience/context/framing]
+-->
