@@ -82,6 +82,26 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 
 ## Updates
 
+### 2026-07-02 — Health: Good
+
+**Deltas (from Metaview interviews + Slack):**
+- **GHoC — Abimbola Rodgers screened with Peter.** Strong compliance builder (HSBC → MyPOS → Ebury → PayAlly → B4B). Built Ebury compliance from 1 to 26 people during Section 166. Led global team across UK, Europe, APAC, Canada, Brazil, Singapore. FCA regulatory call experience. Leaving B4B due to restructuring. Located Hornchurch (Greater London). Nigerian heritage.
+- **GHoC — Karanjit Randhawa screened by Mark.** CRO at FEEVA, 3.5 years. Designed cross-jurisdiction oversight model. Commercially minded ("not a no person"). Proactive regulator management. Base ask: $250k (upper end of range). 3-month notice but already told employer; on extended leave arrangement. Strong but expensive.
+- **Senior Backend — Helina Berhane pair programming.** Coding interview (Go, transaction limits). Solid overall; needed nudge on float precision and pagination.
+- **Senior Backend — Shristy Bhati pair programming.** Clean code structure, good separation of concerns. Session ended before completing all 5 rules. Partial implementation.
+- **Senior Backend — Filippo Vicini talent screen.** Fresh grad from City University London. Has Microsoft return offer. 1-1.5 months to decide. Likes Go, interested in infra/DevOps. Founding engineer experience at a startup.
+- **W&C Manager — Annanya Jain screened by Owen.** Advance with caveats. Feedback posted to Workable. SOC code check needed for sponsorship.
+- **Growth Manager Ghana — Josephine screened.** No Metaview summary available.
+- Mark proposed running GHoC stages in parallel (Ben, Tom, Michael Heider, Karanjit). Peter: "want to see a couple more folks before we close." Nico liked the Kraken candidate (today).
+- Himanshu Roy disqualified (4-day RTO incompatibility)
+- Florence (MLRO) postponed to next week
+- Oli Woolf formally introduced in 3 engineering hiring channels
+
+**Risks:**
+- GHoC comp range pressure — Karanjit at $250k base, upper end. If multiple candidates land there, budget conversation needed with Peter.
+- Backend pair programming throughput — Simeon flagged engineers double-booked with interviews while handling incidents. Policy set but not yet operationalized.
+- Workplace & Culture Manager — SOC code sponsorship eligibility unconfirmed for Annanya. Could be a blocker.
+
 ### 2026-06-29 — Health: Good
 
 **Deltas:**
@@ -101,4 +121,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [2026-06-29] EU remote hiring approved by Benji — source: [[2026-06-29 - Eng leads weekly]]
 - [2026-06-29] Weekly recruiter targets: 20 events + 100-130 emails — source: [[2026-06-29 - Weekly talent kick off call]]
 - [2026-06-29] Engineering recruiting to transfer from Ryan to Oli Woolf — source: [[2026-06-29 - Weekly talent kick off call]]
+- [2026-07-02] Himanshu Roy disqualified from GHoC — 4-day in-office non-negotiable — source: [[2026-07-02 - Disqualify Himanshu Roy from GHoC]]
+- [2026-07-02] GHoC stages to run in parallel (Ben Ellis, Tom, Gowtham, Michael Heider, Karanjit) — source: Slack #hiring-head-of-compliance-and-risk
+- [2026-06-30] AMLCO (EU) and EU Managing Director roles launched — source: Slack #hiring-amlco, #hiring-eu-managing-director
 - [2026-07-02] Himanshu Roy (GHoC) disqualified — unwilling to meet 4-day in-office requirement; no flex granted
