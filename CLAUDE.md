@@ -130,28 +130,46 @@ The brain reads from these systems via MCP. They enrich People/Projects notes an
 - **1:1 pairs tracked:** Owen has 40+ pairs. Prep enabled for Lynnette and Ryan.
 - **Performance review cycles:** 1 completed — Spring Performance Review (Sep 2025 - Feb 2026)
 
+### QuantumLight Playbook (reference — not a live system)
+- **What:** The Revolut performance management playbook, distilled. Covers assessment (3 dimensions, 5 grades), scorecards, promotions, handling poor performance, compensation, bonuses.
+- **Where it lives:**
+  - Notion: [Performance Management hub](https://app.notion.com/p/38c56eaacda581cca8e6cbd1e7f335ee) (7 child pages)
+  - Raw files: `~/Library/Application Support/Claude/local-agent-mode-sessions/.../outputs/QuantumLight-Performance-Raw/` (10 files including transcribed scorecards)
+  - Vault: `/Knowledge/The QuantumLight system - three dimensions five grades exponential rewards.md`
+- **When to use:** When reasoning about performance assessments, promotion decisions, compensation philosophy, PIP design, or calibration. The principles are encoded in `/Copilot Rules.md` under "QuantumLight performance principles". The NALA value scorecards (QL format) are in the EYS project note.
+- **How to use:** As a reference layer alongside NALA values, not a replacement. NALA is ~80 people, not 6,000. Take the principles, adapt the process.
+
 ## Earn Your Spot (EYS) — culture engine rules
 
-EYS is not a document — it's a living system embedded in how the brain processes every meeting, every interaction, every hire. These rules make it real.
+EYS is not a document — it's a living system embedded in how the brain processes every meeting, every interaction, every hire. These rules make it real. The QuantumLight/Revolut playbook provides the structured assessment framework (three dimensions, five grades, exponential rewards); NALA values provide the culture veto layer.
 
 ### 1. Values-in-action evidence engine (during every meeting ingestion)
 When distilling meeting notes, add an extra pass: scan for moments where NALA values were **demonstrated or violated**. Flag each with the value and a verbatim quote. Append to the person's `## EYS Evidence` section in their People note.
 
-Format:
+Format (three dimensions, modelled on QuantumLight's Deliverables/Skills/Culture framework):
 ```
-### Performance (skills + impact)
-- [YYYY-MM-DD, [[Meeting]]] <what they did> — evidence of <skill/impact>
+### Deliverables (speed + quality + complexity)
+- [YYYY-MM-DD, [[Meeting]]] <what they shipped/delivered> — evidence of <speed/quality/complexity>
+
+### Skills (role competencies)
+- [YYYY-MM-DD, [[Meeting]]] <skill demonstrated> — evidence of <proficiency level>
 
 ### Values
 - [YYYY-MM-DD, [[Meeting]]] Positive: <behavior> — *<Value>*
 - [YYYY-MM-DD, [[Meeting]]] Watch: <behavior> — *<Value> gap*
 ```
 
-Values to flag against:
+**Deliverables** = output discipline (did they ship, on time, to standard, at what complexity?). Separate from Skills because someone can be an expert who doesn't deliver.
+
+**Skills** = role-specific competencies. Use the same bar as hiring - the competencies that got someone in are the competencies they're measured against.
+
+**Values** flag against NALA's four values (full scorecards with QL-format behaviour statements are in the EYS project note):
 - **Customers First** — candidate/employee experience, responsiveness, proactive communication
 - **Play to Win** — ownership, accountability, driving outcomes, not letting things slide
 - **Speed Wins** — bias to action, async-first, opinionated calls, shipping
 - **Understand Why** — root-cause thinking, evidence-based reasoning, learning from failure
+
+**Critical rule: Poor in any single value = overall concern regardless of delivery.** A great shipper who violates a value is not an A-player. Values have veto power.
 
 Don't force it. Only flag genuine signals — not every comment maps to a value. "Watch" items are coaching prompts, not accusations.
 

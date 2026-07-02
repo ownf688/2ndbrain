@@ -87,6 +87,82 @@ Earn Your Spot, EYS, performance, Windmill, feedback, calibration, rubric, value
 - Manager training is a large scope item with no timeline — could slip past Q3
 - Employee handbook cleanup could consume working session time meant for EYS
 
+## NALA Value Scorecards (QL format)
+
+Modelled on the QuantumLight/Revolut culture scorecards. Yes/no behaviour statements ascending by level. The first "No" fixes the level. **Poor in any single value = overall concern regardless of delivery.**
+
+### Customers First, Always
+
+| Level | Behaviour |
+|-------|-----------|
+| Poor | Lets candidate or employee queries go unanswered for days without acknowledgement. |
+| Poor | Makes decisions about people processes without considering the end-user experience. |
+| Poor | Treats internal stakeholders (hiring managers, employees) as interruptions rather than customers. |
+| Basic | Responds to candidate and employee queries within SLA. |
+| Basic | Designs processes with the end-user experience in mind. |
+| Basic | Proactively communicates status updates without being chased. |
+| Basic | Treats silence as a failure - no application, request, or question sits in a black hole. |
+| Intermediate | Anticipates customer needs before they surface - flags risks, prepares managers, pre-empts questions. |
+| Intermediate | Closes feedback loops: every survey response, every complaint, every request gets a visible action or honest "not now." |
+| Intermediate | Measures and improves experience quality (candidate NPS, time-to-response, manager satisfaction). |
+| Advanced | Builds systems that make great experience the default, not the exception. |
+| Advanced | Coaches others to think customer-first in their own processes. |
+| Exceptional | The experience they create becomes a competitive advantage - candidates and employees talk about it externally. |
+
+### Play to Win
+
+| Level | Behaviour |
+|-------|-----------|
+| Poor | Defers decisions, avoids accountability, passes problems sideways. |
+| Poor | Responds to direct feedback with defensiveness or explanation rather than correction. |
+| Poor | Lets commitments slide without flagging or renegotiating. |
+| Basic | Takes ownership of outcomes, not just effort. Drives tasks to completion without chasing. |
+| Basic | Receives feedback calmly and acts on it. |
+| Basic | Holds themselves and others to deadlines. When something slips, they flag it and propose a fix. |
+| Basic | Direct problem-solving, not ping-pong. |
+| Intermediate | Sets the bar for their area - doesn't wait to be told what "good" looks like. |
+| Intermediate | Holds peers accountable, not just direct reports. Challenges respectfully when standards drop. |
+| Intermediate | Makes hard calls: exits underperformers, kills failing projects, says no to low-value work. |
+| Advanced | Builds accountability into systems so it doesn't depend on individual discipline. |
+| Advanced | Drives outcomes across teams they don't directly control - influences without authority. |
+| Exceptional | Their presence raises the performance bar for everyone around them. The team measurably performs better because they're in it. |
+
+### Speed Wins
+
+| Level | Behaviour |
+|-------|-----------|
+| Poor | Defaults to meetings when async would work. Over-processes simple decisions. |
+| Poor | Buries the answer in context rather than leading with it. |
+| Poor | Creates information silos by communicating in DMs rather than shared channels. |
+| Basic | Defaults to async, single-source-of-truth communication. |
+| Basic | Leads with the answer, then the reasoning. Execs never have to chase for the point. |
+| Basic | Ships at 80% data, 20% intuition. Doesn't wait for certainty. |
+| Basic | Communicates in public channels, not DMs. Leads with context. |
+| Intermediate | Makes opinionated calls and states confidence level. Reviews and recalibrates later. |
+| Intermediate | Gets lighter as they grow - their processes scale without proportional overhead. |
+| Intermediate | Unblocks others proactively. Spots bottlenecks before they become blockers. |
+| Advanced | Builds systems and automations that remove humans from repetitive loops. |
+| Advanced | Their area moves faster than the rest of the org because of how they've structured the work. |
+| Exceptional | Redefines what's possible in the time available. Delivers outcomes that should take a quarter in weeks. |
+
+### Understand Why
+
+| Level | Behaviour |
+|-------|-----------|
+| Poor | Accepts surface-level explanations. Doesn't ask "why" when something goes wrong. |
+| Poor | Repeats the same mistakes across cycles without extracting the lesson. |
+| Poor | Makes assertions without evidence. Single-source conclusions. |
+| Basic | Asks "why" at least twice before accepting a root cause. |
+| Basic | Logs the reasoning behind decisions, not just the decision. |
+| Basic | Triangulates - never asserts from a single data point or a single conversation. |
+| Basic | Reviews past decisions honestly: right-for-right-reasons, right-but-lucky, or wrong-but-learned. |
+| Intermediate | Builds institutional memory - their learnings benefit people who come after them. |
+| Intermediate | Identifies patterns across multiple incidents and promotes them to standing rules or processes. |
+| Intermediate | Challenges "that's how we've always done it" with evidence for a better way. |
+| Advanced | Creates feedback loops that make the system learn automatically (corrections promote to rules, predictions get reviewed). |
+| Advanced | Their root-cause analyses change how the org operates, not just how their team operates. |
+| Exceptional | Calibrates judgment so well that their intuition is data-informed. Others trust their calls because they have a track record of being right for the right reasons. |
+
 ## Decision log
 
 - [2026-07-02] Performance scored on two axes: performance (skills + impact) and values (non-negotiable) — source: [[2026-07-02 - Owen Lynette 1-1]]

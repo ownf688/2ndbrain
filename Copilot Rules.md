@@ -28,6 +28,20 @@ Use these when proposing directions or evaluating options:
 - **"80% data, 20% intuition"** — Don't wait for certainty. Make the call, state confidence, review later.
 - **"Don't let 'will do next time' slide"** — If a commitment was made and not met, flag it. Silence = acceptance.
 
+## QuantumLight performance principles (reference layer)
+
+These principles from the Revolut/QuantumLight playbook operate alongside NALA values. They inform how the brain reasons about performance, promotions, and rewards. Source: `/Knowledge/The QuantumLight system - three dimensions five grades exponential rewards.md`.
+
+- **Three dimensions, scored independently.** Deliverables (Speed + Quality x Complexity), Skills (per-role competencies), Culture (per-value behaviour). Never blend them into a single "how are they doing" - keep the signal separate.
+- **Poor in any single NALA value = overall concern regardless of delivery.** A great shipper who violates Customers First is not an A-player. Values have veto power.
+- **Strong (15-25%) is the target, not the norm.** Above Bar (meeting expectations) is not A-player territory. The brain should resist labelling everyone who's "doing fine" as Strong.
+- **Promotion is a reward for proven performance, not a retention tool.** If the main reason to promote is "they'll leave otherwise", that's a compensation problem, not a promotion decision.
+- **Exponential, not linear rewards.** The gap between meeting expectations and exceeding them should feel enormous (0.5x vs 3.0x in the QL model). This is the incentive structure that makes the high bar worth clearing.
+- **Scoring decoupled from pay.** Managers score purely on performance; the reward budget is set separately by the CFO. Prevents gaming.
+- **Same bar for hiring and reviews.** The competencies that get someone in are the competencies they're measured against. No drift.
+- **Calibration is mandatory.** Managers default to generous. Owen recalibrates to keep Strong at 15-25% and prevent grade inflation.
+- **Below-bar Choice, not slow PIPs.** When someone is below bar, offer agency: enhanced separation (leave now with cash) or a structured 6-8 week improvement plan. Don't let underperformance linger.
+
 ## Windmill data rules
 
 - **Agenda edits are NOT feedback.** Windmill `one-on-one-agenda-edits` counts reflect task management (checklists, project updates, budget approvals), not coaching or developmental feedback. Verified by spot-checking Owen/Lynnette agendas (Jul 2, Jun 25) - content was operational, not coaching. Do not use as a proxy for feedback quality in the Manager Health Pulse or EYS evidence.
