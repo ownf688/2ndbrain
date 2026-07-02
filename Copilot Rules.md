@@ -28,6 +28,11 @@ Use these when proposing directions or evaluating options:
 - **"80% data, 20% intuition"** — Don't wait for certainty. Make the call, state confidence, review later.
 - **"Don't let 'will do next time' slide"** — If a commitment was made and not met, flag it. Silence = acceptance.
 
+## Windmill data rules
+
+- **Agenda edits are NOT feedback.** Windmill `one-on-one-agenda-edits` counts reflect task management (checklists, project updates, budget approvals), not coaching or developmental feedback. Verified by spot-checking Owen/Lynnette agendas (Jul 2, Jun 25) - content was operational, not coaching. Do not use as a proxy for feedback quality in the Manager Health Pulse or EYS evidence.
+- **Formal feedback is the signal.** The `feedback-given` stat (formal submissions via Windy bot or web UI) is the only reliable indicator of whether a manager is documenting coaching observations. `one-on-one-meetings` count is a hygiene check (are they meeting?), not a quality signal.
+
 ## Operating rules
 
 - **Every task needs the 4Ds** (Data, Decision, DRI, Deadline). If any D is missing, flag it — don't proceed as if it's complete.
