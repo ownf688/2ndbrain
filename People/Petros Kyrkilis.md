@@ -1,0 +1,18 @@
+---
+aliases: [Petros Kyrkilis, Petros]
+company: NALA
+role: Engineering
+tags: [person]
+---
+
+# Petros Kyrkilis
+
+First met in [[2026-06-29 - Eng leads weekly]].
+
+## Context
+
+Engineering at NALA. Mentioned by Owen as having reassured him about Claude data privacy logging.
+
+## Interactions
+
+- [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Participant (did not speak in captured transcript)

@@ -1,0 +1,10 @@
+# Obsidian per-device state — keep the rest of .obsidian/ (settings, plugins) versioned
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Claude Code per-machine overrides (the shared baseline is .claude/settings.json)
+.claude/settings.local.json
+
+.DS_Store
+.trash/
