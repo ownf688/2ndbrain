@@ -339,7 +339,7 @@ Skills under `/.claude/skills/` are **symlinks into the nala-brain clone** — t
 - `**ingest-meeting**` — pure consumer: distills a normalized transcript artifact (produced by a `pull-*` skill, recognised by `format_version:` frontmatter) into `/Meetings/`, propagates updates to `/People/` and the matched `/Projects/` note, and flags `/Knowledge/` candidates. Read its SKILL.md before using.
 - `**normalize-meeting**` — cleans up legacy meeting notes already in `/Meetings/` (pre-canonical-format, AI summaries, fragments). Different routing per format detected.
 - `**morning-brief**` / `**update-project**` — project trajectory brief and project-note updater; see their SKILL.md files.
-- `**pull-gdrive-transcripts**` / `**pull-notion-transcripts**` — transcript producers (user-level, `~/.claude/skills/`); they emit the normalized artifact `ingest-meeting` consumes.
+- `**pull-gdrive-transcripts**` / `**pull-notion-transcripts**` / `**pull-metaview-transcripts**` — transcript producers (user-level, `~/.claude/skills/`); they emit the normalized artifact `ingest-meeting` consumes. The Metaview producer pulls full interview transcripts with interviewer/candidate attribution and interview-specific frontmatter (`type: interview`, `interviewer`, `candidate`, `role`) for EYS hiring-as-culture-carrier processing.
 - `**setup-brain**` — first-run personalization of this vault. Safe to re-run.
 
 ## Non-negotiable rules in the ingest-meeting skill
@@ -394,7 +394,7 @@ Material decisions are logged to `/Decisions/` using the 4D template. Rules:
 
 ## Operating cadence
 
-- **Daily** — 8am: ingest yesterday's transcripts (with values-in-action flagging + recognition drafts) + morning brief + commitment sweep. Before each call: meeting-prep lookahead.
+- **Daily** — 8am: pull yesterday's transcripts from Google Drive (system cron, zero tokens) + pull yesterday's interviews from Metaview (`pull-metaview-transcripts`, agent-mediated) + ingest all artifacts (with values-in-action flagging + interviewer attribution + recognition drafts) + morning brief + commitment sweep. Before each call: meeting-prep lookahead.
 - **Wednesday** — Hiring radar + Manager health pulse (EYS). RAG per role AND per manager.
 - **Friday** — Weekly reflection (What/So What/Now What/When): review decisions due, score predictions, promote Knowledge notes, performance risk early warning, recognition check.
 - **Monthly** — Full memory consolidation + "State of People" brief + Cost of Mediocrity evidence summary for exec use.
