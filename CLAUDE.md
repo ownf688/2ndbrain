@@ -57,6 +57,72 @@ After any meeting or interaction with an executive ([[Benji]], Nico, [[Peter Gul
 
 Read `/Copilot Rules.md` at the start of every session. It contains persistent corrections, decision heuristics, and operating rules that override defaults.
 
+## Connected source systems
+
+The brain reads from these systems via MCP. They enrich People/Projects notes and power briefs, radars, and meeting prep. All are read-only — writes require explicit confirmation.
+
+### Workable (`nalamoney`)
+- **What:** ATS — open roles, candidates, pipeline stages, scorecards
+- **When to use:** Wednesday hiring radar; morning briefs on Hiring; when ingesting interview meetings (cross-reference candidate status); when a name appears in a transcript and you need to check their application
+- **Pipeline stages:** Sourced → Applied → Phone Screen → Interview → Practical Test → Behavioural Interview → Final Interview → References → Offer → Hired
+- **Role shortcodes (current):**
+  - Growth Manager Ghana: `AD4B0D198A`
+  - Senior Backend Engineer: `2E2F7AE3AD`
+  - Growth Manager Francophone Africa: `8B43BC7310`
+  - Europe MLRO: `9BF8A8830F`
+  - Lead Engineer Collections & Treasury: `802FA8ECC9`
+  - EU Managing Director: `528FBBD194`
+  - Senior Platform Engineer: `B9B65FF169`
+  - Senior FX Sales & Trading Lead: `92AAEDACE6`
+
+### Metaview (NALA workspace)
+- **What:** Interview transcripts, AI-generated summaries, candidate scorecards, feedback
+- **When to use:** After ingesting an interview meeting — pull the Metaview conversation for richer data (scorecard, structured feedback); during hiring radar to check interview quality metrics; when enriching People notes for interviewers
+- **Scale-aware:** 1-5 conversations → full transcripts; 5-20 → summaries; 20+ → use AI fields
+
+### Google Calendar
+- **What:** Owen's schedule — meetings, attendees, locations, Workable interview links
+- **When to use:** Meeting-prep lookahead (before each call, surface relevant People/Projects notes + last interaction + open action items); daily morning brief (what's on today); identifying exec meetings for follow-up triggers
+- **Exec meeting detection:** Any event with Benji, Nico (nicolai.eddy@nala.money), or Peter Gulliver triggers the executive follow-up rule after ingestion
+
+### Gmail
+- **What:** Email threads, drafts
+- **When to use:** When a brief or meeting references an email action ("I sent Peter the req pack"); to check if an expected reply arrived; to draft follow-up emails after exec meetings
+- **Privacy:** Never read email bodies unless explicitly asked. Search by subject/sender to confirm existence, not to surveil.
+
+### HiBob (via Workable employees endpoint)
+- **What:** Employee data — active/inactive status, departments, roles
+- **When to use:** People-risk radar (who's new, who's leaving, probation dates); enriching People notes with current role/department; morning briefs when team changes are relevant
+
+## Operational patterns
+
+### Meeting-prep lookahead (before each call)
+Triggered by: user asks "prep me for my next meeting" or "what's on today"
+1. Pull today's calendar events
+2. For each upcoming meeting with attendees:
+   - Surface their `/People/` note (last interaction, open items, coaching notes)
+   - Surface relevant `/Projects/` note if the meeting touches a tracked project
+   - Check Slack for recent messages from/about attendees
+   - For interview meetings: pull Metaview conversation + Workable candidate status
+3. Output: What/So What/Now What/When for each meeting
+
+### Wednesday hiring radar
+Triggered by: user asks "hiring radar" or on Wednesday cadence
+1. Pull all open roles from Workable with candidate counts per stage
+2. Search Slack `hiring-*` channels for new channels not in Hiring.md canonical list
+3. Pull Metaview interview counts by role for the last 7 days
+4. Cross-reference with Hiring.md critical-path items
+5. Output: RAG board (Red/Amber/Green per role), stale pipelines, suggested actions
+6. Format: What/So What/Now What/When
+
+### Friday weekly reflection
+Triggered by: user asks "weekly reflection" or on Friday cadence
+1. Pull this week's calendar events to reconstruct the week
+2. Read all meeting notes from `/Meetings/` this week
+3. Surface decisions from `/Decisions/` whose `review_date` falls this week
+4. Check Knowledge note candidates flagged but not promoted
+5. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration)
+
 ## Layout
 
 ```

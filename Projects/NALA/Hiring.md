@@ -23,6 +23,19 @@ Recruiting pipeline across engineering, compliance, and growth roles. Owned by [
 - "Bad" is about systemic pipeline failure, not a single hard-to-fill role
 - EU remote hiring unlock (approved 2026-06-29) is a structural improvement — factor into trajectory
 
+## Workable roles (live shortcodes)
+
+| Role | Shortcode | Department | Location |
+|------|-----------|------------|----------|
+| Growth Manager - Ghana | `AD4B0D198A` | Growth | London (on-site) |
+| Senior Backend Engineer | `2E2F7AE3AD` | Backend Engineering | London (hybrid) |
+| Growth Manager - Francophone Africa | `8B43BC7310` | Growth | Paris (remote) |
+| Europe MLRO | `9BF8A8830F` | Compliance | Brussels (remote) |
+| Lead Engineer - Collections & Treasury | `802FA8ECC9` | Backend Engineering | London (hybrid) |
+| EU Managing Director | `528FBBD194` | Compliance | Brussels (on-site) |
+| Senior Platform Engineer | `B9B65FF169` | Engineering | London (on-site) |
+| Senior FX Sales & Trading Lead | `92AAEDACE6` | Trading | London (on-site) |
+
 ## Project keywords
 
 Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, pair programming, talent screen, top-of-funnel, headcount, offer, MLRO, Global Head of Compliance, Growth Manager, Platform Engineer, Backend Engineer
