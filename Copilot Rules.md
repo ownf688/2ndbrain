@@ -11,8 +11,11 @@ tags: [meta, copilot]
 - "Peter req pack" was surfaced from Slack AI briefs as a hiring item — Owen has no context on it. Don't surface items from Slack AI summaries that Owen hasn't explicitly created or acknowledged.
 - "City" in transcripts = Sidi Ngade, not Jocyline Owano.
 - Himanshu Roy (GHoC candidate) disqualified 2026-07-02 — 4-day in-office is non-negotiable for this role. Don't resurface him.
-- **UK Private Medical Insurance (PMI) + Life Cover is APPROVED and in setup.** Provider is Kota. UBO info collected Jul 1. Stop flagging as pending/needing sign-off. Target launch: August 2026. Annual cost: £30-40k.
+- **UK Private Medical Insurance (PMI) + Life Cover is APPROVED and in setup.** Provider is Kota. UBO info collected Jul 1. Stop flagging as pending/needing sign-off. Target launch: August 2026. Annual cost: £30-40k. Benji wants to announce in-person during London office week of Jul 12.
 - **CFO Directorate Team Meeting is NOT an exec 1:1.** It's a large-ish call with people outside the People team and exec team (Ops, Finance, Rafiki). Do NOT suggest raising sensitive People topics (PMI, reward budgets, performance frameworks, comp, settlements) in this forum. Those go to Peter in 1:1 or a private Slack DM. Only raise items relevant to the full directorate (cross-functional updates, shared priorities, hiring timelines that affect the group).
+- **Owen chased Peter on L&D invoice on Jul 2 at 12:36** (DM to Peter with both L&D and Ryan WFH requests). Don't re-surface as "not done."
+- **Owen spoke to Chidi about UK work arrangements.** "Chi" in eng leads weekly = "Chidi" in Owen's usage. Add alias.
+- **General rule: before flagging something as "not done", search Slack DMs and Gmail for evidence Owen already actioned it.** Surfacing completed items as overdue is frustrating and erodes trust.
 
 ## Decision heuristics (Owen's + Jerry's)
 
