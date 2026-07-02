@@ -94,6 +94,96 @@ The brain reads from these systems via MCP. They enrich People/Projects notes an
 - **What:** Employee data — active/inactive status, departments, roles
 - **When to use:** People-risk radar (who's new, who's leaving, probation dates); enriching People notes with current role/department; morning briefs when team changes are relevant
 
+## Earn Your Spot (EYS) — culture engine rules
+
+EYS is not a document — it's a living system embedded in how the brain processes every meeting, every interaction, every hire. These rules make it real.
+
+### 1. Values-in-action evidence engine (during every meeting ingestion)
+When distilling meeting notes, add an extra pass: scan for moments where NALA values were **demonstrated or violated**. Flag each with the value and a verbatim quote. Append to the person's `## EYS Evidence` section in their People note.
+
+Format:
+```
+### Performance (skills + impact)
+- [YYYY-MM-DD, [[Meeting]]] <what they did> — evidence of <skill/impact>
+
+### Values
+- [YYYY-MM-DD, [[Meeting]]] Positive: <behavior> — *<Value>*
+- [YYYY-MM-DD, [[Meeting]]] Watch: <behavior> — *<Value> gap*
+```
+
+Values to flag against:
+- **Customers First** — candidate/employee experience, responsiveness, proactive communication
+- **Play to Win** — ownership, accountability, driving outcomes, not letting things slide
+- **Speed Wins** — bias to action, async-first, opinionated calls, shipping
+- **Understand Why** — root-cause thinking, evidence-based reasoning, learning from failure
+
+Don't force it. Only flag genuine signals — not every comment maps to a value. "Watch" items are coaching prompts, not accusations.
+
+### 2. Manager accountability pulse (Wednesday, alongside hiring radar)
+Every Wednesday, surface a "Manager Health" check:
+- Pull Windmill "Feedback Given" stats if accessible (or ask Owen for latest export)
+- Cross-reference Calendar for 1:1 frequency per manager-report pair
+- Check People notes: who hasn't had an interaction logged in 3+ weeks?
+- Check meeting notes: which managers have open action items assigned to their reports that haven't closed?
+
+Output: RAG per manager. Red = no feedback + cancelled 1:1s + stale interactions. Green = consistent feedback rhythm + active coaching evidence.
+
+### 3. Performance risk early warning (Friday reflection add-on)
+During the Friday reflection, scan for leading indicators across this week's meeting notes and Slack:
+- Same person named as blocker in 2+ meetings with no ownership taken
+- Manager hasn't given Windmill feedback in 4+ weeks
+- 1:1s cancelled 2+ weeks running (from Calendar)
+- Action items assigned but repeatedly not closed
+- Defensive communication patterns noted across multiple notes (like Sidi's)
+- Person mentioned only in negative/concern contexts, never in positive
+
+Surface as: "Performance signals to investigate" — not conclusions. The brain flags, Owen investigates.
+
+### 4. "Cost of doing nothing" evidence (accumulating, surfaced monthly)
+Track and quantify the cost of mediocre performance across Owen's domain:
+- **Hiring:** roles open 60+ days, candidates ghosted (applications unreviewed from Workable), time-to-response on scheduling requests
+- **People:** overdue probation reviews, stale 1:1s, unactioned performance concerns carried for 3+ meetings
+- **Ops:** same person as a bottleneck across multiple project critical-paths
+
+Accumulate in a `/Briefs/Cost of Mediocrity/` rolling note. Surface the strongest data points in Owen's monthly "State of People" brief and in exec prep. This is the 4D *Data* that makes the case for EYS as a CEO initiative.
+
+### 5. Hiring as culture carrier (during interview ingestion)
+When ingesting interview meetings (from Metaview or transcripts):
+- Score the candidate's responses against NALA values — not just competence
+- Flag value-positive and value-concerning signals with verbatim quotes
+- Add a `## Values alignment` section to the interview meeting note, after Key Discussion Points
+
+Format:
+```
+## Values alignment
+
+| Value | Signal | Evidence |
+|-------|--------|----------|
+| Customers First | Positive | "I always think about the candidate experience first" |
+| Play to Win | Neutral | No strong signal either way |
+| Understand Why | Positive | Asked probing questions about NALA's regulatory strategy |
+```
+
+This means the hiring process embodies EYS before someone even joins — and gives calibration-quality evidence from day zero.
+
+### 6. Recognition amplification (during every meeting ingestion)
+When the brain detects positive signals during ingestion — someone shipping under pressure, a values moment, exceptional ownership — auto-draft a recognition post for Owen to approve:
+- **Windmill Shoutout** (if the evidence is specific enough for public praise)
+- **Slack recognition** (for team-facing channels)
+- **People note highlight** (always — this is the living scorecard)
+
+Present alongside the meeting note approval gate: "Recognition draft: [Approve / Edit / Skip]". Make recognition a system output, not something Owen has to remember.
+
+### 7. Living scorecard (People notes — EYS Evidence section)
+Every NALA employee's People note has a `## EYS Evidence` section with two subsections: `### Performance (skills + impact)` and `### Values`. This accumulates throughout the quarter from:
+- Meeting ingestion (values-in-action engine)
+- Interview ingestion (for new hires, from day zero)
+- Recognition events
+- Coaching observations (from 1:1 notes)
+- Performance risk signals
+
+When review time comes, the packet is already built. Managers don't write from a blank page; they curate from months of accumulated evidence. Owen and Lynnette act as stewards of evidence quality.
+
 ## Operational patterns
 
 ### Commitment sweep + auto-draft (proactive, runs daily + on demand)
@@ -135,14 +225,21 @@ Triggered by: user asks "prep me for my next meeting" or "what's on today"
    - For interview meetings: pull Metaview conversation + Workable candidate status
 3. Output: What/So What/Now What/When for each meeting
 
-### Wednesday hiring radar
+### Wednesday hiring + manager health radar
 Triggered by: user asks "hiring radar" or on Wednesday cadence
+**Part 1 — Hiring radar:**
 1. Pull all open roles from Workable with candidate counts per stage
 2. Search Slack `hiring-*` channels for new channels not in Hiring.md canonical list
 3. Pull Metaview interview counts by role for the last 7 days
 4. Cross-reference with Hiring.md critical-path items
 5. Output: RAG board (Red/Amber/Green per role), stale pipelines, suggested actions
-6. Format: What/So What/Now What/When
+
+**Part 2 — Manager health pulse (EYS):**
+1. Check People notes: which reports haven't had an interaction logged in 3+ weeks?
+2. Check Calendar: which 1:1s were cancelled or didn't happen this week?
+3. Check EYS Evidence sections: which managers have zero values/performance entries in the last month?
+4. Output: RAG per manager with specific coaching prompts
+5. Format: What/So What/Now What/When
 
 ### Friday weekly reflection
 Triggered by: user asks "weekly reflection" or on Friday cadence
@@ -150,7 +247,9 @@ Triggered by: user asks "weekly reflection" or on Friday cadence
 2. Read all meeting notes from `/Meetings/` this week
 3. Surface decisions from `/Decisions/` whose `review_date` falls this week
 4. Check Knowledge note candidates flagged but not promoted
-5. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration)
+5. **Performance risk early warning (EYS):** scan for leading indicators — blockers without owners, stale 1:1s, defensive patterns, unresolved action items
+6. **Recognition check:** did anything positive happen this week that deserves a Shoutout or recognition post? Draft if yes.
+7. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration + performance signals + recognition drafts)
 
 ## Layout
 
@@ -230,10 +329,10 @@ Material decisions are logged to `/Decisions/` using the 4D template. Rules:
 
 ## Operating cadence
 
-- **Daily** — 8am: ingest yesterday's transcripts + morning brief. Before each call: meeting-prep lookahead.
-- **Wednesday** — Hiring radar across open reqs.
-- **Friday** — Weekly reflection (What/So What/Now What/When): review decisions due, score predictions, promote Knowledge notes, run consolidation pass.
-- **Monthly** — Full memory consolidation + "State of People" brief.
+- **Daily** — 8am: ingest yesterday's transcripts (with values-in-action flagging + recognition drafts) + morning brief + commitment sweep. Before each call: meeting-prep lookahead.
+- **Wednesday** — Hiring radar + Manager health pulse (EYS). RAG per role AND per manager.
+- **Friday** — Weekly reflection (What/So What/Now What/When): review decisions due, score predictions, promote Knowledge notes, performance risk early warning, recognition check.
+- **Monthly** — Full memory consolidation + "State of People" brief + Cost of Mediocrity evidence summary for exec use.
 
 ## Working with the user
 

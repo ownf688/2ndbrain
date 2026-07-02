@@ -15,3 +15,12 @@ People Ops Associate at NALA, based in Kenya. Reports to Lynnette Mutugi.
 
 - [2026-06-29, [[2026-06-29 - People Ops Check-in]]] Coordinating birthday celebration logistics
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Gave Lynnette positive Windmill feedback; being coached on accountability and ownership — Owen and Lynnette aligned on evidence-based approach
+
+## EYS Evidence
+
+### Performance (skills + impact)
+- [2026-06-29, [[2026-06-29 - People Ops Check-in]]] Coordinating birthday celebration logistics — evidence of ops execution
+
+### Values
+- [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Positive: Gave Lynnette positive Windmill feedback — *Customers First*
+- [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Watch: Defensive when receiving coaching, explains rather than corrects — *Play to Win*

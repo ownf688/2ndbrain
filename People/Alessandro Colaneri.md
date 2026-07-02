@@ -16,3 +16,12 @@ Senior Engineering Manager at NALA and Rafiki. Based in Italy. Manages Rafiki en
 ## Interactions
 
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Raised concern about Bailey being moved from Rafiki; flagged USD vs NGN accounts need clarity with Charlotte off; going on 3-week leave
+
+## EYS Evidence
+
+### Performance (skills + impact)
+- [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Managing Rafiki engineering including Bailey — evidence of team leadership
+
+### Values
+- [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Positive: Raised Bailey concern proactively before going on leave — *Play to Win*
+- [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Watch: Went on 3-week leave during critical period (flagged risk responsibly but still a coverage gap)

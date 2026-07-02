@@ -15,3 +15,11 @@ Senior Backend Engineer at NALA, based in Nigeria. Child needs surgery in the UK
 
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Christos raised Chidi's child surgery situation for summer planning
 - [2026-07-02] Owen spoke to Chidi directly about UK work arrangements — confirmed supportive approach
+
+## EYS Evidence
+
+### Performance (skills + impact)
+- Senior Backend Engineer (Nigeria) — too early for direct performance signals from ingested meetings
+
+### Values
+- Too early for direct signals — only context is personal situation (child surgery)

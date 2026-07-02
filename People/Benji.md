@@ -16,3 +16,12 @@ CEO of NALA. Sets company priorities, approves major policy changes (e.g. remote
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Approved remote EU/UK hiring for engineering after months of London-only focus; funding round looking good, term sheet about to be signed
 - [2026-06-29, [[2026-06-29 - Weekly talent kick off call]]] Mentioned re: company direction on London hiring preference
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Owen references Benji's "athletics team" framing as basis for Earn Your Spot performance framework
+
+## EYS Evidence
+
+### Performance (skills + impact)
+- [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Approved EU remote hiring — evidence of decisive leadership
+
+### Values
+- [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Positive: "Release the Brake" theme, pushing for momentum — *Play to Win*
+- Watch: Some decisions slow to land (Segun still unclosed) — *Speed Wins*

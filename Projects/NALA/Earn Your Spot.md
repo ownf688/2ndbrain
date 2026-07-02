@@ -9,6 +9,8 @@ tags: [project]
 
 Performance management framework and manager handbook initiative. NALA as an "athletics team" — continuous assessment on performance (skills + impact) and values, with disproportionate rewards for top performers and clear exit paths for underperformers.
 
+**EYS is not a document — it's a living system.** The brain integrates EYS into every meeting ingestion (values-in-action evidence), every interview (culture-carrier scoring), every weekly radar (manager health pulse), and every Friday reflection (performance risk early warning). Evidence accumulates in People notes throughout the quarter so calibration is data-driven, not vibes-driven.
+
 Owned by [[Me]] with [[Lynnette Mutugi]] as key partner.
 
 ## Quality framework
@@ -36,14 +38,32 @@ Earn Your Spot, EYS, performance, Windmill, feedback, calibration, rubric, value
 
 ## Critical-path items
 
-- [ ] Share detailed EYS document with Lynnette — Owen has conceptual draft
+**Framework & documentation:**
+- [x] Share EYS document with Lynnette — sent via Slack 2026-07-02 (Notion: Manager training: Windmill and Earn Your Spot)
 - [ ] Recurring weekly 30-min working session with Lynnette — she's booking it
 - [ ] Fix employee handbook database — archived docs, no governance, ~6 years ungoverned
-- [ ] Publish Windmill feedback leaderboard for managers — drive adoption beyond 2 users (Owen, Alessandro)
 - [ ] Get Benji's commitment to performance as a "CEO initiative"
+- [ ] Decouple scoring from pay — Peter to set reward budget, managers score purely on performance
+
+**Windmill adoption:**
+- [ ] Publish Windmill feedback leaderboard for managers — drive adoption beyond 2 users (Owen, Alessandro)
+- [ ] Confirm Windy-Prompted Feedback is enabled for NALA (admin setting)
+- [ ] Confirm Analytics access enabled for managers (early access feature)
+- [ ] Add NALA leveling framework to Windmill Company Knowledge (enables level-calibrated review drafts)
+
+**Manager training:**
 - [ ] Scope manager training plan — assessment quality, evidence-based ratings, coaching skills
 - [ ] Plan next calibration cycle (October timeframe, including Global Ops)
-- [ ] Decouple scoring from pay — Peter to set reward budget, managers score purely on performance
+- [ ] Define "values non-negotiable" — what does exiting for values misalignment actually look like procedurally?
+
+**Brain-powered EYS (living system):**
+- [x] Values-in-action evidence engine — integrated into meeting ingestion rules
+- [x] Living scorecard — EYS Evidence sections added to all 15 NALA employee People notes
+- [x] Hiring-as-culture-carrier — values alignment scoring added to interview ingestion
+- [x] Manager accountability pulse — added to Wednesday radar
+- [x] Performance risk early warning — added to Friday reflection
+- [x] Recognition amplification — integrated into meeting ingestion
+- [ ] Cost of mediocrity evidence — accumulating, first monthly brief due end of July
 
 ## Project owners
 
