@@ -33,15 +33,26 @@ Each quarterly run gets:
 
 When a theme appears 2+ quarters running without action, flag it RED in the next brief.
 
-## Roadmap Actions (theme-to-action tracker)
+## Notion Board Integration
 
-| Theme | Source Run | Action | DRI | Deadline | Status |
-|-------|-----------|--------|-----|----------|--------|
-| UK benefits gap | Q1 2026 (Apr) | Private Medical Insurance + Life Cover via Kota | [[Me]] | Aug 2026 | In progress - UBO collected Jul 1, Benji announcing Jul 12 London week |
-| Product-CS launch coordination | Q2 2026 (Jun) | Establish 48hr pre-launch CS briefing SLA with Product | TBD | TBD | New - needs DRI |
-| L&D budget transparency | Q2 2026 (Jun) | Communicate current L&D policy to all employees | [[Lynnette Mutugi]] | TBD | New - needs scoping |
-| Nairobi office perks (fruit) | Q2 2026 (Jun) | Review and reinstate or communicate decision | [[Lynnette Mutugi]] | TBD | New |
-| Strategic direction / prioritisation | Q2 2026 (Jun) | Surface to Benji/Nico - exec-level issue, not People-fixable | [[Me]] | Next exec interaction | New - flag in Cost of Mediocrity |
+The public "You Said, We Did" initiatives board lives in Notion as a child of the April pulse page. All pulse-driven actions are tracked there as the single source of truth.
+
+- **Board:** [People Team Roadmap: Now / Next / Not Now](https://app.notion.com/p/37556eaacda581c8be0ff3a6b2541d89)
+- **Database:** `collection://14e8e8df-0067-4fa8-ae3f-6a158c17f623`
+- **Schema:** Initiative (title), Status (Draft/Heard/Planning/In Progress/Live/Not Now), Theme (multi-select), Pulse Cycle (multi-select: Q4 2025, Q1 2026, Q2 2026...), What we heard, What we are doing, Public Notes, Owner, Target/Done
+- **Draft workflow:** New items go in as Status=Draft (filtered out of the public board view). Owen reviews, edits, then moves to Heard/Planning/etc. to make visible.
+- **Q1 items tagged:** All 8 existing items tagged with `Q1 2026 (Apr)`.
+- **Q2 items created (Draft):** Strategic direction, 48hr CS briefing, L&D budget comms, Nairobi office perks.
+
+## Roadmap Actions (vault mirror)
+
+| Theme | Source Run | Notion Status | DRI | Notes |
+|-------|-----------|---------------|-----|-------|
+| UK benefits (PMI) | Q1 2026 (Apr) | In Progress | [[Me]] | UBO collected Jul 1, Benji announcing Jul 12 |
+| Strategic direction / prioritisation | Q1+Q2 | Draft | [[Me]] | Framed as "Heard, being reviewed by leadership" |
+| Product-CS launch coordination | Q2 2026 (Jun) | Draft | TBD | 48hr pre-launch briefing SLA |
+| L&D budget transparency | Q2 2026 (Jun) | Draft | [[Lynnette Mutugi]] | Comms on current policy |
+| Nairobi office perks (fruit) | Q2 2026 (Jun) | Draft | [[Lynnette Mutugi]] | Review and reinstate or communicate |
 
 ## Themes Tracker (cross-quarter)
 
@@ -58,7 +69,7 @@ When a theme appears 2+ quarters running without action, flag it RED in the next
 | Team spirit / collaboration | - | - | All depts | POSITIVE |
 | AI adoption (positive) | - | - | Ops 1/6 | POSITIVE |
 
-*Q4 2025 and Q1 2026 data not yet backfilled from Windmill. TODO: pull historical runs and populate.*
+*Q4 2025 data not yet backfilled from Windmill. TODO: pull historical runs and populate.*
 
 ---
 
