@@ -18,20 +18,36 @@ tags: [weekly]
 
 ---
 
-## Reflection
+## Reflection (What / So What / Now What / When)
 
-### What I learned this week
-*Not what I did — what's actually new in my head.*
-
-
-
-### What surprised me
-*Where did reality diverge from expectation?*
+### What happened this week
+*Key meetings, decisions, hires, pipeline moves, people items.*
 
 
 
-### Next week
-*What's the one thing that matters most? Who do I need to talk to? What's at risk?*
+### So What — why it matters
+*What shifted in trajectory? What surprised me? Where was I wrong?*
+
+
+
+### Now What — actions for next week
+*Concrete, 4D-validated: Data, Decision, DRI, Deadline.*
+
+- [ ] DRI: [[Me]] —
+- [ ] DRI: [[Me]] —
+
+### When — deadlines carrying forward
+
+| Item | DRI | Deadline | Status |
+|------|-----|----------|--------|
+
+## Decision reviews due this week
+*Decisions from `/Decisions/` whose `review_date` falls this week. Score: right-for-right-reasons / right-but-lucky / wrong-but-learned / too-early.*
+
+
+
+## Calibration
+*Predictions I got right. Predictions I got wrong. What I'd tell last-Monday-me.*
 
 
 
