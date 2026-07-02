@@ -35,6 +35,13 @@ Earn Your Spot, EYS, performance, Windmill, feedback, calibration, rubric, value
 
 - #people
 - #leadership
+- #exec-people 
+- #exec-leadership-hiring
+- #exec-hiring
+- #exec-leadership-people 
+- #team-people-mgmt 
+- #team-people-ops
+- #team-talent
 
 ## Critical-path items
 

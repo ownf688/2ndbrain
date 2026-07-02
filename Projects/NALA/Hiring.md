@@ -58,7 +58,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 ## Critical-path items
 
 - [x] EU remote hiring rollout — approved by Benji 2026-06-29; live but no new eng candidates surfaced yet
-- [ ] Oli Woolf onboarded and owning engineering recruiting pipeline — introduced in hiring channels 2026-07-02; handover actively underway
+- [x] Oli Woolf onboarded and owning engineering recruiting pipeline — introduced in hiring channels 2026-07-02; handover actively underway
 - [ ] Global Head of Compliance — 4+ candidates in pipeline (Ben Ellis closing strategy, Gowtham, Michael Heider, Karanjit Randhawa); Himanshu disqualified; Peter wants to see a few more before closing
 - [ ] Gowtham Vijayakumar (GHoC) — BLOCKED on Owen: call on whether to advance to Peter
 - [ ] MLRO — Florence postponed Jul 2 conversation to next week; Aaron in pipeline (Mark chasing Josh for scheduling)
