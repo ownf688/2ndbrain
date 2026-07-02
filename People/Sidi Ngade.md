@@ -19,8 +19,11 @@ People Ops Associate at NALA, based in Kenya. Reports to Lynnette Mutugi.
 ## EYS Evidence
 
 ### Performance (skills + impact)
+- [2026-06-24, Windmill FB from [[Me]]] 900+ applicants to Finance Associate unreviewed. Response to Owen's flag was "I'll keep you posted" - no DRI, no deadline, no review bar defined
 - [2026-06-29, [[2026-06-29 - People Ops Check-in]]] Coordinating birthday celebration logistics — evidence of ops execution
 
 ### Values
+- [2026-05-29, Windmill FB from [[Me]]] Watch: Communicating in DMs rather than hiring channels despite guidelines — *Speed Wins gap*
+- [2026-06-24, Windmill FB from [[Me]]] Watch: 900+ applicants sitting in silence, dismissive reply ("I'll keep you posted"). Customers First, Play to Win, and 4D framework all missed — *Customers First gap, Play to Win gap*
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Positive: Gave Lynnette positive Windmill feedback — *Customers First*
-- [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Watch: Defensive when receiving coaching, explains rather than corrects — *Play to Win*
+- [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Watch: Defensive when receiving coaching, explains rather than corrects — *Play to Win gap*

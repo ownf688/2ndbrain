@@ -205,11 +205,19 @@ This means the hiring process embodies EYS before someone even joins — and giv
 
 ### 6. Recognition amplification (during every meeting ingestion)
 When the brain detects positive signals during ingestion — someone shipping under pressure, a values moment, exceptional ownership — auto-draft a recognition post for Owen to approve:
-- **Windmill Shoutout** (if the evidence is specific enough for public praise)
+- **Windmill Shoutout** — use `feedback_create` with the `shoutout` parameter. Requires: `feedback` array with `targetEmployeeId` + `feedback` text, plus `shoutout.comment` that matches the feedback. The shoutout broadcasts publicly; the feedback is the private record. Owen must approve before sending.
 - **Slack recognition** (for team-facing channels)
 - **People note highlight** (always — this is the living scorecard)
 
 Present alongside the meeting note approval gate: "Recognition draft: [Approve / Edit / Skip]". Make recognition a system output, not something Owen has to remember.
+
+**Windmill shoutout workflow:**
+1. Brain detects a positive signal during meeting ingestion or recap review
+2. Draft: feedback text (specific, evidence-based, values-linked) + shoutout comment (public-facing version)
+3. Present to Owen: "[Shoutout] <Name> — <one-liner>. [Approve / Edit / Skip]"
+4. On approve: call `feedback_create` with `targetEmployeeId`, `feedback`, and `shoutout.comment`
+5. On edit: Owen rewrites, then send
+6. Log the recognition in the People note's EYS Evidence section regardless
 
 ### 7. Living scorecard (People notes — EYS Evidence section)
 Every NALA employee's People note has a `## EYS Evidence` section with two subsections: `### Performance (skills + impact)` and `### Values`. This accumulates throughout the quarter from:
@@ -260,6 +268,8 @@ Triggered by: user asks "prep me for my next meeting" or "what's on today"
    - Surface relevant `/Projects/` note if the meeting touches a tracked project
    - Check Slack for recent messages from/about attendees
    - For interview meetings: pull Metaview conversation + Workable candidate status
+   - **For 1:1s with direct reports:** pull their Windmill weekly recap (`weekly_recaps_query`, last week) for a summary of what they've been working on, plus recent Windmill feedback about them (`feedback_query`, last 30 days) for coaching context
+   - **For 1:1s with peers/execs:** pull their Windmill weekly recap if available, for context on what they're focused on
 3. Output: What/So What/Now What/When for each meeting
 
 ### Wednesday hiring + manager health radar
