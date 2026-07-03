@@ -392,9 +392,26 @@ Material decisions are logged to `/Decisions/` using the 4D template. Rules:
 - **Knowledge promotion:** During weekly review, promote 1-3 claim-shaped Knowledge notes from the candidates flagged during meeting ingestion. Title = a claim ("Single-assessor hires correlate with fast rejections at final stage"), not a topic ("Hiring").
 - **Consolidation:** Monthly, review the vault for bloat — archive completed decisions, mark closed projects, merge redundant People notes.
 
+## Auto-brief on session start
+
+**On the first interaction of each weekday session in this vault**, automatically generate and deliver the morning brief BEFORE responding to any user request. The workflow:
+
+1. Pull today's calendar events
+2. Check for uningest transcripts (gdrive + Metaview since last session)
+3. Run the commitment sweep (open action items from vault + Slack signals)
+4. Generate the brief with health call, calendar prep, key actions, commitments, and signals
+5. Write to the **Notion "Daily Briefs" database** (`collection://a3c2fa7e-f2af-45fe-893c-f5ec5ee4f5dc`)
+6. Send the **Slack TL;DR** (5 bullets max) to Owen's self-DM (`D03E8R2D8BY`)
+7. Write a lightweight mirror to `/Briefs/YYYY-MM-DD.md` in the vault
+
+If the user's first message IS "morning", "brief me", or similar, this is the trigger. If the user's first message is something else, run the brief silently in the background and present a one-line summary ("Brief sent to Slack") before addressing their request.
+
+**Friday additions:** Weekly reflection triggers (decision reviews, knowledge promotion, performance risk early warning, recognition check).
+**Wednesday additions:** Hiring radar + Manager Health Pulse alongside the brief.
+
 ## Operating cadence
 
-- **Daily** — 8am: pull yesterday's transcripts from Google Drive (system cron, zero tokens) + pull yesterday's interviews from Metaview (`pull-metaview-transcripts`, agent-mediated) + ingest all artifacts (with values-in-action flagging + interviewer attribution + recognition drafts) + morning brief + commitment sweep. Before each call: meeting-prep lookahead.
+- **Daily** — 8am: pull yesterday's transcripts from Google Drive (system cron, zero tokens) + pull yesterday's interviews from Metaview (`pull-metaview-transcripts`, agent-mediated) + ingest all artifacts (with values-in-action flagging + interviewer attribution + recognition drafts) + morning brief (auto-generated, sent to Notion + Slack) + commitment sweep. Before each call: meeting-prep lookahead.
 - **Wednesday** — Hiring radar + Manager health pulse (EYS). RAG per role AND per manager.
 - **Friday** — Weekly reflection (What/So What/Now What/When): review decisions due, score predictions, promote Knowledge notes, performance risk early warning, recognition check.
 - **Monthly** — Full memory consolidation + "State of People" brief + Cost of Mediocrity evidence summary for exec use.
