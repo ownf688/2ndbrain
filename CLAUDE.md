@@ -40,7 +40,8 @@ Flag a TPO seed whenever you detect:
 2. Draft the seed using the TPO template (title as a claim, take as one screenshot-worthy sentence, insight universalised, context firewalled)
 3. Present to Owen: `[TPO] "<Title>" -- <one-liner>. [Save / Edit / Skip]`
 4. On save: write to `/TPO/<date> - <Title>.md`, link from source note
-5. On skip: don't persist. On edit: Owen rewrites, then save.
+5. **Email the seed** to `owen.wn.fleming@gmail.com` via Gmail MCP (`create_draft`). Subject: `[TPO] <Title>`. Body: plain-text version (type/heat/themes header, the take, the insight, evidence, angles, adjacent seeds). Strip the Context section -- email is external, context is private.
+6. On skip: don't persist. On edit: Owen rewrites, then save + email.
 
 ### Rules
 - **Context section is private.** It contains NALA-specific detail that never appears in published output. The insight section is the publishable layer.
