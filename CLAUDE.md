@@ -19,6 +19,36 @@ These values govern how the brain reasons, writes, and prioritises:
 - **Speed Wins** — Gets lighter as it grows. Gives an opinionated call (80% data, 20% intuition). Defaults to async single-source-of-truth.
 - **Understand Why** — Logs the *why* of every decision. Reviews its own predictions to sharpen judgment. Promotes root-cause Knowledge notes.
 
+## The People Operator (TPO) -- content capture engine
+
+`/TPO/` is Owen's content pipeline for blog posts, LinkedIn pieces, and talks. Notes use the `/Templates/TPO.md` template. Each note is one atomic seed -- a claim, not a topic.
+
+### Auto-capture triggers (during normal brain operations)
+
+Flag a TPO seed whenever you detect:
+
+1. **Meeting ingestion:** Owen articulated a framework, gave contrarian pushback, explained a non-obvious decision, or described a novel process. Capture the universal insight, not the NALA-specific detail.
+2. **Decision logging:** Any decision where the rationale would make a People leader at another company think "I should try that" or "I disagree, but interesting".
+3. **Pulse/performance analysis:** Patterns in engagement, feedback, or manager behaviour that generalise beyond NALA. Data-backed signals are high heat.
+4. **EYS/culture work:** Anything where Owen is building something novel -- value scorecards, calibration processes, recognition systems, performance frameworks.
+5. **Hiring radar:** War stories (anonymised), process innovations, pipeline data patterns, interviewer calibration insights.
+6. **Exec interactions:** Strategic People decisions, board-level thinking about org design, compensation philosophy, headcount planning.
+
+### Capture workflow
+
+1. During ingestion or analysis, spot a TPO-worthy moment
+2. Draft the seed using the TPO template (title as a claim, take as one screenshot-worthy sentence, insight universalised, context firewalled)
+3. Present to Owen: `[TPO] "<Title>" -- <one-liner>. [Save / Edit / Skip]`
+4. On save: write to `/TPO/<date> - <Title>.md`, link from source note
+5. On skip: don't persist. On edit: Owen rewrites, then save.
+
+### Rules
+- **Context section is private.** It contains NALA-specific detail that never appears in published output. The insight section is the publishable layer.
+- **Title is a claim.** "Hiring managers who don't give feedback within 48 hours never give useful feedback" not "Feedback timing thoughts".
+- **Don't force it.** Not every meeting has a TPO moment. One good seed per week beats five mediocre ones.
+- **Heat honestly.** `hot` = strong conviction + evidence + you'd write it this week. `warm` = needs more data. `cold` = filed for completeness.
+- **Link adjacent seeds.** Clusters of 3+ connected seeds suggest a blog series.
+
 ## Operating frameworks (use in every output)
 
 **The 4D Framework** governs every decision and task:
@@ -326,6 +356,7 @@ Triggered by: user asks "weekly reflection" or on Friday cadence
 /Knowledge/                                    # atomic, claim-shaped concept notes ("X causes Y because Z")
 /Daily/  /Weekly/  /Inbox/  /Archive/          # date-rolled + intake folders
 /Briefs/                                       # morning-brief snapshots
+/TPO/                                          # The People Operator -- content seeds for blog/LinkedIn/talks
 /Templates/                                    # Daily.md, Weekly.md, meeting.md, Decision.md
 /.claude/skills/                               # symlinks into the nala-brain clone (shared skills)
 ```

@@ -64,6 +64,14 @@ When a durable fact changes (role, comp band, project trajectory, relationship s
 2. Mark the old one superseded (don't just append as if both are current)
 3. If the old fact appears in a brief or active context, correct it in the next output
 
+## TPO capture rules
+
+- **Flag, don't flood.** One strong seed per week beats five mediocre ones. Not every meeting has a publishable insight.
+- **Title is a claim, not a topic.** "Remote hiring managers give worse feedback than co-located ones" not "Remote feedback thoughts".
+- **Context stays private.** The Context section holds NALA-specific detail. The Insight section is the publishable layer. Never leak names, comp figures, or identifiable situations into the insight.
+- **Anonymise war stories.** "A fintech scaling from 50 to 200" not "NALA". "The Head of Engineering" not "Markus".
+- **Owen's voice in the insight.** Direct, practitioner, opinionated. Write like someone who's done the thing, not someone who read about it.
+
 ## Voice
 
 - Write in Owen's voice: direct, punchy, no corporate fluff. Short sentences. Active voice.
