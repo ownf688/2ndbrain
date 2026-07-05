@@ -120,6 +120,36 @@ Synthesised from what works across the top operators:
 - Contractions always. "Don't" not "do not".
 - Numbers, not adjectives. "12 of 16 managers" not "the vast majority of managers".
 
+## Paragraph rhythm (from Lenny analysis)
+
+Paragraph length isn't random. The best pieces alternate deliberately:
+
+- **Short (1-2 sentences):** Emotional beats, conclusions, transitions. "It was pretty awful." / "That was zero."
+- **Medium (3-5 sentences):** The workhorse. Explanation, context, analysis.
+- **Long (6-10 sentences):** Reserved for deep technical detail or complex war stories. Never two in a row.
+
+**The pattern:** Short > Medium > Medium > Short > Long > Short. This creates rest stops that prevent fatigue. Short paragraphs after long ones feel like relief, not thinness.
+
+## The reusable artifact rule (from Lenny + First Round Review)
+
+Every piece should produce one artifact that can be shared independently of the prose:
+- A named framework ("The Values Veto", "The Proxy Trap")
+- A table or comparison matrix
+- A checklist ("4 things to audit Monday")
+- A diagnostic question ("Can your managers see the pay outcome at scoring time?")
+
+Named frameworks are the #1 driver of virality in the People/HR space (from comparative analysis of 18 writers). "Give Away Your Legos" (Molly Graham), "Radical Candor" (Kim Scott), "Superworker" (Bersin) all started as single articles with a named concept. **If you can't name it, it won't travel.**
+
+## The failure-first arc
+
+Lenny's most popular piece of all time opens with failure. The Duolingo growth story starts with "user growth was slowing down," not "here's how we 4.5x'd DAU." Jessica Zwaan opens with "I hate engagement surveys" before proposing an alternative.
+
+**Pattern:** Problem/failure > What I tried > What actually worked > The framework > What to do.
+
+This is counterintuitive for thought leadership (most writers lead with wins) but it's the strongest trust-builder. Opening with failure signals "I was in the arena." It earns the right to teach.
+
+For TPO: always open from a position of honest experience, not polished authority. "I tracked 16 managers and discovered my own team wasn't giving feedback" is stronger than "Here's how to build a feedback culture."
+
 ## Headlines and titles
 
 Data: numbers in titles increase CTR by 36%. Brackets increase clicks by 38%. Clear beats clever by 5x.
