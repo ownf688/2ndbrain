@@ -40,15 +40,28 @@ Flag a TPO seed whenever you detect:
 2. Draft the seed using the TPO template (title as a claim, take as one screenshot-worthy sentence, insight universalised, context firewalled)
 3. Present to Owen: `[TPO] "<Title>" -- <one-liner>. [Save / Edit / Skip]`
 4. On save: write to `/TPO/<date> - <Title>.md`, link from source note
-5. **Email the seed** to `owen.wn.fleming@gmail.com` via Gmail MCP (`create_draft`). Subject: `[TPO] <Title>`. Body: plain-text version (type/heat/themes header, the take, the insight, evidence, angles, adjacent seeds). Strip the Context section -- email is external, context is private.
-6. On skip: don't persist. On edit: Owen rewrites, then save + email.
+5. **Write the first draft** in the `## First Draft` section of the seed note. Follow the structure in `/TPO/TPO Style Guide.md`: Hook (2-3 sentences) > Setup (1 para) > Thesis (1 bold sentence) > Evidence sections (Claim > Evidence > Implication, 2-4 sections) > Framework if applicable > So What (1 para) > Action (2-4 bullets). Target 1,500-2,500 words for opinion pieces. Strip all NALA-specific detail -- use the Context section as source material but never leak it into the draft. Anonymise: "a fintech scaling from 50 to 200" not company names, "the Head of Engineering" not personal names.
+6. **Email the seed + draft** to `owen.wn.fleming@gmail.com` via Gmail MCP (`create_draft`). Subject: `[TPO] <Title>`. Body: plain-text version with the take, insight, evidence, angles, and the full first draft. Strip the Context section entirely.
+7. On skip: don't persist. On edit: Owen rewrites, then save + email.
+
+### Style guide
+
+The full TPO Style Guide lives at `/TPO/TPO Style Guide.md`. Key principles:
+- **Operator voice.** Write as someone who just did the thing. First person. First-party data. Specific numbers.
+- **Claim, not topic.** Every title and thesis is falsifiable. Someone could disagree with it.
+- **Evidence hierarchy.** Original data > named framework > anonymised war story > external research > analogy.
+- **First Round Review rule.** Every piece contains at least one thing the reader can implement today.
+- **No hedge.** The byline says it's Owen's opinion. Drop "I think" and "in my opinion".
+- **Close with action, not summary.** "Pull this data. Run this query. Ask this question."
+- **No emdashes.** They signal AI-generated text. Use commas, full stops, or dashes instead.
 
 ### Rules
-- **Context section is private.** It contains NALA-specific detail that never appears in published output. The insight section is the publishable layer.
+- **Context section is private.** It contains NALA-specific detail that never appears in published output or the first draft. The draft is the publishable layer.
 - **Title is a claim.** "Hiring managers who don't give feedback within 48 hours never give useful feedback" not "Feedback timing thoughts".
 - **Don't force it.** Not every meeting has a TPO moment. One good seed per week beats five mediocre ones.
 - **Heat honestly.** `hot` = strong conviction + evidence + you'd write it this week. `warm` = needs more data. `cold` = filed for completeness.
 - **Link adjacent seeds.** Clusters of 3+ connected seeds suggest a blog series.
+- **Draft quality bar.** The first draft should be 70% publishable. Owen edits for voice and emphasis, not structure. If the structure needs rework, the seed wasn't ready.
 
 ## Operating frameworks (use in every output)
 

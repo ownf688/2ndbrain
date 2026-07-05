@@ -32,6 +32,16 @@ Notes land here automatically during normal brain operations:
 
 **Status:** seed > draft-ready > published
 
+## Pipeline
+
+Each seed contains a `## First Draft` section that gets populated when the seed moves to `draft-ready`. Drafts follow the structure defined in [[TPO Style Guide]] -- researched from 40+ professional blogs/newsletters including Lenny Rachitsky, Jessica Zwaan, Adam Grant, Wes Kao, DHH, First Round Review, and others.
+
+**Draft structure:** Hook (2-3 sentences) > Setup (1 para) > Thesis (1 bold sentence) > Evidence sections (2-4, each Claim > Evidence > Implication) > Framework (optional) > So What > Action bullets.
+
+**Target length:** 1,500-2,500 words for opinion pieces, 2,500-3,500 for deep dives.
+
+**Quality bar:** 70% publishable. Owen edits for voice and emphasis, not structure.
+
 ## Finding what to write next
 
-Filter by `heat: hot` + `status: seed` for the strongest unwritten pieces. Notes with 3+ adjacent seeds suggest a series.
+Filter by `heat: hot` + `status: seed` for the strongest unwritten pieces. Filter by `status: draft-ready` for pieces with first drafts ready for Owen's edit pass. Notes with 3+ adjacent seeds suggest a series.
