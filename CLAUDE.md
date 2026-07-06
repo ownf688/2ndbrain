@@ -437,28 +437,46 @@ Material decisions are logged to `/Decisions/` using the 4D template. Rules:
 - **Knowledge promotion:** During weekly review, promote 1-3 claim-shaped Knowledge notes from the candidates flagged during meeting ingestion. Title = a claim ("Single-assessor hires correlate with fast rejections at final stage"), not a topic ("Hiring").
 - **Consolidation:** Monthly, review the vault for bloat — archive completed decisions, mark closed projects, merge redundant People notes.
 
-## Auto-brief on session start
+## Auto-brief on session start ("run brief")
 
-**On the first interaction of each weekday session in this vault**, automatically generate and deliver the morning brief BEFORE responding to any user request. The workflow:
+**Trigger:** Owen's first weekday interaction, or "run brief" / "morning" / "brief me". This is the single entry point for the full daily pipeline. Everything chains from here -- acquisition, ingestion, analysis, then the brief. No separate prompts needed.
 
-1. Pull today's calendar events
-2. Check for uningest transcripts (gdrive + Metaview since last session)
-3. Run the commitment sweep (open action items from vault + Slack signals)
-4. Generate the brief with health call, calendar prep, key actions, commitments, and signals
-5. Write to the **Notion "Daily Briefs" database** (`collection://a3c2fa7e-f2af-45fe-893c-f5ec5ee4f5dc`)
-6. Send the **Slack TL;DR** (5 bullets max) to Owen's self-DM (`D03E8R2D8BY`)
-7. Write a lightweight mirror to `/Briefs/YYYY-MM-DD.md` in the vault
+### The pipeline (runs in this order)
 
-If the user's first message IS "morning", "brief me", or similar, this is the trigger. If the user's first message is something else, run the brief silently in the background and present a one-line summary ("Brief sent to Slack") before addressing their request.
+**Phase 1: Acquire** (get the raw material)
+1. **Pull Google Drive transcripts** since last session. Run the `pull-gdrive-transcripts` skill (or the bash script at `~/scripts/pull-gdrive-transcripts.sh` if available). Check both "Shared with me" and My Drive "Meet Recordings". If the 8am cron already ran, check `/tmp/transcripts/gdrive/` for unprocessed files.
+2. **Pull Metaview transcripts** since last session. Run the `pull-metaview-transcripts` skill. Query Metaview MCP for conversations since last pull date. Save raw + abstraction per interview.
+3. **Pull today's calendar events** from Google Calendar MCP.
 
-**Friday additions:** Weekly reflection triggers (decision reviews, knowledge promotion, performance risk early warning, recognition check).
-**Wednesday additions:** Hiring radar + Manager Health Pulse alongside the brief.
+**Phase 2: Ingest** (turn raw material into vault knowledge)
+4. **Ingest all pulled artifacts** using the `ingest-meeting` skill. For each transcript: distill to `/Meetings/`, propagate to `/People/` and `/Projects/`, flag `/Knowledge/` candidates, run EYS values-in-action pass, run interviewer attribution for interviews, draft recognition where warranted. Present batched approval gate.
+5. **Flag TPO seeds** from any ingested meetings (per TPO capture workflow). Present `[TPO] [Save/Edit/Skip]` alongside the ingest approval gate.
+
+**Phase 3: Analyse** (build the picture)
+6. **Commitment sweep**: scan vault for open `- [ ]` items where DRI = [[Me]], check Slack DMs and Gmail for evidence of completion before flagging. Auto-research and draft deliverables for overdue items.
+7. **Meeting-prep lookahead**: for each upcoming meeting with attendees, surface their People note, relevant Projects, recent Windmill feedback/recaps (for directs), Workable status (for interview meetings).
+8. **Wednesday additions:** Hiring radar (Workable pipeline + Slack hiring channels + Metaview interview counts) + Manager Health Pulse (Windmill stats + Calendar + vault People notes). RAG per role AND per manager.
+9. **Friday additions:** Weekly reflection (decision reviews, knowledge promotion, performance risk early warning, recognition check).
+
+**Phase 4: Deliver** (send the brief)
+10. **Generate the brief** with: health call, calendar with per-meeting prep, key actions, commitments (with auto-drafted deliverables), signals, and any TPO/recognition drafts pending approval.
+11. **Write to Notion** "Daily Briefs" database (`collection://a3c2fa7e-f2af-45fe-893c-f5ec5ee4f5dc`)
+12. **Send Slack TL;DR** (5 bullets max) to Owen's self-DM (`D03E8R2D8BY`)
+13. **Write vault mirror** to `/Briefs/YYYY-MM-DD.md`
+
+### Execution notes
+
+- **Parallelise where possible.** Phases 1.1, 1.2, and 1.3 can run concurrently. Phase 2 depends on Phase 1. Phase 3 depends on Phase 2 (ingested meetings inform the commitment sweep and meeting prep).
+- **If no new transcripts exist**, skip Phase 2 and proceed to Phase 3. Don't block the brief on an empty pull.
+- **Batched approval gates.** Don't ask for approval N times. Consolidate all ingest mutations + TPO seeds + recognition drafts into one batched approval gate between Phase 2 and Phase 3.
+- **Time budget.** The full pipeline should complete in one interaction. If transcript volume is high (>5 meetings), use subagents for parallel ingestion.
+- **"Run brief" means run the whole pipeline.** Owen should never need to separately prompt for transcript pulls, ingestion, or meeting prep. If he says "run brief" and there are transcripts to pull, pull them. If there are meetings to ingest, ingest them. The brief is the output of the pipeline, not a standalone step.
 
 ## Operating cadence
 
-- **Daily** — 8am: pull yesterday's transcripts from Google Drive (system cron, zero tokens) + pull yesterday's interviews from Metaview (`pull-metaview-transcripts`, agent-mediated) + ingest all artifacts (with values-in-action flagging + interviewer attribution + recognition drafts) + morning brief (auto-generated, sent to Notion + Slack) + commitment sweep. Before each call: meeting-prep lookahead.
-- **Wednesday** — Hiring radar + Manager health pulse (EYS). RAG per role AND per manager.
-- **Friday** — Weekly reflection (What/So What/Now What/When): review decisions due, score predictions, promote Knowledge notes, performance risk early warning, recognition check.
+- **Daily** — "run brief" triggers the full pipeline: acquire (Drive + Metaview) > ingest (meetings, people, projects, EYS, TPO) > analyse (commitments, meeting prep) > deliver (Notion + Slack + vault). Before each call: meeting-prep lookahead already done in the brief.
+- **Wednesday** — Brief pipeline includes hiring radar + Manager Health Pulse (EYS).
+- **Friday** — Brief pipeline includes weekly reflection (decision reviews, knowledge promotion, performance risk early warning, recognition check).
 - **Monthly** — Full memory consolidation + "State of People" brief + Cost of Mediocrity evidence summary for exec use.
 
 ## Working with the user
