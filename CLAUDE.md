@@ -467,10 +467,13 @@ Material decisions are logged to `/Decisions/` using the 4D template. Rules:
 ### Execution notes
 
 - **Parallelise where possible.** Phases 1.1, 1.2, and 1.3 can run concurrently. Phase 2 depends on Phase 1. Phase 3 depends on Phase 2 (ingested meetings inform the commitment sweep and meeting prep).
-- **If no new transcripts exist**, skip Phase 2 and proceed to Phase 3. Don't block the brief on an empty pull.
+- **THE BRIEF IS THE OUTPUT, NOT THE STARTING POINT.** Never deliver a calendar-only brief. The brief is only valuable when it's fed by freshly ingested meetings. A brief without ingestion is a calendar printout -- useless. If there are artifacts to ingest, ingest them FIRST. The brief comes LAST, after the vault is current.
+- **Yesterday's meetings are the fuel.** When "run brief" fires in the morning, today's meetings haven't happened yet. But yesterday's transcripts ARE available (Drive cron pulled them, Metaview has them). Ingest yesterday's meetings first -- that updates People notes, surfaces new commitments, refreshes project state. THEN the brief draws from a current vault, not a stale one.
+- **If no new transcripts exist**, skip Phase 2 and proceed to Phase 3. But check thoroughly: Drive staging dir, Metaview since last pull date, and any artifacts left over from a previous session that weren't ingested.
 - **Batched approval gates.** Don't ask for approval N times. Consolidate all ingest mutations + TPO seeds + recognition drafts into one batched approval gate between Phase 2 and Phase 3.
-- **Time budget.** The full pipeline should complete in one interaction. If transcript volume is high (>5 meetings), use subagents for parallel ingestion.
-- **"Run brief" means run the whole pipeline.** Owen should never need to separately prompt for transcript pulls, ingestion, or meeting prep. If he says "run brief" and there are transcripts to pull, pull them. If there are meetings to ingest, ingest them. The brief is the output of the pipeline, not a standalone step.
+- **Time budget.** The full pipeline should complete in one interaction. If transcript volume is high (>5 meetings), use subagents for parallel ingestion. Do not let volume be an excuse to skip ingestion and deliver an empty brief.
+- **"Run brief" means run the whole pipeline.** Owen should never need to separately prompt for transcript pulls, ingestion, or meeting prep. If he says "run brief" and there are transcripts to pull, pull them. If there are meetings to ingest, ingest them. If there are artifacts on disk from a previous session, ingest those too. The brief is the last thing that happens, not the first.
+- **Never deliver the brief before ingestion is complete.** If ingestion is taking time, say "ingesting 7 meetings, brief in N minutes" -- don't skip to a hollow brief. Owen would rather wait 5 minutes for a useful brief than get an instant empty one.
 
 ## Operating cadence
 
