@@ -16,6 +16,8 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-06-29, [[2026-06-29 - People Ops Check-in]]] Planned surprise birthday cake-cutting for June birthdays
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Building Claude-based payroll overtime calculator; coaching Sidi on accountability — "she's defensive… it's so hard to teach someone how to change from that"
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Proposed recurring weekly working session with Owen on handbook + management book
+- [2026-07-06, [[2026-07-06 - People Ops Check-in]]] Closing finance associate candidate today. Taking ownership of Nairobi fruit restart, Notion pulse board grooming, Product-CS coordination via Josh. Handling Lamin tools/equity situation.
+- [2026-07-06, [[2026-07-06 - People Ops Check-in]]] Owen coached on comms: "Tell people why it stopped and what we're doing about it" re Nairobi perks. Lynnette received well, committed to update #nairobi-office.
 
 ## EYS Evidence
 

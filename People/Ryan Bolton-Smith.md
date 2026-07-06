@@ -15,6 +15,7 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 
 - [2026-06-29, [[2026-06-29 - Weekly talent kick off call]]] Hit 21 events last week; planning to hand off engineering recruiting to Oli Woolf
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Presented data brief that unlocked EU remote hiring approval from Benji
+- [2026-07-06, [[2026-07-06 - Weekly Talent Kick Off]]] Onboarding Oli on eng roles, handing off platform + backend. Francophone Africa Growth Manager at reference/offer stage. 4 backend pair progs rejected last week (mid not senior). Marcus Tolma screening today. Response rates "absolutely dreadful" -- needs to change messages.
 
 ## EYS Evidence
 

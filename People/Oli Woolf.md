@@ -15,6 +15,7 @@ Contract recruiter at NALA, based in the UK. Reports to Owen.
 
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Joined from Talentful; taking over engineering recruiting from Ryan
 - [2026-06-29, [[2026-06-29 - Weekly talent kick off call]]] Mentioned as incoming owner for engineering recruiting pipeline
+- [2026-07-06, [[2026-07-06 - Weekly Talent Kick Off]]] First full week. Taking over platform + senior backend from Ryan. Meeting Eduardo today for kickoffs. Shadowing Marcus Tolma screen at 2:30. Reviewing Leo Bishop Metaview calls for calibration. Positive on chase bot: "really simple thing that will make a massive difference to feedback loops."
 
 ## EYS Evidence
 
