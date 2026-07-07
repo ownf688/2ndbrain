@@ -7,9 +7,11 @@ tags: [project]
 
 # Earn Your Spot
 
-Performance management framework and manager handbook initiative. NALA as an "athletics team" — continuous assessment on performance (skills + impact) and values, with disproportionate rewards for top performers and clear exit paths for underperformers.
+Earn Your Spot (EYS) is NALA's performance system: you're assessed on what you deliver and how you live our values, the best performers get significantly more, and nobody coasts.
 
-**EYS is not a document — it's a living system.** The brain integrates EYS into every meeting ingestion (values-in-action evidence), every interview (culture-carrier scoring), every weekly radar (manager health pulse), and every Friday reflection (performance risk early warning). Evidence accumulates in People notes throughout the quarter so calibration is data-driven, not vibes-driven.
+NALA as an "athletics team" - continuous assessment on performance (skills + impact) and values. Top performers get significantly more. Underperformers get honest conversations and a clear exit path.
+
+**EYS is not a document, it's a living system.** The brain integrates EYS into meeting ingestion (flags values evidence), interviews (scores values fit), the Wednesday radar (checks whether managers are actually managing), and the Friday reflection (spots performance problems early). Evidence builds in People notes throughout the quarter so calibration is based on real data, not memory.
 
 Owned by [[Me]] with [[Lynnette Mutugi]] as key partner.
 
@@ -64,13 +66,13 @@ Earn Your Spot, EYS, performance, Windmill, feedback, calibration, rubric, value
 - [ ] Define "values non-negotiable" — what does exiting for values misalignment actually look like procedurally?
 
 **Brain-powered EYS (living system):**
-- [x] Values-in-action evidence engine — integrated into meeting ingestion rules
+- [x] Values evidence in meetings — brain flags values moments during meeting ingestion
 - [x] Living scorecard — EYS Evidence sections added to all 15 NALA employee People notes
-- [x] Hiring-as-culture-carrier — values alignment scoring added to interview ingestion
-- [x] Manager accountability pulse — added to Wednesday radar
-- [x] Performance risk early warning — added to Friday reflection
-- [x] Recognition amplification — integrated into meeting ingestion
-- [ ] Cost of mediocrity evidence — accumulating, first monthly brief due end of July
+- [x] Values scoring in interviews — added to interview ingestion
+- [x] Manager health check — added to Wednesday radar (are managers actually giving feedback and running 1:1s?)
+- [x] Performance risk flags — added to Friday reflection (who's slipping, who's being ignored?)
+- [x] Recognition — brain drafts Shoutouts when it spots good work during ingestion
+- [ ] Cost of doing nothing — accumulating evidence, first monthly brief due end of July
 
 ## Project owners
 
@@ -82,12 +84,12 @@ Earn Your Spot, EYS, performance, Windmill, feedback, calibration, rubric, value
 ### 2026-07-02 — Health: Good
 
 **Deltas:**
-- Owen shared EYS concept with Lynnette: performance + values matrix, top 25% rewarded disproportionately, values non-negotiable
+- Owen shared EYS concept with Lynnette: performance + values matrix, top 25% get significantly more, values non-negotiable
 - Agreed on recurring weekly 30-min working session (Lynnette booking)
 - Employee handbook identified as needing full restructure alongside management handbook
 - Windmill integrating with Intercom (for ops metrics)
 - Only 2 people (Owen, Alessandro) have given feedback in Windmill — critical adoption gap
-- Lynnette building Claude-based payroll tools — demonstrates capability that could extend to HR workflows
+- Lynnette building Claude-based payroll tools, which could extend to other HR workflows
 
 **Risks:**
 - Benji hasn't explicitly committed to "CEO initiative" status yet
@@ -96,7 +98,7 @@ Earn Your Spot, EYS, performance, Windmill, feedback, calibration, rubric, value
 
 ## NALA Value Scorecards (QL format)
 
-Modelled on the QuantumLight/Revolut culture scorecards. Yes/no behaviour statements ascending by level. The first "No" fixes the level. **Poor in any single value = overall concern regardless of delivery.**
+Based on the QuantumLight/Revolut scorecards. Yes/no behaviour statements that go up by level. The first "No" sets the level. **Poor in any single value = overall concern, no matter how much they deliver.**
 
 ### Customers First, Always
 
@@ -130,8 +132,8 @@ Modelled on the QuantumLight/Revolut culture scorecards. Yes/no behaviour statem
 | Intermediate | Sets the bar for their area - doesn't wait to be told what "good" looks like. |
 | Intermediate | Holds peers accountable, not just direct reports. Challenges respectfully when standards drop. |
 | Intermediate | Makes hard calls: exits underperformers, kills failing projects, says no to low-value work. |
-| Advanced | Builds accountability into systems so it doesn't depend on individual discipline. |
-| Advanced | Drives outcomes across teams they don't directly control - influences without authority. |
+| Advanced | Makes accountability part of the process, not something that depends on one person remembering. |
+| Advanced | Gets things done across teams they don't directly run. |
 | Exceptional | Their presence raises the performance bar for everyone around them. The team measurably performs better because they're in it. |
 
 ### Speed Wins
@@ -141,14 +143,14 @@ Modelled on the QuantumLight/Revolut culture scorecards. Yes/no behaviour statem
 | Poor | Defaults to meetings when async would work. Over-processes simple decisions. |
 | Poor | Buries the answer in context rather than leading with it. |
 | Poor | Creates information silos by communicating in DMs rather than shared channels. |
-| Basic | Defaults to async, single-source-of-truth communication. |
+| Basic | Writes things down in one shared place instead of scattering across DMs. Defaults to async. |
 | Basic | Leads with the answer, then the reasoning. Execs never have to chase for the point. |
 | Basic | Ships at 80% data, 20% intuition. Doesn't wait for certainty. |
 | Basic | Communicates in public channels, not DMs. Leads with context. |
 | Intermediate | Makes opinionated calls and states confidence level. Reviews and recalibrates later. |
-| Intermediate | Gets lighter as they grow - their processes scale without proportional overhead. |
+| Intermediate | Gets more efficient as they grow, not more bureaucratic. |
 | Intermediate | Unblocks others proactively. Spots bottlenecks before they become blockers. |
-| Advanced | Builds systems and automations that remove humans from repetitive loops. |
+| Advanced | Automates the repetitive stuff so people can focus on work that matters. |
 | Advanced | Their area moves faster than the rest of the org because of how they've structured the work. |
 | Exceptional | Redefines what's possible in the time available. Delivers outcomes that should take a quarter in weeks. |
 
@@ -161,17 +163,17 @@ Modelled on the QuantumLight/Revolut culture scorecards. Yes/no behaviour statem
 | Poor | Makes assertions without evidence. Single-source conclusions. |
 | Basic | Asks "why" at least twice before accepting a root cause. |
 | Basic | Logs the reasoning behind decisions, not just the decision. |
-| Basic | Triangulates - never asserts from a single data point or a single conversation. |
+| Basic | Checks multiple sources. Never draws a conclusion from one data point or one conversation. |
 | Basic | Reviews past decisions honestly: right-for-right-reasons, right-but-lucky, or wrong-but-learned. |
-| Intermediate | Builds institutional memory - their learnings benefit people who come after them. |
-| Intermediate | Identifies patterns across multiple incidents and promotes them to standing rules or processes. |
+| Intermediate | Leaves behind knowledge that helps the next person. Doesn't let lessons stay in one head. |
+| Intermediate | Spots patterns across incidents and turns them into rules or processes so the same mistake doesn't happen again. |
 | Intermediate | Challenges "that's how we've always done it" with evidence for a better way. |
-| Advanced | Creates feedback loops that make the system learn automatically (corrections promote to rules, predictions get reviewed). |
+| Advanced | Builds processes that get smarter over time. Corrections become rules. Predictions get reviewed. |
 | Advanced | Their root-cause analyses change how the org operates, not just how their team operates. |
-| Exceptional | Calibrates judgment so well that their intuition is data-informed. Others trust their calls because they have a track record of being right for the right reasons. |
+| Exceptional | Has good enough judgment that people trust their calls. They have a track record of being right, and they can explain why they were right. |
 
 ## Decision log
 
-- [2026-07-02] Performance scored on two axes: performance (skills + impact) and values (non-negotiable) — source: [[2026-07-02 - Owen Lynette 1-1]]
-- [2026-07-02] Scoring decoupled from pay — Peter sets reward budget, managers score purely on performance — source: [[2026-07-02 - Owen Lynette 1-1]]
-- [2026-07-02] Top 25% rewarded disproportionately; below-bar performers exited — source: [[2026-07-02 - Owen Lynette 1-1]]
+- [2026-07-02] Performance scored on two axes: performance (skills + impact) and values (non-negotiable). Source: [[2026-07-02 - Owen Lynette 1-1]]
+- [2026-07-02] Scoring decoupled from pay. Peter sets the reward budget, managers score purely on performance. Source: [[2026-07-02 - Owen Lynette 1-1]]
+- [2026-07-02] Top 25% get significantly more reward; below-bar performers exited. Source: [[2026-07-02 - Owen Lynette 1-1]]

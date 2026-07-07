@@ -5,6 +5,7 @@ status: in-progress
 previous: 
 tags: [weekly]
 ---
+
 # Week 
 
 *Start:           End:           Duration:*
