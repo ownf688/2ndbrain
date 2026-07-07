@@ -35,10 +35,11 @@ Recruiting pipeline across engineering, compliance, and growth roles. Owned by [
 | EU Managing Director | `528FBBD194` | Compliance | Brussels (on-site) |
 | Senior Platform Engineer | `B9B65FF169` | Engineering | London (on-site) |
 | Senior FX Sales & Trading Lead | `92AAEDACE6` | Trading | London (on-site) |
+| Workplace & Culture Manager | `5912076` | People | London (on-site) |
 
 ## Project keywords
 
-Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, pair programming, talent screen, top-of-funnel, headcount, offer, MLRO, Global Head of Compliance, Growth Manager, Platform Engineer, Backend Engineer
+Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, pair programming, talent screen, top-of-funnel, headcount, offer, MLRO, Global Head of Compliance, Growth Manager, Platform Engineer, Backend Engineer, Workplace, Culture Manager
 
 ## Slack channels to monitor
 
@@ -54,6 +55,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - #hiring-infra-engineer
 - #hiring-senior-engineer
 - #hiring-finance-associate-2026
+- #hiring-workplace-and-culture-manager
 
 ## Critical-path items
 
@@ -72,6 +74,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] FX Sales/Trading Lead — candidate passed Erisen's stage; Peter final call this week
 - [ ] Finance Associate (Kenya) — interviews scheduled Jul 7 (5 candidates, overlapping stages)
 - [ ] Interview capacity policy — engineers managing own schedules + swaps; on-call excluded from rotation (Markus expectation set Jul 2)
+- [ ] Workplace & Culture Manager — 3 candidates at problem-solving stage with Susanna Bae (Janset Rafet ex-Revolut, Anna Luong ex-Airwallex, Sanelisa N. ex-4Most). Owen screened Jul 6. 1hr interviews this week, then Benji final in-office next week. ~100 sourced, 10 screened. Channel created Jul 5.
 
 ## Project owners
 

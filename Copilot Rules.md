@@ -15,7 +15,9 @@ tags: [meta, copilot]
 - **CFO Directorate Team Meeting is NOT an exec 1:1.** It's a large-ish call with people outside the People team and exec team (Ops, Finance, Rafiki). Do NOT suggest raising sensitive People topics (PMI, reward budgets, performance frameworks, comp, settlements) in this forum. Those go to Peter in 1:1 or a private Slack DM. Only raise items relevant to the full directorate (cross-functional updates, shared priorities, hiring timelines that affect the group).
 - **Owen chased Peter on L&D invoice on Jul 2 at 12:36** (DM to Peter with both L&D and Ryan WFH requests). Don't re-surface as "not done."
 - **Owen spoke to Chidi about UK work arrangements.** "Chi" in eng leads weekly = "Chidi" in Owen's usage. Add alias.
-- **General rule: before flagging something as "not done", search Slack DMs and Gmail for evidence Owen already actioned it.** Surfacing completed items as overdue is frustrating and erodes trust.
+- **General rule: before flagging something as "not done", search Slack DMs, Gmail, AND hiring channels for evidence Owen already actioned it.** Surfacing completed items as overdue is frustrating and erodes trust.
+- **"Parv" in transcripts = Parth Patel.** Always use Parth, not Parv.
+- **Always prompt Owen for unlogged decisions.** After meetings, briefs, or any interaction where a call was made, ask: "Should we log this as a decision?" Owen can also say "log that" at any time and the Slack listener or active session should capture it.
 
 ## Decision heuristics (Owen's + Jerry's)
 
@@ -56,6 +58,7 @@ These principles from the Revolut/QuantumLight playbook operate alongside NALA v
 - **Triangulate, don't trust single sources.** One interviewer's feedback, one Slack message, one data point — never enough to assert. Say "one signal" not "evidence."
 - **Flag Needs-review rather than asserting** when data is thin or single-sourced.
 - **New `hiring-` channels appear frequently.** Always search for them during Hiring briefs.
+- **Auto-create People notes.** When a new person is mentioned in a meeting, decision, or interaction who doesn't have a vault note, create a stub immediately. Don't wait to be asked. Name, role, company, how they were first encountered, and aliases. This is non-negotiable.
 
 ## Temporal invalidation rule
 

@@ -101,14 +101,14 @@ T-Rex team lost 1.5 engineers (one left, Simeon acting as EM). BEE team bears mo
 > [!quote]- Source
 > "This can go south so easily now. Let's see."
 
-### Parf joining engineering
+### Parth Patel joining engineering
 
-Markus shared (not yet 100% official) that he has an agreement with Peter for Parf's team to join engineering, reporting into this team instead of Peter. Team reacted positively.
+Markus shared (not yet 100% official) that he has an agreement with Peter for Parth's team to join engineering, reporting into this team instead of Peter. Team reacted positively.
 
 > [!quote]- Source
 > "Parf's going to join engineering"
 
-### Chi's UK visit
+### Chidis UK visit
 
 Chi's child needs surgery in the UK (London or Manchester, 3 weeks). Christos raised it for planning — needs to book leave early for summer coverage. Owen's guidance: supportive approach, blended leave (some work, some time off around surgery), low risk from a tax/legal perspective on a visitor's visa.
 
