@@ -36,6 +36,9 @@ Recruiting pipeline across engineering, compliance, and growth roles. Owned by [
 | Senior Platform Engineer | `B9B65FF169` | Engineering | London (on-site) |
 | Senior FX Sales & Trading Lead | `92AAEDACE6` | Trading | London (on-site) |
 | Workplace & Culture Manager | `5912076` | People | London (on-site) |
+| AMLCO (EU Entity) | TBC | Compliance | Brussels |
+
+*Note: AMLCO is a separate role from Europe MLRO. Both are required for the Jubilee/Belgium entity.*
 
 ## Project keywords
 
@@ -84,6 +87,12 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [[Oli Woolf]]
 
 ## Updates
+
+### 2026-07-07 — Interviews
+
+- Isaac Sesi screened for Growth Manager Ghana by Imaad Ahmed (problem-solving). Strong first-principles growth thinking, spoke to 82 diaspora members pre-interview. Global Talent Visa, London-based. Next: homework if progressed.
+- Jan Rozumbersky screened for EU Managing Director by Mark McCracken (talent screen). Strong compliance credentials (CZ/NL fit-and-proper), Prague-based, no Belgian/Africa experience. Relocation budget TBC.
+- Ryan Ishmael Akalah bar-raised for Senior FX Trading by Peter Gulliver. Near-offer signal. Relationship-first trading philosophy aligns with Peter's East Africa corridor vision. Available Monday.
 
 ### 2026-07-02 — Health: Good
 

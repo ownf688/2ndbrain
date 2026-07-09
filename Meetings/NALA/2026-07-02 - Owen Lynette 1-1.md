@@ -39,7 +39,7 @@ tags: [meeting]
 
 ## Action items
 
-- [ ] [[Me]] - Sign litigation docs once counterparty lawyer signs
+- [x] [[Me]] - Sign litigation docs once counterparty lawyer signs (done 2026-07-08)
 - [ ] [[Me]] - Share Deal payroll input template with Lynnette for Claude tool integration
 - [ ] [[Me]] - Chase [[Peter Gulliver]] on L&D invoice approval
 - [ ] [[Me]] - Share Earn Your Spot detailed document with Lynnette

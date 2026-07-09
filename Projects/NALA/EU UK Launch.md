@@ -53,6 +53,10 @@ EU, UK, Equals Money, Jubilee, Modulr, own-license, remediation, flow of funds, 
 
 ## Updates
 
+### 2026-07-07 — EU MD Pipeline
+
+- Jan Rozumbersky screened for EU MD. Fit-and-proper experience (CZ, NL) but no Belgium market knowledge. NBB process timeline: ~12 months per NL precedent. Open question on relocation budget for non-Belgium candidates.
+
 ### 2026-06-29 — Health: Mediocre
 
 **Deltas:**

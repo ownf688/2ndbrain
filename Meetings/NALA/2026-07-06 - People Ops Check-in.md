@@ -25,7 +25,7 @@ tags: [meeting, people-ops]
 
 ## Action items
 
-- [ ] [[Me]]: Send Lynnette the overtime input report this week
+- [ ] [[Lynnette Mutugi]]: Send Owen the overtime input report this week
 - [ ] [[Lynnette Mutugi]]: Restart whole-fruit delivery in Nairobi next week
 - [ ] [[Lynnette Mutugi]]: Post update in #nairobi-office explaining fruit situation + timeline
 - [ ] [[Lynnette Mutugi]]: Groom Notion pulse board draft tickets, move to appropriate status with deadlines
