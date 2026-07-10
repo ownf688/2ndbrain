@@ -28,3 +28,4 @@ People Ops Associate at NALA, based in Kenya. Reports to Lynnette Mutugi.
 - [2026-06-24, Windmill FB from [[Me]]] Watch: 900+ applicants sitting in silence, dismissive reply ("I'll keep you posted"). Customers First, Play to Win, and 4D framework all missed — *Customers First gap, Play to Win gap*
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Positive: Gave Lynnette positive Windmill feedback — *Customers First*
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Watch: Defensive when receiving coaching, explains rather than corrects — *Play to Win gap*
+- [2026-07-09, [[2026-07-09 - Owen Lynette 1-1]]] Watch: Independent thinking and prioritisation still a coaching gap per Lynnette -- "city is very good at doing exactly what she's told... thinking over and above becomes difficult" — *Play to Win gap*

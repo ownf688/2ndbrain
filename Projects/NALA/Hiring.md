@@ -88,6 +88,27 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 
 ## Updates
 
+### 2026-07-09 — Interviews + Pipeline
+
+**1:1s:**
+- Owen/Ryan 1:1: Mark doing ~half Ryan's call volume (7 vs 14/week). Standup being redesigned to data-first format. God/MLCO offer still pending Benji. ATS review: start with problems not solutions (renewal Oct-Dec). Chase bot impact unmeasured.
+- Owen/Lynette 1:1: Headcount freeze intention -- flat headcount, only legally required + revenue-generating roles. Revenue per head $136K, target $216K. Not yet agreed with Peter.
+
+**Screens:**
+- Andrei Petrovich (SBE, Ryan): lean yes. 7yr Go, Delivery Hero, solid distributed systems. Missed idempotency unprompted. EUR140/hr, 3-month notice.
+- Selemani Niyitegeka (ALMCO, Mark): strong no. Execution-layer only, no programme-build, communication barrier.
+- Khrystyna Doskochynska (W&CM, Owen): lean yes. BNS Group (pharma), warm, delivery-oriented. Never got JD before call. Next: Susanna.
+- Prashant Kalia (GHoC, Mark): strong yes. 20+yr pedigree (AmEx/Amazon EMI/Stripe/Circle/Flutterwave CRCO). Built programmes, elite regulator track record (CSSF adopted his AML framework). GBP217K base, 1-month notice. Next: Nico/Peter. Available Tue 14 Jul.
+
+**Problem-solving:**
+- Kasper Bentsen (SBE, Ryan): lean yes. Strong event-architecture + idempotency answers. AI philosophy mature. 138K EUR/yr B2B. Progressed to pair programming.
+- Eunice Kormi (GM Ghana, Ryan): lean yes. British-Ghanaian, Fante speaker, deep community ties (Ghana Party in Park, funeral circuit, mother's catering WhatsApp network). Weak on CAC/LTV. Salary gap (asked 75-85K, likely 65K base). Progressed to Imaad.
+
+**Internal:**
+- Platform Hiring Kick Off (Oli/Christos/Edoardo): NALA's first standalone infra hire. Non-negotiables: AWS + Terraform at senior level. Process: talent screen -> 90-min architecture/Terraform -> bar raiser (Markus). Reports to Edoardo. Oli building hiring doc by Monday.
+- Isaac Sesi task expected back today/tomorrow. Third GM Ghana offer attempt.
+- MLRO/MLCO: two live candidates with Josh now unblocked. If neither strong, default to agency.
+
 ### 2026-07-07 — Interviews
 
 - Isaac Sesi screened for Growth Manager Ghana by Imaad Ahmed (problem-solving). Strong first-principles growth thinking, spoke to 82 diaspora members pre-interview. Global Talent Visa, London-based. Next: homework if progressed.

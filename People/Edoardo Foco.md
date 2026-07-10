@@ -29,3 +29,7 @@ Engineering lead at NALA, T-Rex team. Manages True Layer integration, biometric 
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Positive: Offered resources to help Christos on Equals despite being understaffed — *Play to Win*
 - [2026-07-08, [[2026-07-08 - Chris Reeves - Lead Engineer Collections and Treasury Problem-Solving]]] Led architecture problem-solving interview - clear task framing, good technical follow-ups on data types and provider extensibility — evidence of interviewing skill
 - [2026-07-08, [[2026-07-08 - Engineering Hiring Kick Off]]] Positive: "I like to hire everywhere. I don't care where the candidate comes from as long as he can deliver and ship" — *Play to Win*
+
+## Interactions (continued)
+
+- [2026-07-09, [[2026-07-09 - Platform Hiring Kick Off]]] Platform hire reports to him. Shared 30/60/90 roadmap (Slack Jun 11). AWS + Terraform are hard non-negotiables at senior level. First standalone infra hire at NALA.

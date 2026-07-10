@@ -23,3 +23,7 @@ Head of Operations at NALA. Reports to Peter Gulliver (CFO). Key peer to Owen.
 
 ### Values
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Positive: Driving regulatory workstream independently — *Play to Win*
+
+## Interactions (continued)
+
+- [2026-07-09, [[2026-07-09 - Owen Lynette 1-1]]] Initiated termination of 3 Senegal ops staff (Patrick, Haddie, Alon). Owen pushed back: "why are you getting rid of Patrick when you've hired a bunch of people in Kenya?"

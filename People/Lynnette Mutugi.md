@@ -19,6 +19,7 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-07-06, [[2026-07-06 - People Ops Check-in]]] Closing finance associate candidate today. Taking ownership of Nairobi fruit restart, Notion pulse board grooming, Product-CS coordination via Josh. Handling Lamin tools/equity situation.
 - [2026-07-06, [[2026-07-06 - People Ops Check-in]]] Owen coached on comms: "Tell people why it stopped and what we're doing about it" re Nairobi perks. Lynnette received well, committed to update #nairobi-office.
 - [2026-07-07, [[2026-07-07 - Ryan Ishmael Akalah - Senior FX Sales and Trading Bar Raiser]]] Observer on Ryan Akalah bar-raiser with Peter. Silent in transcript.
+- [2026-07-09, [[2026-07-09 - Owen Lynette 1-1]]] Building Claude payroll tool (half-correct, needs rules engine). Building Senegal ops separation case for Josh -- pursuing mutual separation to avoid redundancy risk. Sidi coaching: independent prioritisation still a gap. Closing Ryan refs for Monday onboarding, Finance Associate offer pending.
 
 ## EYS Evidence
 

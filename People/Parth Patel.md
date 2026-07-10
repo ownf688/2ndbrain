@@ -16,3 +16,4 @@ Parth & Owen have a weekly 1:1
 ## Interactions
 
 - [2026-07-06, [[2026-07-06 - Eng leads weekly]]] Markus formally announced Parth joining engineering. Welcomed by the team. Priorities: integration with eng ways of working, Q3 planning doc due Wednesday, tell data team about the move today.
+- [2026-07-09, [[2026-07-09 - Parth Owen 1-1]]] Net positive on CTO Directorate move. Strong AI tooling advocate (second brain, sub-agent workflows). Will set Owen up on Claude API auth to remove rate limit. KML concerned data team feels like engineering function -- Parth addressing in 1:1s.

@@ -18,6 +18,7 @@ Contract recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-06, [[2026-07-06 - Weekly Talent Kick Off]]] First full week. Taking over platform + senior backend from Ryan. Meeting Eduardo today for kickoffs. Shadowing Marcus Tolma screen at 2:30. Reviewing Leo Bishop Metaview calls for calibration. Positive on chase bot: "really simple thing that will make a massive difference to feedback loops."
 
 - [2026-07-08, [[2026-07-08 - Engineering Hiring Kick Off]]] Ran first engineering ICP kick-off with Christos and Edoardo. Structured approach with non-negotiables matrix, diversity/geography coverage. Writing up ICP by EOW.
+- [2026-07-09, [[2026-07-09 - Platform Hiring Kick Off]]] Ran platform hiring intake with Edoardo and Christos. Building platform hiring doc by Monday. Added architecture to backend talent screen questioning.
 
 ## EYS Evidence
 

@@ -21,6 +21,10 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-08, [[2026-07-08 - Kapil Pau - Senior Backend Engineer Screen]]] Screened Kapil Pau for Senior Backend Engineer. Good technical screening, transparent salary conversation (140-150k ask vs. 120k cap). Flagged lead/principal leveling option. Progressing.
 - [2026-07-08, [[2026-07-08 - Erisen Ali Ryan Bolton-Smith - Lead FX Hiring Kick Off]]] Ran FX hiring kick-off with Erisen. Structured private candidate notes, moving salaries off Slack. Targeting aggregator firms (TerraPay, dLocal, Thunes).
 - [2026-07-08, [[2026-07-08 - Ndomete Maliko Dessande - Growth Manager Francophone Africa Screen]]] Screened Ndomete for Growth Manager Francophone Africa. HEC Paris MBA, Central African background, $65-70k. Action: share with Imad.
+- [2026-07-09, [[2026-07-09 - Ryan Owen 1-1]]] Messages to Benji should be topline ask + minimal context. Doing double Mark's call volume while running the team. Standup redesign: data-first, pre-call Slack inputs, Monday/Wed/Fri cadence. ATS review steer: start with problems, not solutions.
+- [2026-07-09, [[2026-07-09 - Andrei Petrovich - Senior Backend Engineer Screen]]] Screened Andrei Petrovich for SBE -- lean yes, 7yr Go, Delivery Hero, missed idempotency unprompted. EUR140/hr.
+- [2026-07-09, [[2026-07-09 - Kasper Bentsen - Senior Backend Engineer Problem-Solving]]] Progressed Kasper Bentsen to pair programming -- lean yes, strong event-architecture answers, 138K EUR/yr B2B.
+- [2026-07-09, [[2026-07-09 - Eunice Kormi - Growth Manager Ghana Problem-Solving]]] Progressed Eunice Kormi to Imaad -- strong community ties, Ghana Party in Park, mother's catering network. Salary gap (asked 75-85K, likely 65K base).
 
 ## EYS Evidence
 
