@@ -25,6 +25,8 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-09, [[2026-07-09 - Andrei Petrovich - Senior Backend Engineer Screen]]] Screened Andrei Petrovich for SBE -- lean yes, 7yr Go, Delivery Hero, missed idempotency unprompted. EUR140/hr.
 - [2026-07-09, [[2026-07-09 - Kasper Bentsen - Senior Backend Engineer Problem-Solving]]] Progressed Kasper Bentsen to pair programming -- lean yes, strong event-architecture answers, 138K EUR/yr B2B.
 - [2026-07-09, [[2026-07-09 - Eunice Kormi - Growth Manager Ghana Problem-Solving]]] Progressed Eunice Kormi to Imaad -- strong community ties, Ghana Party in Park, mother's catering network. Salary gap (asked 75-85K, likely 65K base).
+- [2026-07-10, [[2026-07-10 - Sachin Malanki - Senior Platform Engineer Screen]]] Screened Sachin Malanki for Platform Eng. Positive -- New Day, AWS/EKS/Terraform, Backstage IDP builder, solo platform experience. GBP 105-110k, visa sponsorship needed. No Kafka.
+- [2026-07-10, [[2026-07-10 - Marius Pocevicius - Senior Platform Engineer Screen]]] Screened Marius Pocevicius for Platform Eng. Positive -- generalist, Tuza fintech, build-it-yourself instinct. No Kafka. Same-day follow-up booked.
 
 ## EYS Evidence
 

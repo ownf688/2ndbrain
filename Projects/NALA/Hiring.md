@@ -77,7 +77,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] FX Sales/Trading Lead — candidate passed Erisen's stage; Peter final call this week
 - [ ] Finance Associate (Kenya) — interviews scheduled Jul 7 (5 candidates, overlapping stages)
 - [ ] Interview capacity policy — engineers managing own schedules + swaps; on-call excluded from rotation (Markus expectation set Jul 2)
-- [ ] Workplace & Culture Manager — 3 candidates at problem-solving stage with Susanna Bae (Janset Rafet ex-Revolut, Anna Luong ex-Airwallex, Sanelisa N. ex-4Most). Owen screened Jul 6. 1hr interviews this week, then Benji final in-office next week. ~100 sourced, 10 screened. Channel created Jul 5.
+- [ ] Workplace & Culture Manager — Problem-solving done: Anna Luong (2/5, below bar but progressing), Janset Rafet (2.5/5, lean no - fit/tenure pattern), Sanelisa N. (3.7/5, above bar, progressing). **Priority this week: get Anna + Sanelisa into London office Tuesday to meet Peter and Benji.** Khrystyna rejected week of Jul 7. ~100 sourced, 10 screened.
 
 ## Project owners
 
@@ -88,6 +88,28 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 
 ## Updates
 
+### 2026-07-10 — Interviews (10 ingested)
+
+**Bar-raiser:**
+- Karanjit Randhawa (GHoC, Peter): STRONG PASS. FCA 10yr, KPMG, RBS, CRO at Viva (JP Morgan-backed). Built compliance from zero, won UK licence. AI-forward (Claude risk registers replacing 150k/yr software). Peter signalled progress: "hearing from us pretty shortly." Progress to Nico next week alongside Prashant Kalia.
+
+**Problem-solving (W&CM):**
+- Anna Luong (Susanna Bae): 2/5 below bar. Solid office manager but problem-solving stayed at "send Slack reminders" level. Owen decision: progressing to in-person anyway. Tuesday office visit with Peter + Benji.
+- Janset Rafet (Susanna Bae): 2.5/5 below bar. Operational execution strong (Revolut 115k sqft, 440 desks) but answers attitudinal not structured. Lean no -- fit, likability (Susanna), 1-year tenure pattern at every employer.
+- Sanelisa N. (Susanna Bae): 4/3/4 above bar. Strongest of three. GBP 160k contract savings story. Structured problem-solver, customer-first instinct. Progressing Tuesday in-person.
+
+**Problem-solving (Ops):**
+- Michael Akhwale (Vendor Onboarding, Sidi): 2/5 all dimensions. Below bar. Manual KYC only, no tooling, deferred to managers. Do not progress.
+- Kelvin Onacha (Entity Ops, Lynnette+Sidi): 3/3/2 borderline. Banking compliance foundations but tooling basic (Excel), multi-jurisdiction new.
+
+**Talent screens:**
+- Sachin Malanki (Platform Eng, Ryan): progress. 3-4yr New Day, AWS/EKS/Terraform, Backstage IDP builder. Visa sponsorship needed. GBP 105-110k ask. No Kafka.
+- Marius Pocevicius (Platform Eng, Ryan): progress. Generalist, Tuza fintech, enthusiastic. No Kafka. Follow-up same day.
+- Mohamad Hasbini (ALMCO, Mark): alignment call, redirected from MLRO. Wise Brussels. Advance to Josh Black.
+- Sheila Njeru (Entity Ops, Sidi): positive breadth (~10 African jurisdictions) but version-control confused, no questions asked. Decision pending.
+
+**Interviewer note:** Susanna Bae's W&CM interviews were heavily weighted toward context-setting (~60/40 interviewer-to-candidate). Consider providing tighter problem-solving framework for future candidates.
+
 ### 2026-07-09 — Interviews + Pipeline
 
 **1:1s:**
@@ -97,7 +119,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 **Screens:**
 - Andrei Petrovich (SBE, Ryan): lean yes. 7yr Go, Delivery Hero, solid distributed systems. Missed idempotency unprompted. EUR140/hr, 3-month notice.
 - Selemani Niyitegeka (ALMCO, Mark): strong no. Execution-layer only, no programme-build, communication barrier.
-- Khrystyna Doskochynska (W&CM, Owen): lean yes. BNS Group (pharma), warm, delivery-oriented. Never got JD before call. Next: Susanna.
+- ~~Khrystyna Doskochynska (W&CM, Owen): rejected. Rejection email sent week of Jul 7.~~
 - Prashant Kalia (GHoC, Mark): strong yes. 20+yr pedigree (AmEx/Amazon EMI/Stripe/Circle/Flutterwave CRCO). Built programmes, elite regulator track record (CSSF adopted his AML framework). GBP217K base, 1-month notice. Next: Nico/Peter. Available Tue 14 Jul.
 
 **Problem-solving:**

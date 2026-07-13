@@ -1,7 +1,7 @@
 ---
 aliases: [Susanna Bae, Susanna]
 company: NALA
-role: EA to CEO (Benjamin Fernandes)
+role: Workplace & Culture (hiring manager / interviewer)
 tags: [person]
 ---
 
@@ -9,8 +9,14 @@ tags: [person]
 
 ## Context
 
-Executive Assistant to Benji (CEO). Key stakeholder in hiring processes -- coordinates exec schedules, runs problem-solving interviews for non-technical roles (e.g. Workplace & Culture Manager). Based in London office.
+Interviewer for the Workplace & Culture Manager role at NALA. Conducted problem-solving interviews for W&CM candidates. First encountered in Jul 2026 W&CM hiring process.
 
 ## Interactions
 
-- [2026-07-07, W&CM hiring] Owen tagged Susanna to run problem-solving interviews for 3 W&CM candidates (Janset, Anna, Sanelisa). Linked Notion playbook for her to review.
+- [2026-07-10, [[2026-07-10 - Anna Luong - Workplace and Culture Manager Problem-Solving]]] Problem-solving interview with Anna Luong (2/5, below bar).
+- [2026-07-10, [[2026-07-10 - Janset Rafet - Workplace and Culture Manager Problem-Solving]]] Problem-solving interview with Janset Rafet (2.5/5, below bar). Heavy context-setting (~60/40 interviewer-to-candidate).
+- [2026-07-10, [[2026-07-10 - Sanelisa N - Workplace and Culture Manager Problem-Solving]]] Problem-solving interview with Sanelisa N. (4/3/4, above bar). Interview ran 95 minutes vs planned 45.
+
+## Notes
+
+Interview format observation: Susanna's interviews are heavily weighted toward context-setting and role-selling. Candidate problem-solving time is compressed. Consider providing a tighter problem-solving framework with time-boxed scenarios for future candidates.

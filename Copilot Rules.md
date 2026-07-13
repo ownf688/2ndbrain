@@ -18,6 +18,8 @@ tags: [meta, copilot]
 - **Litigation docs signed by Owen on Jul 8.** Don't re-surface.
 - **Owen spoke to Chidi about UK work arrangements.** "Chi" in eng leads weekly = "Chidi" in Owen's usage. Add alias.
 - **General rule: before flagging something as "not done", search Slack DMs, Gmail, AND hiring channels for evidence Owen already actioned it.** Surfacing completed items as overdue is frustrating and erodes trust.
+- **Khrystyna Doskochynska (W&CM) rejected week of Jul 7.** Decision made, rejection email sent. Do not resurface as a live candidate.
+- **Lynnette feedback (Jul 9 comms miss) was delivered in the Jul 9 1:1.** Don't carry forward as "not yet delivered."
 - **AMLCO is a separate role from MLRO.** They are distinct hires for the EU entity (Jubilee/Belgium). Don't conflate them.
 - **"Parv" in transcripts = Parth Patel.** Always use Parth, not Parv.
 - **Interview ingestion: don't confuse conversational warmth with a hire signal.** A candidate being pleasant, asking decent questions, and having relevant job titles is not evidence of culture-shaping ability. Weight the QUALITY of their examples against NALA's bar, not their enthusiasm. Egg-counting competitions and pre-issuing ID cards are basic ops, not culture work.

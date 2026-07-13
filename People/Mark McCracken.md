@@ -34,3 +34,4 @@ Contract recruiter at NALA, based in the UK. Reports to Owen.
 
 - [2026-07-09, [[2026-07-09 - Selemani Niyitegeka - ALMCO Screen]]] Screened Selemani Niyitegeka for ALMCO -- strong no. Execution-layer only, no programme-build experience, communication barrier.
 - [2026-07-09, [[2026-07-09 - Prashant Kalia - Global Head of Compliance Screen]]] Screened Prashant Kalia for GHoC -- strong yes. 20+ yr pedigree (AmEx/Amazon/Stripe/Circle/Flutterwave CRCO). GBP217K base, 1-month notice. Progressing to Nico/Peter.
+- [2026-07-10, [[2026-07-10 - Mohamad Hasbini - ALMCO Screen]]] Screened Mohamad Hasbini for ALMCO (EU Entity) -- redirected from MLRO, better fit. Wise Brussels, governance specialty. Advancing to Josh Black.
