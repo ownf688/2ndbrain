@@ -16,6 +16,7 @@ Engineering leadership at NALA. Organizes and leads the eng leads weekly. Based 
 ## Interactions
 
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Led weekly; presented Q3 company goals, hiring update, Equals Money program, and announced Parf's team moving to engineering
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Reportedly planning to backfill all laid-off engineers (5-6 roles), per Ryan at leads meeting. Owen confirmed intent but noted it "remains to be seen."
 
 ## EYS Evidence
 

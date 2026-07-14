@@ -27,6 +27,8 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-09, [[2026-07-09 - Eunice Kormi - Growth Manager Ghana Problem-Solving]]] Progressed Eunice Kormi to Imaad -- strong community ties, Ghana Party in Park, mother's catering network. Salary gap (asked 75-85K, likely 65K base).
 - [2026-07-10, [[2026-07-10 - Sachin Malanki - Senior Platform Engineer Screen]]] Screened Sachin Malanki for Platform Eng. Positive -- New Day, AWS/EKS/Terraform, Backstage IDP builder, solo platform experience. GBP 105-110k, visa sponsorship needed. No Kafka.
 - [2026-07-10, [[2026-07-10 - Marius Pocevicius - Senior Platform Engineer Screen]]] Screened Marius Pocevicius for Platform Eng. Positive -- generalist, Tuza fintech, build-it-yourself instinct. No Kafka. Same-day follow-up booked.
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Introduced outcome-based weekly standup format: pipeline milestones per role, not just activity counts. 5 priority roles mapped with specific weekly targets. Francophone Africa near close. 36 FX applicants to review. Owes written standup process doc.
+- [2026-07-13, [[2026-07-13 - Ankur Saini - Senior Platform Engineer Screen]]] Screened Ankur Saini for Platform Eng. Lean no - 7yr experience but answers surface-level, tool-name-driven. GBP 80k+, 3-month notice, visa sponsorship needed.
 
 ## EYS Evidence
 
@@ -49,3 +51,4 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-06-29, [[2026-06-29 - Weekly talent kick off call]]] Positive: Introduced Oli to channels same day he joined — *Speed Wins*
 - [2026-07-08] Positive: Transparent salary conversation with Kapil - "I'll be honest, Kapil, might be difficult for us to hit it" - managed expectations without overselling — *Customers First*
 - [2026-07-08] Positive: Moving salary discussions off Slack proactively after a data exposure incident — *Speed Wins*
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Positive: Structured weekly goals per role with measurable pipeline milestones, self-imposed accountability check-ins Wed+Fri -- *Play to Win*

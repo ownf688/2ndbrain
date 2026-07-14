@@ -30,7 +30,9 @@ Engineering lead at NALA. Works on app/EU integration (Equals Money, compliance 
 - [2026-06-29, [[2026-06-29 - Eng leads weekly]]] Positive: "Let me grab Simeon, Bailey and Chi and we're going to crack on every single part" — *Play to Win*
 - [2026-07-08, [[2026-07-08 - Chris Reeves - Lead Engineer Collections and Treasury Problem-Solving]]] Ran structured architecture interview - probing questions on validation gaps and failure modes — evidence of interviewing skill
 - [2026-07-08, [[2026-07-08 - Engineering Hiring Kick Off]]] Positive: "we had to consider people going away because we couldn't understand them" - learned from past mistake, added English as hard filter — *Understand Why*
+- [2026-07-13, [[2026-07-13 - Guy Dalziel - Senior Platform Engineer Problem-Solving]]] Positive: Gave authentic sell on NALA ownership culture -- *Play to Win*
 
 ## Interactions (continued)
 
 - [2026-07-09, [[2026-07-09 - Platform Hiring Kick Off]]] Flagged architecture gap in backend screening. Advocated for Atlantis completion as self-service enabler. Key interviewer for platform architecture stage.
+- [2026-07-13, [[2026-07-13 - Guy Dalziel - Senior Platform Engineer Problem-Solving]]] Interviewed Guy Dalziel for Senior Platform Engineer. Mostly observing, let Edoardo lead. Gave strong sell on NALA culture and ownership.

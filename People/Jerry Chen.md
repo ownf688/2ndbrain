@@ -1,7 +1,7 @@
 ---
 aliases: [Jerry Chen, Jerry]
 company: NALA
-role: People Lead
+role: People Lead (consultant, formerly full-time)
 tags: [person]
 ---
 
@@ -9,7 +9,7 @@ tags: [person]
 
 ## Context
 
-People Lead at NALA. Reports to Owen. Started Aug 2023. Does not currently have Windmill access.
+Former People Lead at NALA. Left the company but remains as a consultant, so still appears on some systems (Windmill, Slack, Calendar). Does NOT report to Owen. Started Aug 2023.
 
 ## Interactions
 

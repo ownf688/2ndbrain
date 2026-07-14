@@ -26,6 +26,7 @@ tags: [meta, copilot]
 - **Always check Workable candidate status before presenting interview assessments.** If a candidate has already been rejected/progressed, the brain should reflect that - not present a stale assessment. This also catches cases where Owen already drafted the rejection email via Claude in a previous session.
 - **Every TPO seed MUST have a Gmail draft to owen.wn.fleming@gmail.com.** Subject: `[TPO] <Title>`. Body: take, insight, evidence, angles, and full first draft if available. Strip the Context section. Never skip or forget this step.
 - **Always prompt Owen for unlogged decisions.** After meetings, briefs, or any interaction where a call was made, ask: "Should we log this as a decision?" Owen can also say "log that" at any time and the Slack listener or active session should capture it.
+- **Jerry Chen has LEFT NALA as a full-time employee.** He remains as a consultant and still appears on some systems (Windmill, Slack, Calendar). He does NOT report to Owen. Don't treat him as a direct report, don't suggest 1:1s as management touchpoints, and don't flag "zero interactions with Jerry" as a people management gap. Calendar events with Jerry (e.g. PENSION CHECK) are admin/consultant tasks.
 
 ## Decision heuristics (Owen's + Jerry's)
 

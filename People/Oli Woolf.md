@@ -19,6 +19,7 @@ Contract recruiter at NALA, based in the UK. Reports to Owen.
 
 - [2026-07-08, [[2026-07-08 - Engineering Hiring Kick Off]]] Ran first engineering ICP kick-off with Christos and Edoardo. Structured approach with non-negotiables matrix, diversity/geography coverage. Writing up ICP by EOW.
 - [2026-07-09, [[2026-07-09 - Platform Hiring Kick Off]]] Ran platform hiring intake with Edoardo and Christos. Building platform hiring doc by Monday. Added architecture to backend talent screen questioning.
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Focusing on platform engineer pipeline (8 live candidates vs 15 on backend). Sharp call: "if one of those 15 isn't getting that engineering role, there's a disconnect." Chasing Edoardo and Christos on hiring documentation. Target: 5 strong platform candidates this week.
 
 ## EYS Evidence
 
@@ -28,3 +29,4 @@ Contract recruiter at NALA, based in the UK. Reports to Owen.
 
 ### Values
 - [2026-07-08, [[2026-07-08 - Engineering Hiring Kick Off]]] Positive: Running kick-offs immediately, platform session already booked for tomorrow — *Speed Wins*
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Positive: Pushed back on activity metrics in favour of outcome-based goals, diagnosed pipeline disconnect rather than defaulting to more volume -- *Understand Why*

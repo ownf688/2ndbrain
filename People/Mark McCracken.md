@@ -29,9 +29,11 @@ Contract recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-06-30] Positive: Moved from kickoff to sourcing in 24 hours — *Speed Wins*
 - [2026-07-02] Positive: Proposed running GHoC stages in parallel to close faster — *Play to Win*
 - [2026-07-08] Watch: Couldn't answer Stefan's strategic SWIFT question, said "I'm only a contractor, I'm only in a few months" - needs better prep on business model for senior candidates — *Customers First gap*
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Watch: Off without handover or advance notice to team lead -- *Play to Win gap*
 
 ## Interactions (continued)
 
 - [2026-07-09, [[2026-07-09 - Selemani Niyitegeka - ALMCO Screen]]] Screened Selemani Niyitegeka for ALMCO -- strong no. Execution-layer only, no programme-build experience, communication barrier.
 - [2026-07-09, [[2026-07-09 - Prashant Kalia - Global Head of Compliance Screen]]] Screened Prashant Kalia for GHoC -- strong yes. 20+ yr pedigree (AmEx/Amazon/Stripe/Circle/Flutterwave CRCO). GBP217K base, 1-month notice. Progressing to Nico/Peter.
 - [2026-07-10, [[2026-07-10 - Mohamad Hasbini - ALMCO Screen]]] Screened Mohamad Hasbini for ALMCO (EU Entity) -- redirected from MLRO, better fit. Wise Brussels, governance specialty. Advancing to Josh Black.
+- [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Absent without handover. Ryan had no advance notice. Pipeline (EU MD, MLRO, GHoC) uncovered.
