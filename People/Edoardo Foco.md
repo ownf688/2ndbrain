@@ -35,3 +35,4 @@ Engineering lead at NALA, T-Rex team. Manages True Layer integration, biometric 
 
 - [2026-07-09, [[2026-07-09 - Platform Hiring Kick Off]]] Platform hire reports to him. Shared 30/60/90 roadmap (Slack Jun 11). AWS + Terraform are hard non-negotiables at senior level. First standalone infra hire at NALA.
 - [2026-07-13, [[2026-07-13 - Guy Dalziel - Senior Platform Engineer Problem-Solving]]] Led Guy Dalziel's problem-solving interview for Senior Platform Engineer. Good task framing. Probed on TLS, environment management, security groups.
+- [2026-07-14, [[2026-07-14 - Ashiqur Rahman - Senior Platform Engineer Architecture]]] Led architecture interview as Senior EM. Two-phase format: AWS infrastructure design then Terraform project structure. Second time running this format. Disclosed NALA uses ECS on EC2 (not Fargate), Grafana+Datadog+Incident.io, HashiCorp Vault extensively. Confirmed Platform Engineer = first dedicated infra resource.

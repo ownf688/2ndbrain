@@ -88,6 +88,21 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 
 ## Updates
 
+### 2026-07-14 — Interviews (5 ingested)
+
+**Architecture (Platform Eng):**
+- Ashiqur Rahman (Arek + Edoardo): STRONG PASS. Complete FX pipeline on AWS, exceptional observability (maps to NALA stack), production-grade Terraform. Architecture scorecard ~3.5 weighted avg. Self-deprecating style masks substance. Team requested expedite. Progress to Markus final round.
+
+**Talent screens:**
+- Giacomo Sorbi (SBE, Ryan): Lean no. Go gap (self-described light usage), passive motivation ("as long as it's legal, I do it"), adequate but surface-level technical. GBP 100-120k, London, immediate. Deferred to Markus.
+- Daniel Vladco (Lead Eng C&T, Ryan): Pass to technical round. Strong IC (Go, Polkadot JAM RISC-V VM) but zero Lead evidence surfaced. EUR 6-7k/month B2B Romania, immediate. Must probe Lead bar in next stage.
+- Ram Kilari (Platform Eng, Ryan): Lean no. Built Patch Shield (good instinct) but stack shallow for Senior - no K8s depth, no GitOps, no Kafka. GBP 75k, 2-week notice.
+
+**MLRO:**
+- Aron Kazaj (MLRO, Josh Black): INSUFFICIENT DATA. Light 24-min intro, not structured problem-solving. Never formally appointed MLRO - blocker for NBB fitness-and-propriety. Don't reject yet but need proper round. Josh's interview design needs tightening - scorecard + question set needed.
+
+**Interviewer note:** Josh described MLRO as "the most important hire in the next 9 months" but ran a 24-min screening call. Raise in next Josh touchpoint.
+
 ### 2026-07-10 — Interviews (10 ingested)
 
 **Bar-raiser:**

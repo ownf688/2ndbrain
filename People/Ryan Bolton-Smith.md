@@ -29,6 +29,10 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-10, [[2026-07-10 - Marius Pocevicius - Senior Platform Engineer Screen]]] Screened Marius Pocevicius for Platform Eng. Positive -- generalist, Tuza fintech, build-it-yourself instinct. No Kafka. Same-day follow-up booked.
 - [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Introduced outcome-based weekly standup format: pipeline milestones per role, not just activity counts. 5 priority roles mapped with specific weekly targets. Francophone Africa near close. 36 FX applicants to review. Owes written standup process doc.
 - [2026-07-13, [[2026-07-13 - Ankur Saini - Senior Platform Engineer Screen]]] Screened Ankur Saini for Platform Eng. Lean no - 7yr experience but answers surface-level, tool-name-driven. GBP 80k+, 3-month notice, visa sponsorship needed.
+- [2026-07-14, [[2026-07-14 - Ram Kilari - Senior Platform Engineer Screen]]] Screened Ram Kilari for Platform Eng. Lean no -- SRE background, built Patch Shield (solid instinct), but technical depth thin: scenario answers were checklists not war stories, no Kubernetes/GitOps/Kafka experience, no commercial Azure. GBP 75k, 2-week notice, dependent visa (no sponsorship needed). Next step: proceed/no-proceed to candidate by EOD 2026-07-15.
+- [2026-07-14, [[2026-07-14 - Giacomo Sorbi - Senior Backend Engineer Screen]]] Screened Giacomo Sorbi for SBE. Lean no - Go gap (self-described light usage), passive motivation (market softness not pull), adequate but surface-level technical answers. GBP 100-120k, London, settled status, immediate start. Deferred to Markus for proceed/reject.
+- [2026-07-14, [[2026-07-14 - Daniel Vladco - Lead Engineer Collections and Treasury Screen]]] Screened Daniel Vladco (Romania) for Lead Eng C&T. Strong IC profile (Go, distributed systems, Polkadot JAM VM). Soft pass to technical round pending EM sign-off. EUR 6-7k/month B2B. Key gap: zero Lead-level evidence surfaced.
+- [2026-07-14, [[2026-07-14 - Ashiqur Rahman - Senior Platform Engineer Architecture]]] Present in Ashiqur architecture interview. Team requested expedite post-interview.
 
 ## EYS Evidence
 

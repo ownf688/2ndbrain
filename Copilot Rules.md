@@ -18,11 +18,14 @@ tags: [meta, copilot]
 - **Litigation docs signed by Owen on Jul 8.** Don't re-surface.
 - **Owen spoke to Chidi about UK work arrangements.** "Chi" in eng leads weekly = "Chidi" in Owen's usage. Add alias.
 - **General rule: before flagging something as "not done", search Slack DMs, Gmail, AND hiring channels for evidence Owen already actioned it.** Surfacing completed items as overdue is frustrating and erodes trust.
+- **Q3 People Plan redraft is DONE.** Delivered week of Jul 13. Don't resurface.
+- **Iliase comp (GBP 115k) is effected.** Benji expressed frustration about the same-day approval process, but the change went through. Not a blocker, no further action needed. Don't frame as "proposal needed."
 - **Khrystyna Doskochynska (W&CM) rejected week of Jul 7.** Decision made, rejection email sent. Do not resurface as a live candidate.
 - **Lynnette feedback (Jul 9 comms miss) was delivered in the Jul 9 1:1.** Don't carry forward as "not yet delivered."
 - **AMLCO is a separate role from MLRO.** They are distinct hires for the EU entity (Jubilee/Belgium). Don't conflate them.
 - **"Parv" in transcripts = Parth Patel.** Always use Parth, not Parv.
 - **Interview ingestion: don't confuse conversational warmth with a hire signal.** A candidate being pleasant, asking decent questions, and having relevant job titles is not evidence of culture-shaping ability. Weight the QUALITY of their examples against NALA's bar, not their enthusiasm. Egg-counting competitions and pre-issuing ID cards are basic ops, not culture work.
+- **Interview ingestion: don't confuse conversational humility with incompetence.** A candidate who self-discloses "I'm rusty on X" and then gets X right is showing self-awareness, not weakness. Hedging language ("feel free to point me", "I don't feel strongly") can be communication style, not a performance signal. Weight what the candidate DELIVERED, not how they narrated it. If the interview team requests to expedite, that is a strong positive signal that outweighs transcript-level hedging. (Khondoker Ashiqur Rahman correction, Jul 2026.)
 - **Always check Workable candidate status before presenting interview assessments.** If a candidate has already been rejected/progressed, the brain should reflect that - not present a stale assessment. This also catches cases where Owen already drafted the rejection email via Claude in a previous session.
 - **Every TPO seed MUST have a Gmail draft to owen.wn.fleming@gmail.com.** Subject: `[TPO] <Title>`. Body: take, insight, evidence, angles, and full first draft if available. Strip the Context section. Never skip or forget this step.
 - **Always prompt Owen for unlogged decisions.** After meetings, briefs, or any interaction where a call was made, ask: "Should we log this as a decision?" Owen can also say "log that" at any time and the Slack listener or active session should capture it.
