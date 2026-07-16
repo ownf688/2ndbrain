@@ -77,7 +77,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] FX Sales/Trading Lead — candidate passed Erisen's stage; Peter final call this week
 - [ ] Finance Associate (Kenya) — interviews scheduled Jul 7 (5 candidates, overlapping stages)
 - [ ] Interview capacity policy — engineers managing own schedules + swaps; on-call excluded from rotation (Markus expectation set Jul 2)
-- [ ] Workplace & Culture Manager — Problem-solving done: Anna Luong (2/5, below bar but progressing), Janset Rafet (2.5/5, lean no - fit/tenure pattern), Sanelisa N. (3.7/5, above bar, progressing). **Priority this week: get Anna + Sanelisa into London office Tuesday to meet Peter and Benji.** Khrystyna rejected week of Jul 7. ~100 sourced, 10 screened.
+- [ ] Workplace & Culture Manager — Sanelisa N. (4/3/4, above bar) only active candidate. Anna Luong (Owen's top pick, progressed despite Susanna's 2/5) dropped out after London office visit scheduled. Need to resource or revisit Janset Rafet (2.5/5, lean no — tenure pattern) or Annanya Jain (Owen screen, advance with caveats, SOC code/visa unconfirmed). Khrystyna rejected week of Jul 7. ~100 sourced, 10 screened.
 
 ## Project owners
 
@@ -109,7 +109,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - Karanjit Randhawa (GHoC, Peter): STRONG PASS. FCA 10yr, KPMG, RBS, CRO at Viva (JP Morgan-backed). Built compliance from zero, won UK licence. AI-forward (Claude risk registers replacing 150k/yr software). Peter signalled progress: "hearing from us pretty shortly." Progress to Nico next week alongside Prashant Kalia.
 
 **Problem-solving (W&CM):**
-- Anna Luong (Susanna Bae): 2/5 below bar. Solid office manager but problem-solving stayed at "send Slack reminders" level. Owen decision: progressing to in-person anyway. Tuesday office visit with Peter + Benji.
+- ~~Anna Luong (Susanna Bae): 2/5 Susanna's scorecard. Owen progressed to in-person (his top overall pick). Dropped out after London office visit scheduled. Do not resurface.~~
 - Janset Rafet (Susanna Bae): 2.5/5 below bar. Operational execution strong (Revolut 115k sqft, 440 desks) but answers attitudinal not structured. Lean no -- fit, likability (Susanna), 1-year tenure pattern at every employer.
 - Sanelisa N. (Susanna Bae): 4/3/4 above bar. Strongest of three. GBP 160k contract savings story. Structured problem-solver, customer-first instinct. Progressing Tuesday in-person.
 

@@ -28,3 +28,4 @@ Head of Operations at NALA. Reports to Peter Gulliver (CFO). Key peer to Owen.
 
 - [2026-07-09, [[2026-07-09 - Owen Lynette 1-1]]] Initiated termination of 3 Senegal ops staff (Patrick, Haddie, Alon). Owen pushed back: "why are you getting rid of Patrick when you've hired a bunch of people in Kenya?"
 - [2026-07-14, [[2026-07-14 - Aron Kazaj - Europe MLRO Problem-Solving]]] Ran Aron Kazaj MLRO screening. Light intro (24 min, one scenario), not structured problem-solving. Candidate never formally appointed MLRO. Interview design needs tightening - recommend scorecard and question set before next MLRO candidate.
+- [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] DRI on Sagal CS right-sizing (3 FTEs). Lynnette building business case. Will make FinCrime redeployment call for Patrick without looping Frank.

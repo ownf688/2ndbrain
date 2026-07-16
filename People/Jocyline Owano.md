@@ -1,5 +1,5 @@
 ---
-aliases: [Jocyline Owano, Jocyline]
+aliases: [Jocyline Owano, Jocyline, Joseline]
 company: NALA
 role: People Ops & Employee Experience Manager
 tags: [person]

@@ -22,6 +22,8 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-07-09, [[2026-07-09 - Owen Lynette 1-1]]] Building Claude payroll tool (half-correct, needs rules engine). Building Senegal ops separation case for Josh -- pursuing mutual separation to avoid redundancy risk. Sidi coaching: independent prioritisation still a gap. Closing Ryan refs for Monday onboarding, Finance Associate offer pending.
 - [2026-07-10, [[2026-07-10 - Kelvin Onacha - Entity Operations Analyst Problem-Solving]]] Co-interviewed Kelvin Onacha for Entity Ops Analyst -- pressed well on version control specifics, shared Kenya team scaling context.
 - [2026-07-10, [[2026-07-10 - Michael Akhwale - Vendor Onboarding Analyst Problem-Solving]]] Co-interviewer on Michael Akhwale talent screen (Sidi conducted).
+- [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Presented Sagal CS restructuring plan: redeployment-first (Patrick to FinCrime, Josh makes call), separation if not. Exploring choice model subject to Senegal law — "Let's do this quick. Let's do this fairly. Let's do this generously"
+- [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Nalaversary party + plaques (~$2k) approved. Ongoing lunch cost ($14k YTD, 60 heads) is operational — no approval needed. Peter to receive FYI on the ~$2k.
 
 ## EYS Evidence
 
@@ -33,6 +35,7 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-06-30, Windmill FB from [[Sidi Ngade]]] "Coaching and guidance is frequent, structured and practical... loops in the right people to get the work done... empowering"
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Building Claude-based payroll overtime calculator — evidence of initiative and technical problem-solving
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Coaching Sidi twice weekly on accountability and ownership — evidence of management discipline
+- [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Delivered comprehensive Senegal CS restructuring plan: legal framing, redeployment pathway, cost-exposure slide, choice model — before the meeting, not reactive
 
 ### Values
 - [2026-04-30, Windmill FB from [[Me]]] Positive: Ran high-risk termination (KYC breach involving a third party) flawlessly, end-to-end — *Play to Win*
@@ -44,3 +47,5 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-06-24, Windmill FB from [[Me]]] Watch: Backdated salary info labelled "final dues" with no specifics - Owen had to dig for context. Not leading with transparency — *Speed Wins gap*
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Positive: Used Claude to analyze her coaching approach with Sidi — *Understand Why*
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Watch: Employee handbook cleanup identified but not started — *Play to Win*
+- [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Positive: Comprehensive restructuring plan delivered pre-meeting — legal research, DRI assignments, timeline — unprompted — *Play to Win*
+- [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Watch: Severance calculation framing initially unclear — Owen had to probe to land the math. Lead with the conclusion — *Speed Wins gap*
