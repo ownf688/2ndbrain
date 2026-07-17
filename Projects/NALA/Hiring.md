@@ -75,9 +75,12 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] 4-day in-office policy for engineering — Markus pushing for 2-3 days to improve candidate conversion
 - [ ] Head of Africa Compliance — Segun: Ryan chasing Benji/Nico to close; no response yet
 - [ ] FX Sales/Trading Lead — candidate passed Erisen's stage; Peter final call this week
-- [ ] Finance Associate (Kenya) — interviews scheduled Jul 7 (5 candidates, overlapping stages)
+- [x] Finance Associate (Kenya) — offer approved Jul 16 for Jennifer. Serving 3-week notice, start early Aug.
 - [ ] Interview capacity policy — engineers managing own schedules + swaps; on-call excluded from rotation (Markus expectation set Jul 2)
 - [ ] Workplace & Culture Manager — Sanelisa N. (4/3/4, above bar) only active candidate. Anna Luong (Owen's top pick, progressed despite Susanna's 2/5) dropped out after London office visit scheduled. Need to resource or revisit Janset Rafet (2.5/5, lean no — tenure pattern) or Annanya Jain (Owen screen, advance with caveats, SOC code/visa unconfirmed). Khrystyna rejected week of Jul 7. ~100 sourced, 10 screened.
+- [ ] Oli Woolf performance — 3 weeks in, zero events sourced, zero interviews booked. Owen escalating to Mark (Talentful). Ryan to have CM conversation. If no improvement: engagement with Talentful. [Added 2026-07-16]
+- [ ] Senior FX Sales & Trading Lead — Lynnette shortlisting new candidates. Ryan Ishmael Akalah (Peter bar-raiser, near-offer signal) — follow up on status.
+- [ ] GA (Francophone Africa Growth Manager) — asking legal questions about working in US on visitor visa. Owen's position: can't work on visitor visa. Start date (20th) at risk of slipping pending legal review.
 
 ## Project owners
 
@@ -87,6 +90,25 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [[Oli Woolf]]
 
 ## Updates
+
+### 2026-07-16 — Pipeline + Performance
+
+**Oli Woolf performance flag (Ryan 1:1):**
+- 3 weeks in: 0 events, 0 sourced, 0 interviews, 2 shadow evaluations, 3 kickoff calls
+- Ryan escalating to Mark (Talentful); Owen directing dual-track: Talentful escalation + Ryan direct CM conversation with Oli
+- Mark to restart Talentful email activity reports so Oli's activity is visible in our reporting
+
+**Offer lesson — Gerta (Francophone Africa):**
+- Went to offer without knowing candidate employment status (she was unemployed — less leverage), current comp, or motivations fully
+- New standard: "housekeeping" section in all offer recommendations — employment status, current salary (where legal), notice period, motivation, benchmarking data
+- EU pay transparency rule applied: don't ask EU candidates for current salary
+
+**Finance Associate (Jennifer, Kenya):**
+- Offer approved Jul 16. Serving 3-week notice. Finance team pressing for early start (Michelle maternity overlap). Start early August.
+
+**Senior FX:** Lynnette starting shortlisting. Wendy to lead talent screens.
+
+**Entity Ops / Vendor Ops:** Leo final interviews done. Closing shortly.
 
 ### 2026-07-14 — Interviews (5 ingested)
 

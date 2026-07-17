@@ -24,6 +24,7 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-07-10, [[2026-07-10 - Michael Akhwale - Vendor Onboarding Analyst Problem-Solving]]] Co-interviewer on Michael Akhwale talent screen (Sidi conducted).
 - [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Presented Sagal CS restructuring plan: redeployment-first (Patrick to FinCrime, Josh makes call), separation if not. Exploring choice model subject to Senegal law — "Let's do this quick. Let's do this fairly. Let's do this generously"
 - [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Nalaversary party + plaques (~$2k) approved. Ongoing lunch cost ($14k YTD, 60 heads) is operational — no approval needed. Peter to receive FYI on the ~$2k.
+- [2026-07-16, [[2026-07-16 - Owen Lynnette 1-1]]] Colapo equity confirmed (cliff Oct 2026, next batch). Kenya equity tax research assigned. Jennifer offer confirmed. Jocyline maternity overspend — Owen decided to eat cost. Fast Track Path concept presented — more thinking time needed. Humanizer skill installed on call. Deel/HiBob integration explained; Lynnette to become Kenya admin. Zero payroll errors — Owen thanked her explicitly.
 
 ## EYS Evidence
 
@@ -49,3 +50,6 @@ Senior People Partner (Africa | Asia) at NALA, based in Nairobi. Reports to Owen
 - [2026-07-02, [[2026-07-02 - Owen Lynette 1-1]]] Watch: Employee handbook cleanup identified but not started — *Play to Win*
 - [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Positive: Comprehensive restructuring plan delivered pre-meeting — legal research, DRI assignments, timeline — unprompted — *Play to Win*
 - [2026-07-15, [[2026-07-15 - Owen Lynnette Working Session]]] Watch: Severance calculation framing initially unclear — Owen had to probe to land the math. Lead with the conclusion — *Speed Wins gap*
+- [2026-07-16, [[2026-07-16 - Owen Lynnette 1-1]]] Positive: K-ticket tracker updated weekly without being asked — "just to give you peace of mind" — *Customers First*
+- [2026-07-16, [[2026-07-16 - Owen Lynnette 1-1]]] Positive: Thought through Jocyline situation from multiple angles before bringing it (human cost vs precedent risk) — *Understand Why*
+- [2026-07-16, [[2026-07-16 - Owen Lynnette 1-1]]] Positive: Installed humanizer skill live on call, didn't defer — *Speed Wins*

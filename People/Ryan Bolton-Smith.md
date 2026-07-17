@@ -34,6 +34,7 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-14, [[2026-07-14 - Giacomo Sorbi - Senior Backend Engineer Screen]]] Screened Giacomo Sorbi for SBE. Lean no - Go gap (self-described light usage), passive motivation (market softness not pull), adequate but surface-level technical answers. GBP 100-120k, London, settled status, immediate start. Deferred to Markus for proceed/reject.
 - [2026-07-14, [[2026-07-14 - Daniel Vladco - Lead Engineer Collections and Treasury Screen]]] Screened Daniel Vladco (Romania) for Lead Eng C&T. Strong IC profile (Go, distributed systems, Polkadot JAM VM). Soft pass to technical round pending EM sign-off. EUR 6-7k/month B2B. Key gap: zero Lead-level evidence surfaced.
 - [2026-07-14, [[2026-07-14 - Ashiqur Rahman - Senior Platform Engineer Architecture]]] Present in Ashiqur architecture interview. Team requested expedite post-interview.
+- [2026-07-16, [[2026-07-16 - Ryan Owen 1-1]]] Flagged Oli Woolf's zero-activity (3 weeks, 0 events, 0 sourced) proactively with data and a proposed dual-track solution. Received standup coaching and Gerta offer lesson well. Relayed Markus positive feedback.
 
 ## EYS Evidence
 
@@ -57,3 +58,7 @@ Recruiter at NALA, based in the UK. Reports to Owen.
 - [2026-07-08] Positive: Transparent salary conversation with Kapil - "I'll be honest, Kapil, might be difficult for us to hit it" - managed expectations without overselling — *Customers First*
 - [2026-07-08] Positive: Moving salary discussions off Slack proactively after a data exposure incident — *Speed Wins*
 - [2026-07-13, [[2026-07-13 - Weekly Talent Kick Off]]] Positive: Structured weekly goals per role with measurable pipeline milestones, self-imposed accountability check-ins Wed+Fri -- *Play to Win*
+- [2026-07-16, [[2026-07-16 - Ryan Owen 1-1]]] Positive: Surfaced Oli performance problem with hard data (Workable activity report, calendar review) and proposed the fix before being asked -- *Play to Win*
+- [2026-07-16, [[2026-07-16 - Ryan Owen 1-1]]] Positive: Asked for Owen's backing openly rather than suffering in silence -- *Understand Why*
+- [2026-07-16, [[2026-07-16 - Ryan Owen 1-1]]] Watch: Standup leadership style is directive/Ryan-centric at times — creates compliance but not buy-in. Owen coaching: there are different ways to bring people with you — *Customers First gap (internal customers = team)*
+- [2026-07-16, [[2026-07-16 - Ryan Owen 1-1]]] Watch: Sent recruitment rituals doc Monday with zero engagement check — could have followed up to confirm alignment — *Speed Wins gap*
