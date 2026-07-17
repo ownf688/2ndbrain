@@ -64,7 +64,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 
 - [x] EU remote hiring rollout — approved by Benji 2026-06-29; live but no new eng candidates surfaced yet
 - [x] Oli Woolf onboarded and owning engineering recruiting pipeline — introduced in hiring channels 2026-07-02; handover actively underway
-- [ ] Global Head of Compliance — 4+ candidates in pipeline (Ben Ellis closing strategy, Gowtham, Michael Heider, Karanjit Randhawa); Himanshu disqualified; Peter wants to see a few more before closing
+- [ ] Global Head of Compliance — Two finalists for Nico: Tom and Ben (Ben Ellis). Book Nico interviews. Karanjit/Prashant/others no longer in contention at this stage.
 - [ ] Gowtham Vijayakumar (GHoC) — BLOCKED on Owen: call on whether to advance to Peter
 - [ ] MLRO — Florence postponed Jul 2 conversation to next week; Aaron in pipeline (Mark chasing Josh for scheduling)
 - [ ] AMLCO (EU) — NEW role opened Jun 30; Mark kicked off with Josh, sourcing underway
@@ -74,12 +74,12 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] Platform Engineer — thin pipeline (1 candidate, ex-Meta); Oli taking over; needs EU remote sourcing boost
 - [ ] 4-day in-office policy for engineering — Markus pushing for 2-3 days to improve candidate conversion
 - [ ] Head of Africa Compliance — Segun: Ryan chasing Benji/Nico to close; no response yet
-- [ ] FX Sales/Trading Lead — candidate passed Erisen's stage; Peter final call this week
+- [ ] Senior FX Sales & Trading Lead — Ryan Ishmael Akalah DROPPED OUT (confirmed 2026-07-17). Lynnette shortlisting 6 active candidates at Talent Screen (Afiyin Opeoluwa, Arturo Córdova, Barry Hu, Elikem Deku, Ishan Takodra, Nnete Sebaka). Wendy to lead screens. Pipeline rebuild in progress.
 - [x] Finance Associate (Kenya) — offer approved Jul 16 for Jennifer. Serving 3-week notice, start early Aug.
 - [ ] Interview capacity policy — engineers managing own schedules + swaps; on-call excluded from rotation (Markus expectation set Jul 2)
 - [ ] Workplace & Culture Manager — Sanelisa N. (4/3/4, above bar) only active candidate. Anna Luong (Owen's top pick, progressed despite Susanna's 2/5) dropped out after London office visit scheduled. Need to resource or revisit Janset Rafet (2.5/5, lean no — tenure pattern) or Annanya Jain (Owen screen, advance with caveats, SOC code/visa unconfirmed). Khrystyna rejected week of Jul 7. ~100 sourced, 10 screened.
 - [ ] Oli Woolf performance — 3 weeks in, zero events sourced, zero interviews booked. Owen escalating to Mark (Talentful). Ryan to have CM conversation. If no improvement: engagement with Talentful. [Added 2026-07-16]
-- [ ] Senior FX Sales & Trading Lead — Lynnette shortlisting new candidates. Ryan Ishmael Akalah (Peter bar-raiser, near-offer signal) — follow up on status.
+- [ ] Platform Engineer — Khondoker Ashiqur Rahman: Markus bar-raiser 4/5 (2026-07-17). Moving to references. Strongest candidate to date.
 - [ ] GA (Francophone Africa Growth Manager) — asking legal questions about working in US on visitor visa. Owen's position: can't work on visitor visa. Start date (20th) at risk of slipping pending legal review.
 
 ## Project owners
@@ -90,6 +90,17 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [[Oli Woolf]]
 
 ## Updates
+
+### 2026-07-17 — Platform Eng + FX + GHoC
+
+**Platform Engineer — Ashiqur Rahman:**
+- Markus bar-raiser: 4/5. Moving to references. Coaching note: Markus to improve on selling NALA career/growth opportunity in future bar-raiser prep.
+
+**Senior FX Sales & Trading Lead:**
+- Ryan Ishmael Akalah confirmed dropped out. Workable shows 6 active candidates at Talent Screen (Afiyin Opeoluwa, Arturo Córdova, Barry Hu, Elikem Deku, Ishan Takodra, Nnete Sebaka). Lynnette shortlisting; Wendy leads screens.
+
+**GHoC:**
+- Tom and Ben (Ben Ellis) confirmed as two Nico finalists. Karanjit/Prashant no longer at this stage. Nico interviews not yet booked.
 
 ### 2026-07-16 — Pipeline + Performance
 
