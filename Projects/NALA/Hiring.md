@@ -69,7 +69,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] MLRO — Florence postponed Jul 2 conversation to next week; Aaron in pipeline (Mark chasing Josh for scheduling)
 - [ ] AMLCO (EU) — NEW role opened Jun 30; Mark kicked off with Josh, sourcing underway
 - [ ] EU Managing Director — NEW role opened Jun 30; Mark kicked off with Josh, sourcing underway
-- [ ] Growth Manager Francophone Africa — references then offer (Benji impressed); no Slack update since Jun 29
+- [ ] Growth Manager Francophone Africa — Gerda Otshumba. Offer verbally accepted. Seeking independent tax advice on consulting contract (expected w/c Jul 21). Owen open actions: health insurance for US trips + event indemnification (sections 11-12). Full update next week.
 - [ ] Growth Manager Ghana — 7 screenings booked, targeting 2-3 conversions
 - [ ] Platform Engineer — thin pipeline (1 candidate, ex-Meta); Oli taking over; needs EU remote sourcing boost
 - [ ] 4-day in-office policy for engineering — Markus pushing for 2-3 days to improve candidate conversion
@@ -80,7 +80,7 @@ Hiring, recruiting, talent, Workable, pipeline, sourcing, candidate, interview, 
 - [ ] Workplace & Culture Manager — Sanelisa N. (4/3/4, above bar) only active candidate. Anna Luong (Owen's top pick, progressed despite Susanna's 2/5) dropped out after London office visit scheduled. Need to resource or revisit Janset Rafet (2.5/5, lean no — tenure pattern) or Annanya Jain (Owen screen, advance with caveats, SOC code/visa unconfirmed). Khrystyna rejected week of Jul 7. ~100 sourced, 10 screened.
 - [ ] Oli Woolf performance — 3 weeks in, zero events sourced, zero interviews booked. Owen escalating to Mark (Talentful). Ryan to have CM conversation. If no improvement: engagement with Talentful. [Added 2026-07-16]
 - [ ] Platform Engineer — Khondoker Ashiqur Rahman: Markus bar-raiser 4/5 (2026-07-17). Moving to references. Strongest candidate to date.
-- [ ] GA (Francophone Africa Growth Manager) — asking legal questions about working in US on visitor visa. Owen's position: can't work on visitor visa. Start date (20th) at risk of slipping pending legal review.
+- [ ] Gerda Otshumba (Francophone Africa GM) — see above. B1/B2 visa confirmed as correct route for business travel. Pending: accountant appointment, health insurance answer, event indemnification answer from Owen.
 
 ## Project owners
 
