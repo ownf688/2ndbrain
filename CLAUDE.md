@@ -293,6 +293,19 @@ When review time comes, the packet is already built. Managers don't write from a
 
 ## Operational patterns
 
+### Session boot (start of every Claude Code session)
+At the start of every session, before anything else:
+1. **Verify session crons are live:** run `CronList`. If any of the following are missing, recreate them silently before the first response:
+   - `*/30 * * * *` — meeting-prep lookahead
+   - `3 8 * * 1-5` — daily ingest (pull-gdrive-transcripts yesterday + ingest-meeting)
+   - `17 8 * * 1-5` — commitment sweep + auto-draft
+   - `7 8 * * 3` — Wednesday hiring radar
+   - `13 8 * * 5` — Friday weekly reflection
+2. **Read `/Copilot Rules.md`** — persistent corrections that override defaults. Always do this; never skip.
+3. **Check `/tmp/transcripts/`** — if unprocessed artifacts exist from the system cron, flag them to Owen. Don't silently ignore stale artifacts.
+
+Session crons are ephemeral — they die when Claude Code closes. The system cron (8am weekday transcript pull) is permanent and survives restarts.
+
 ### Commitment sweep + auto-draft (proactive, runs daily + on demand)
 Triggered by: morning cron, or user asks "what do I owe people" / "sweep"
 1. **Scan for open commitments Owen made:**
@@ -356,9 +369,10 @@ Triggered by: user asks "weekly reflection" or on Friday cadence
 2. Read all meeting notes from `/Meetings/` this week
 3. Surface decisions from `/Decisions/` whose `review_date` falls this week
 4. Check Knowledge note candidates flagged but not promoted
-5. **Performance risk early warning (EYS):** scan for leading indicators — blockers without owners, stale 1:1s, defensive patterns, unresolved action items
-6. **Recognition check:** did anything positive happen this week that deserves a Shoutout or recognition post? Draft if yes.
-7. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration + performance signals + recognition drafts)
+5. **Vault lint:** surface structural debt — (a) decisions past `review_date` with `outcome: pending`; (b) People notes with zero interactions in 90+ days; (c) Projects with no `## Updates` block in 30+ days; (d) Knowledge candidates flagged during ingestion but not yet promoted (>2 weeks). Output as a short RAG list — Red = action needed this week, Amber = worth a look, Green = skip.
+6. **Performance risk early warning (EYS):** scan for leading indicators — blockers without owners, stale 1:1s, defensive patterns, unresolved action items
+7. **Recognition check:** did anything positive happen this week that deserves a Shoutout or recognition post? Draft if yes.
+8. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration + vault-lint items + performance signals + recognition drafts)
 
 ## Layout
 
@@ -381,7 +395,8 @@ Triggered by: user asks "weekly reflection" or on Friday cadence
 
 Skills under `/.claude/skills/` are **symlinks into the nala-brain clone** — they are shared with the whole team and updated via `git pull` in that clone. Edit them only in the nala-brain repo, via PR, never "just for me". Invoke them when the user asks for the matching task — they encode the canonical workflow and approval gates:
 
-- `**ingest-meeting**` — pure consumer: distills a normalized transcript artifact (produced by a `pull-*` skill, recognised by `format_version:` frontmatter) into `/Meetings/`, propagates updates to `/People/` and the matched `/Projects/` note, and flags `/Knowledge/` candidates. Read its SKILL.md before using.
+- `**ingest-meeting**` — pure consumer: distills a normalized transcript artifact (produced by a `pull-*` skill, recognised by `format_version:` frontmatter) into `/Meetings/`, propagates updates to `/People/` and the matched `/Projects/` note, flags `/Knowledge/` candidates, and surfaces existing Knowledge notes the meeting confirms/challenges/extends (Pass 3b). Read its SKILL.md before using.
+- `**ingest-document**` — distills a non-meeting document (PDF, DOCX, URL, pasted text) into `/Documents/<Type>/`, propagates to `/People/` and `/Projects/`, flags `/Knowledge/` candidates, and surfaces Knowledge resonance (same Pass 3b logic as ingest-meeting). Use for comp benchmarks, legal docs, board decks, reports, CVs — anything that isn't a meeting transcript.
 - `**normalize-meeting**` — cleans up legacy meeting notes already in `/Meetings/` (pre-canonical-format, AI summaries, fragments). Different routing per format detected.
 - `**morning-brief**` / `**update-project**` — project trajectory brief and project-note updater; see their SKILL.md files.
 - `**pull-gdrive-transcripts**` / `**pull-notion-transcripts**` / `**pull-metaview-transcripts**` — transcript producers (user-level, `~/.claude/skills/`); they emit the normalized artifact `ingest-meeting` consumes. The Metaview producer pulls full interview transcripts with interviewer/candidate attribution and interview-specific frontmatter (`type: interview`, `interviewer`, `candidate`, `role`) for EYS hiring-as-culture-carrier processing.

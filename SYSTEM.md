@@ -473,7 +473,8 @@ Triggered by: user asks "weekly reflection" or on Friday cadence
 2. Read all meeting notes from `/Meetings/` this week
 3. Surface decisions from `/Decisions/` whose `review_date` falls this week
 4. Check Knowledge note candidates flagged but not promoted
-5. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration)
+5. **Vault lint:** surface structural debt — (a) decisions past `review_date` with `outcome: pending`; (b) People notes with zero interactions in 90+ days; (c) Projects with no `## Updates` block in 30+ days; (d) Knowledge candidates flagged but not yet promoted (>2 weeks). Output as a short RAG list.
+6. Output: Weekly template (What/So What/Now What/When + decision reviews + calibration + vault-lint items)
 
 ## Operating Cadence
 
@@ -493,6 +494,10 @@ Triggered by: user asks "weekly reflection" or on Friday cadence
 ```
 
 Every weekday at 8am, pulls yesterday's Google Drive meeting transcripts to `/tmp/transcripts/`. No AI agent involved. Output is normalized transcript artifacts ready for ingestion.
+
+### Session boot (run at the start of every Claude Code session)
+
+Before anything else: run `CronList`. Recreate any missing session crons silently. Read `/Copilot Rules.md`. Check `/tmp/transcripts/` for unprocessed artifacts and flag them.
 
 ### Session crons (ephemeral — die when Claude Code closes, re-set each session)
 
@@ -557,11 +562,17 @@ Both emit the same normalized transcript contract. The gdrive producer also has 
 
 | Skill | Purpose |
 |-------|---------|
-| `ingest-meeting` | Distills normalized transcript artifact -> meeting note + propagation |
+| `ingest-meeting` | Distills normalized transcript artifact -> meeting note + propagation + Knowledge resonance check (Pass 3b) |
 
 Workflow: Read artifact -> match entities -> distill (summary, decisions, actions, discussion points, knowledge candidates) -> resolve ambiguities (batched) -> present for approval -> write.
 
 **Bulk ingest:** Read all N artifacts in parallel, distill independently, consolidate into one approval gate. The transcript-as-source-of-truth rule is never relaxed.
+
+### Document ingestion (vault-level)
+
+| Skill | Purpose |
+|-------|---------|
+| `ingest-document` | Distills a PDF, DOCX, URL, or pasted text -> `/Documents/<Type>/` note + propagation + Knowledge resonance check. Use for comp benchmarks, legal docs, board decks, reports, CVs. |
 
 ### Analysis skills (vault-level)
 
