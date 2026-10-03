@@ -38,3 +38,6 @@ Score each survivor out of 100: proof people pay 25, how empty the field is 20, 
 Rules: never invent a number; every claim needs a link and date or "not found"; plain English; no questions to the user, log assumptions in `assumptions.md`. Note: this environment blocks direct fetches of gov.uk/ons.gov.uk and most sites, so cite search-result sources and flag them as not checked at the original page. If WebSearch hits its limit, stop, write what you have into REPORT.md with a clear "incomplete" banner, commit and push.
 
 Commit and push to branch `research/world-scan-2026-10` after each step.
+
+## Status (2026-10-03, follow-on session)
+All steps done. Phase 4: all 18 killed (38 of 38 in total). Phase 5: `critic.md`. Phase 6: `ranking.md`. Report: `REPORT.md`. Sources: `SOURCES.md`.
