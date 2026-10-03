@@ -36,7 +36,7 @@ Jargon: CPM = price an advertiser pays per 1,000 readers reached. ARR = annual r
 - **Funding:** not found.
 - **Time to first sale / to £1m:** launched early February 2022; 16,000+ subscribers in first three weeks with a 45% open rate; sold within about a year (exact month not found).
 - **First 100 customers:** not found exactly. Strong inference (OPINION): Shaan Puri's existing audience as co-host of the My First Million podcast and on Twitter/X.
-- **Head start:** large existing audience (Shaan Puri, podcast host); a previous exit (founder of Bebo-era and Monkey Inferno ventures, from memory, unverified).
+- **Head start:** large existing audience (Shaan Puri, podcast host); a previous startup exit (from memory, unverified: Monkey Inferno, sold to Twitch).
 - **Big change ridden:** the 2021-22 crypto mania; beginners wanted crypto news without jargon.
 - **Failed attempts before:** not found.
 - **Copy today (OPINION):** Hard. Speed came from a pre-built audience and a hot market. The format (plain English plus memes for a jargon-heavy field) copies easily to dull B2B niches.
