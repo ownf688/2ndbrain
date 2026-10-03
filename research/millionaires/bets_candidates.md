@@ -26,3 +26,25 @@ Where a bet sits near a killed opening, the "Not a repeat because" column says w
 | B18 | Paid private community for UK in-house HR leads at 50-500-person firms (Slack), annual fee | P3 | Courses/communities file; Lenny's community | HR leads (expensed) | No opening was a community | JOB (light) |
 | B19 | GB+NI employment-law template shop (letters, policies) on Etsy/Gumroad | P1 | PB3 marketplace; template sellers | Small employers | Close to O2/O3 template kills; tested to confirm | none |
 | B20 | Sponsor slots on the HR-leaders newsletter sold to HR-tech vendors, building toward a sale | P3 | PB5; TLDR, Neuron, Milk Road exits | HR-tech vendors | No opening sold sponsorship | NUDGE (vendor conflict) |
+
+## Round 1 result
+Of 20 bets, 18 were killed and 2 survived: **B13** (own-brand TikTok Shop live selling) and **B20** (newsletter sponsor slots). Evidence in `checks/B*.md`. The same three kill reasons as stage 1 recurred: funded bodies or providers give it away (Acas, Skills for Care, Breathe, Heva, Octopus), cheap rivals exist (Simply-Docs, TestGorilla, Competency Companion at £4.99), and free AI does the rest.
+
+**Lesson used for round 2 (OPINION):** the two survivors both sell something only the user owns: their own stock and their own audience. Round 2 is aimed at assets the user already has (label, newsletter, Nudge, build skill, practitioner credibility), not at paperwork or advice gaps.
+
+## Round 2: 12 more candidates (same 8 checks)
+
+| ID | Bet (one line) | Pattern | Playbook / case it copies | Who pays | Not a repeat because | Flags |
+|---|---|---|---|---|---|---|
+| B21 | Pre-order "drops" for the user's own label: pre-sell a small run to the newsletter/Instagram before paying for production | P7 | PB1; small apparel brands in shops file | Consumers | B12 needed stock up front; pre-orders don't | none |
+| B22 | Wholesale the own label to NI/IE independent boutiques and gift shops via Faire and direct | P7 | PB3 marketplace (Faire) | Retailers | No opening sold wholesale | Weekday shop visits? |
+| B23 | Official brand resale of own seconds, samples and returns on Vinted/Depop | P7 | PB3 | Consumers | O30-O32 served other resellers; this is own stock | none |
+| B24 | Self-serve listing of Nudge on the Slack Marketplace with a free tier, fed by the HR newsletter | P3, P4 | PB3 + PB1; Slack/Shopify app cases | Hiring teams | Builds the existing venture, no conflict | Co-founder agreement |
+| B25 | GB+NI employment-law-aware AI "HR ops pack" (Claude Skills / custom GPT / prompt library) sold on Gumroad/GPT store | P1, P3 | PB2; AI tools file | HR leads, HR consultants | O12/O19 sold compliance kits; this sells a working AI setup | check 7 risk |
+| B26 | Integration app for a UK SMB HR system (e.g. Breathe or BrightHR to Slack or Claude) sold on its marketplace | P3 | PB3 + PB6; Shopify-app style | HR system customers | No opening built on an HR system's marketplace | NUDGE (light) |
+| B27 | Ghostwritten thought leadership (LinkedIn posts, articles) for HR-tech founders, by a practising HR leader | P3 | PB7; productised content | HR-tech vendors | O13 targeted any expert firm; this sells practitioner credibility to one niche | NUDGE, JOB |
+| B28 | Vendor-sponsored reader survey: an HR-tech vendor pays to sponsor a newsletter survey and gets the report and leads | P3, P4 | PB5; sponsored research | HR-tech vendors | B2 sold to readers (killed); here vendors pay | NUDGE, JOB |
+| B29 | Employment-tribunal awards tracker (newsletter/data) for HR consultants and employment lawyers as the compensation cap is removed in 2027 | P1 | PB5/PB6 | HR consultants, employment lawyers | No opening tracked tribunal outcomes | check 2 risk |
+| B30 | Short-video creator on UK/NI workplace rights for workers, monetised by sponsors and affiliates | P4 | PB1; creators file | Sponsors | No opening was a creator channel | JOB (public profile) |
+| B31 | Paid webinar host/speaker for HR-tech vendors' customer events | P3 | PB1 | HR-tech vendors | No opening sold speaking | JOB, NUDGE |
+| B32 | Notion/Sheets "people-ops operating system" for scale-up HR teams, sold worldwide on Gumroad | P3 | Courses/info file; Notion template sellers | HR leads | Close to template kills; tested to confirm | none |
