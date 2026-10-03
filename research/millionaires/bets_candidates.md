@@ -48,3 +48,6 @@ Of 20 bets, 18 were killed and 2 survived: **B13** (own-brand TikTok Shop live s
 | B30 | Short-video creator on UK/NI workplace rights for workers, monetised by sponsors and affiliates | P4 | PB1; creators file | Sponsors | No opening was a creator channel | JOB (public profile) |
 | B31 | Paid webinar host/speaker for HR-tech vendors' customer events | P3 | PB1 | HR-tech vendors | No opening sold speaking | JOB, NUDGE |
 | B32 | Notion/Sheets "people-ops operating system" for scale-up HR teams, sold worldwide on Gumroad | P3 | Courses/info file; Notion template sellers | HR leads | Close to template kills; tested to confirm | none |
+
+## Round 2 result and final list
+Round 2: B21, B22, B23, B28 survived; B24-B27 and B29-B32 were killed. Total survivors across both rounds: 6 (B13, B20, B21, B22, B23, B28). The critic (`critic.md`) kept 3 as cards (B13, B20, B22), merged B21 and B23 into B13 and B28 into B20, and ranked 6 near-misses (B5, B31, B17, B1, B3, B15). Final list in `../BETS.md`: 3 survivors + 6 near-misses = 9; slot 10 left empty.
