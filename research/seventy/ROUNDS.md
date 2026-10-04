@@ -73,3 +73,9 @@ Strategist (`strategy_round7.md`): the best-ever score on each criterion sums to
 - S4 KILLED (only 2 in-band NI awards 2024-26, 5 bids on £18k; NI sub-£30k work is invite-only; ROI via closed frameworks; established NI rivals; no forcing duty in 12 months).
 - S2 KILLED (professional buyers draft with AI and review in-house; 0 overflow posts; Spoke.law/LOD, Halebury, DAC People Pool supply capacity). Useful data: impact assessment forecasts +6,900 ET cases a year (+17%).
 - S1 KILLED (fails check 8: experts give oral evidence on weekdays; GB-only; uncapped awards reach remedy hearings ~2028+; no prices published).
+- S5 KILLED (Mercor, micro1, Handshake AI hire UK employment/HR experts directly; Harvey's legal benchmark free; survives only as an hourly job, $70-80/hr; Gate 2 fail). **Round 7 closed: 0 passes** (strategist forecast ~10%).
+
+## Checkpoint after 7 rounds (2026-10-04)
+- About 140 ideas generated; 37 kill-tested; 4 independently scored (R8 60, M1 55, E2 41; calibration B13 49, B20 51-52, Nudge 36). No idea has reached 70. Best: R8, GB/NI split handbook and contracts, 60.
+- Binding constraints, consistent across rounds: (1) "how empty" needs evidenced buyers in a gap, but every gap found was empty because it is small or because free/incumbent supply covers it; (2) "size of prize" needs a cited comparable with revenue, which does not exist in the niches where the user has an edge; (3) where a comparable exists (ClaudeKit, AgentBay, ChatGPT-ads agencies), the field filled within weeks or months.
+- The rubric has not been loosened (only tightened once, after calibration).
