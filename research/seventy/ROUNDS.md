@@ -52,3 +52,10 @@ Lesson after round 4: new waves get supplied within months (ChatGPT Ads: UK agen
 - Generator L: 7 scarcity-based ideas (investigations, associate investigator, Access to Work interim plans, Claude Code gigs, school HR-panel clerking, DSAR desk, independent appeal chair). Scarcity shown by surveys/backlogs, not buyer posts; no comparable solo operator at £50k+ found, so prize anchors stay low. None taken forward ahead of M1/N2 results (L1/L7 weekday interviews/hearings; L4 repeats O15; L5 prize about £25k; L6 overlaps M3).
 - N2 KILLED (standard Code form + free model terms; impact assessment expects mainly larger employers; weekday negotiation). M1 pending.
 - **M1 passes Gate 1** (check 7 UNCLEAR; `checks/M1.md`). No sub-£1,000 ET3 seller found; law firms £1,500-4,500+VAT; employer-side not FCA-regulated; Law Society guidance (snippet) says ET proceedings are not reserved conduct of litigation (legacy rights). Sent to independent scorer.
+- **M1 independent score: 55/100** (pay 15, empty 7, timing 12, prize 2, speed 7, fit 12; Gate 2 pass; `score_M1.md`). Not a pass. Round 5 closed: 0 passes. Best so far still R8 (60).
+
+### Lesson after round 5
+Across ~110 ideas, "size of prize" scored 1-3 every time: the niches where the user has an edge have no comparable operator with cited revenue. "How empty" stays at 3-9. A 70 most likely needs a category with VERIFIED solo revenue (prize 5-10) that is also NEW (timing 16-20), joined to a segment the user fits and incumbents ignore (empty 10-15).
+
+## Round 6 (started 2026-10-04)
+(a) Kill test J2-HR: a UK-data-resident managed personal AI agent (OpenClaw-type) for People/HR teams, building on J2 (category comparables AgentBay $230k MRR and ClawSimple $464k total, VERIFIED via TrustMRR in search results; wave began Jan-Feb 2026). (b) Generator P: new-wave categories (paid demand first appeared in the last 12 months) with VERIFIED solo/tiny-team revenue, matched to an under-served vertical or regional segment the user fits.
