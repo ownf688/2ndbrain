@@ -59,3 +59,4 @@ Across ~110 ideas, "size of prize" scored 1-3 every time: the niches where the u
 
 ## Round 6 (started 2026-10-04)
 (a) Kill test J2-HR: a UK-data-resident managed personal AI agent (OpenClaw-type) for People/HR teams, building on J2 (category comparables AgentBay $230k MRR and ClawSimple $464k total, VERIFIED via TrustMRR in search results; wave began Jan-Feb 2026). (b) Generator P: new-wave categories (paid demand first appeared in the last 12 months) with VERIFIED solo/tiny-team revenue, matched to an under-served vertical or regional segment the user fits.
+- J2-HR KILLED (Ampere.sh already sells managed OpenClaw to HR teams $39-499/mo; ECOSIRE offers UK region + DPA; Claude/Copilot Cowork and Workday agents inside approved tools; OpenClaw security record; AgentBay now about $52k MRR per a newer snippet, wave deflating).
