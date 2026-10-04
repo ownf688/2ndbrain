@@ -26,3 +26,6 @@ Research run started 2026-10-03. "Last 18 months" = April 2025 to October 2026.
 20. **Phase 5 kill checks.** The same 7 checks as stage 1 (`checks/_brief.md`), plus check 8 "fits the user's limits" (evenings/weekends, £500 and 2 weeks per test, no licence, no funding). Each batch agent tests 4 bets with about 10 searches.
 21. **Second round of bets (2026-10-03).** Only 2 of 20 bets survived the kill checks, short of the 10 cards asked for. Rather than lower the bar, a second round of 12 bets (B21-B32) was generated, aimed at assets the user already owns, and tested with the same 8 checks. If fewer than 10 survive both rounds plus the critic, BETS.md will say so plainly and fill the rest with clearly labelled near-misses.
 22. **Nudge-building bets are allowed.** A bet that grows Nudge (e.g. B24) is treated as a bet for the user, not a conflict, subject to the co-founder agreement.
+
+## 70+ hunt (2026-10-04)
+23. **Pre-registered rubric.** Earlier scores were OPINION without anchors. For the 70+ hunt, fixed anchors, separation of duties, a critic and a calibration check were written and committed in `seventy/RUBRIC.md` before any idea was generated, so the bar cannot drift towards a pass.
