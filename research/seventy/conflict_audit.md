@@ -21,16 +21,11 @@ Written 2026-10-04. No searches; files only. The user removed the day-job confli
 | Nudge | calibration fit 7 (NALA IP origin) | Nudge's own weak pay and timing | n/a | fit 7 to 12 if IP counts as conflict (#24): **36 to 41** |
 | R8 GB/NI handbook | score fit floor (outside-work terms unchecked) | PI exposure | yes | fit 12 to 13: **60 to 61** |
 | M1 ET3 response | score fit floor (consent, brand risk) | 5-day turnaround beside a job; PI | yes | fit 12 to 13: **55 to 56** |
-| E2 | none | n/a | yes | 0 (41) |
-| R1, R3, R4 | check 8 UNCLEAR/notes (consent, NALA IP) | R1 3 FAIL; R3 3 FAIL; R4 2, 3, 7 FAIL | no | n/a |
-| R2 | 5 and 8 (NALA IP in repo) | 2 FAIL; 4, 7 leaning FAIL | no | n/a |
-| R5 | 8 UNCLEAR (IP, moonlighting) | 2, 3, 7 FAIL; client-hours calls | no | n/a |
+| R1-R5 (AI-for-HR teaching/builds) | check 8 notes or UNCLEAR (consent, NALA IP) | each has 1-3 other FAILs on 2, 3 or 7 (Hacking HR $199/yr, free Anthropic HR plugin) | no | n/a |
 | R6 HiBob packages | 8 FAIL (weekday + conflict) | 3 FAIL; weekday | no | n/a |
 | A3, C8 retainers | cut (weekday + conflict) | weekday response promises | no | n/a |
 | A5 ATS migration | cut | Ashby free at low end; ClonePartner; warm lead only | unclear | n/a |
-| A10 board pack | cut | ~£80 freelance anchor; HRIS bundles | no | n/a |
-| C2 build day | cut | weekday buyers; R1 rivals | no | n/a |
-| C11 starter kits | cut (NALA IP) | check 7; Anthropic free HR plugin (P1, B25) | no | n/a |
+| A10, C2, C11 | cut | A10 ~£80 anchor; C2 weekday buyers; C11 check 7 plus free HR plugin | no | n/a |
 | A12 Kenya/Nigeria set-up | cut (employer's markets) | EOR bundling, free country guides; no trigger | unclear | n/a |
 | R1-G7 fire-and-rehire | cut (legal risk + conflict) | legal risk | no | n/a |
 | R1-G8 union playbook, N2 | cut; N2 check 8 optics | N2 2, 7 FAIL; weekday negotiation | no | n/a |
@@ -65,4 +60,4 @@ Written 2026-10-04. No searches; files only. The user removed the day-job confli
 - **P12.** Stablecoins 43% of Sub-Saharan Africa crypto volume (Chainalysis); cedi +40%, naira +8%. Against: stablecoin supply about $305bn, down about $10bn since May 2026; BoE proposed £20k holding cap; retail gold -3%. Still Weak, and most products here need FCA authorisation.
 
 ## Bottom line (OPINION)
-Removing the rule adds about 1 point to R8 and M1 and about 4 to B20. Nothing crosses 70. The value is in round 9's new generators (T, U, V), not in reviving old kills.
+Removing the rule adds about 1 point to R8 and M1 and about 4 to B20; E2 is unchanged (41). Nothing crosses 70. The value is in round 9's new generators (T, U, V), not in reviving old kills.
