@@ -84,3 +84,9 @@ Strategist (`strategy_round7.md`): the best-ever score on each criterion sums to
 
 ## Environment limitation (material)
 The two kinds of evidence the binding anchors need are the ones this container cannot reach: buyer posts (Reddit, feature-request boards, G2/Capterra review text do not surface in search) and verified-revenue listings (trustmrr.com blocked by the network proxy; gov.uk, Companies House, ONS also blocked, see assumptions #9). So some "not found" results reflect the environment, not the market. Fix: allow reddit.com, trustmrr.com, g2.com, capterra.com, find-and-update.company-information.service.gov.uk, gov.uk in the environment's network settings, then re-run the empty/prize evidence passes on the best candidates (R8, M1) and a comparable-first round.
+
+## User change after round 8
+User removed the day-job conflict rule (see RUBRIC change log, assumptions #24). Network access for reddit/trustmrr/g2/capterra/gov.uk still blocked (user can change it in environment settings).
+
+## Round 9 (started 2026-10-04)
+(a) Conflict audit: find every kill or score where the day-job conflict was a reason, and say which would change. (b) Generator T: payments, fintech, remittance and African-diaspora markets (the user's day-job domain, newly allowed). (c) Generator U: niche recruiting and talent services (playbook PB4) that fit evenings. (d) Generator V: selling to HR-tech and fintech vendors (sponsorship, content, advisory, GTM), previously held down by conflict.

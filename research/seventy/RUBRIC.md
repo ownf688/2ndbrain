@@ -35,3 +35,4 @@ A score may only be given at a level whose evidence is cited (link + date). Miss
 
 ## Change log
 - 2026-10-04, after calibration (`calibration.md`: B13 49, B20 52, Nudge 36, all lower than before, so the anchors read stricter): **tightened** "Proof people pay": the 21-25 band also requires the price the user would charge to be knowable now; if it depends on an unknown (e.g. list size), cap at 20.
+- 2026-10-04, **user-directed change to the user's limits (not to the anchors):** the user removed the "no conflict with the day job" rule. Conflicts with NALA (outside-work consent, procurement/inducement, competing in payments/remittance or NALA's markets) no longer disqualify an idea or lower the fit band. The Nudge overlap flag stays. Evenings/weekends, £500 and 2 weeks, no licence and no funding are unchanged. Anchors, weights and process rules are unchanged.

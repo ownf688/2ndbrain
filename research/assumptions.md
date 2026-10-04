@@ -29,3 +29,4 @@ Research run started 2026-10-03. "Last 18 months" = April 2025 to October 2026.
 
 ## 70+ hunt (2026-10-04)
 23. **Pre-registered rubric.** Earlier scores were OPINION without anchors. For the 70+ hunt, fixed anchors, separation of duties, a critic and a calibration check were written and committed in `seventy/RUBRIC.md` before any idea was generated, so the bar cannot drift towards a pass.
+24. **Day-job conflict rule removed by the user (2026-10-04).** From round 9, conflicts with the user's employer (NALA) are not a kill reason or a fit penalty. The real contractual, IP and inducement risks still exist and are noted once per card, but they do not change scores. Payments/remittance/African-diaspora ideas (previously excluded, assumption #5) are now in scope. Nudge overlap is still flagged.
