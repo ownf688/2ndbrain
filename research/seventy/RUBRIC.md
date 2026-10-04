@@ -34,4 +34,4 @@ A score may only be given at a level whose evidence is cited (link + date). Miss
 6. **Keep going.** If a round finds nothing at 70+, write down why the best ones fell short, then generate the next round aimed at those gaps. Log each round in `ROUNDS.md`.
 
 ## Change log
-- (none yet)
+- 2026-10-04, after calibration (`calibration.md`: B13 49, B20 52, Nudge 36, all lower than before, so the anchors read stricter): **tightened** "Proof people pay": the 21-25 band also requires the price the user would charge to be knowable now; if it depends on an unknown (e.g. list size), cap at 20.
