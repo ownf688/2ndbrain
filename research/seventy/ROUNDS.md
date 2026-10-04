@@ -62,3 +62,7 @@ Across ~110 ideas, "size of prize" scored 1-3 every time: the niches where the u
 - J2-HR KILLED (Ampere.sh already sells managed OpenClaw to HR teams $39-499/mo; ECOSIRE offers UK region + DPA; Claude/Copilot Cowork and Workday agents inside approved tools; OpenClaw security record; AgentBay now about $52k MRR per a newer snippet, wave deflating).
 - Generator P: 6 ideas; one category meets both tests: paid Claude Code kits (comparable ClaudeKit, $229k total VERIFIED via TrustMRR snippet, launched 12 Jun 2026; 30-day figure needs checking). Taken to kill tests: P3 apparel-production kit (tech packs, grading, supplier specs) for small clothing labels; P1 GB/NI People Ops kit (must clear B25's kill reason with new evidence). Not taken: P2 (near B6/J7), P4 (Nudge/day-job conflict), P5 (B1 in new form), P6 (repeats O2).
 - P1 KILLED (new evidence strengthens B25: Anthropic free HR plugin with 9 skills; Claude for Small Business with HR workflows from 13 May 2026; free UK HR Adviser skill; CIPD Buddy free to members).
+- P3 KILLED (AI Tech Packs $18/pack or $48/mo; Genpire free tier then $30-40/mo; The New Black from $8/mo; free tech-pack GPT; Gumroad templates $9.95). Round 6 closed: 0 passes.
+
+## Status after 6 rounds
+About 125 ideas generated, 30 kill-tested, 4 scored (R8 60, M1 55, E2 41; plus calibration). No idea has reached 70. Round 7 starts with a strategist (no search) analysing all kill and score files to find which anchors bind and which territory is unexplored, then targeted evidence hunts. The rubric does not change.
