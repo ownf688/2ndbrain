@@ -72,3 +72,4 @@ Strategist (`strategy_round7.md`): the best-ever score on each criterion sums to
 - S3 KILLED marginal (3 UNCLEAR unresolved; 0 priced UK sellers; 0 UK buyer posts; law firms already sell ERA 2025 employment DD to small-deal buyers).
 - S4 KILLED (only 2 in-band NI awards 2024-26, 5 bids on £18k; NI sub-£30k work is invite-only; ROI via closed frameworks; established NI rivals; no forcing duty in 12 months).
 - S2 KILLED (professional buyers draft with AI and review in-house; 0 overflow posts; Spoke.law/LOD, Halebury, DAC People Pool supply capacity). Useful data: impact assessment forecasts +6,900 ET cases a year (+17%).
+- S1 KILLED (fails check 8: experts give oral evidence on weekdays; GB-only; uncapped awards reach remedy hearings ~2028+; no prices published).
