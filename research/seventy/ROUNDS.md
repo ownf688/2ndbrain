@@ -66,3 +66,6 @@ Across ~110 ideas, "size of prize" scored 1-3 every time: the niches where the u
 
 ## Status after 6 rounds
 About 125 ideas generated, 30 kill-tested, 4 scored (R8 60, M1 55, E2 41; plus calibration). No idea has reached 70. Round 7 starts with a strategist (no search) analysing all kill and score files to find which anchors bind and which territory is unexplored, then targeted evidence hunts. The rubric does not change.
+
+## Round 7 (started 2026-10-04)
+Strategist (`strategy_round7.md`): the best-ever score on each criterion sums to only 68, so a pass must break two ceilings no idea has broken: empty >= 10 (buyers evidenced in a gap) and prize >= 5 (cited comparable with revenue). Strategist's honest probability of any pass in round 7: about 10%. Five targeted hypotheses, renamed S1-S5: S1 expert reports on post-dismissal job-market recovery for unfair-dismissal claims (cap removed 1 Jan 2027); S2 white-label evening drafting desk for HR consultancies; S3 people due diligence for search-fund and small-business acquisitions (F2 revived); S4 document-based People work won via NI/ROI public tenders; S5 GB/NI employment-law test sets and expert data for AI builders. Each gets a combined kill test and evidence hunt aimed at the deciding evidence the strategist named.
