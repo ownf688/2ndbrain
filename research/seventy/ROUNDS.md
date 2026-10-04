@@ -22,3 +22,11 @@ Rules: `RUBRIC.md` (pre-registered 2026-10-04, commit 0952998).
 Aimed at the lessons: (a) R8 deep evidence pass to resolve its 4 UNCLEARs; (b) generator D: other jurisdiction seams (GB/NI/ROI) where sellers serve one side; (c) generator E: ideas outside HR that use Belfast/NI's dual-market position, the clothing label or build skill; (d) generator F: high-ticket, low-volume B2B work where the user's seniority is the scarce input and delivery fits evenings.
 - R8 deep pass (`checks/R8_deep.md`): all 4 UNCLEARs resolved to PASS (2, 7 narrowly). **R8 passes Gate 1.** Sent to independent scorer.
 - Generators D (9 seam ideas) and F (10 insider ideas) returned. D reports new evidence relevant to R8: Peninsula and Invest NI give NI contract/handbook templates free (conflicts with R8_deep check 4); SSP reform also applies in NI (the split is not clean). Routed to the critic if R8 scores 70+.
+- **R8 independent score: 60/100** (pay 15, empty 8, timing 15, prize 2, speed 8, fit 12; Gate 2 pass; `score_R8.md`). Scorer's B20 consistency check: 51 (matches calibration). **Not a pass.** Main gaps: no evidenced buyers in the gap (empty), no penalty forces the split itself (timing), no comparable revenue and a shrinking segment (prize).
+- Generator E returned 9 ideas (NI dual-market, Christmas 2026 under the EU €3 duty). Kill tests running: D1, D3, F2, F4, E2, E3.
+
+### Lesson after R8
+To clear 70 an idea needs, at the same time: (1) a priced, close substitute (pay 18-20); (2) a segment the incumbents provably leave unserved, with buyers in it (empty 10-15); (3) a dated trigger that forces *this* purchase (timing 16+); (4) a cited comparable operator with revenue (prize 5+); (5) a service-speed first sale; (6) 2+ user assets. Round 3 works backwards from (3) and (4).
+
+## Round 3 (started 2026-10-04)
+Generator G: start from categories with VERIFIED solo/tiny-team revenue in the last 24 months and look for UK/IE segments facing a dated trigger. Generator H: dated, forced platform migrations/deprecations in the next 12 months (APIs, apps, integrations, especially HR/recruiting/payroll systems and small-business stacks) that buyers must pay someone to fix.
