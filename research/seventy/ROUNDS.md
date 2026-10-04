@@ -39,3 +39,4 @@ Generator G: start from categories with VERIFIED solo/tiny-team revenue in the l
 
 ## Round 4 (started 2026-10-04)
 HR seams look exhausted (R8 at 60 is the ceiling found so far). Round 4 widens beyond HR, accepting a lower fit band (build skill only = 7-11) in exchange for higher timing/empty scores. Generator J: paid demand that first appeared in the last 12 months in any sector, buildable or deliverable by a Claude Code builder, with an under-served UK/IE segment. Generator K: dated rules outside HR that force many small, fragmented UK/IE buyers to act in the next 12 months, with no free incumbent fix.
+- G2 KILLED (gov.uk gives a free 18-action menu, submission via the existing GPG service, 2 actions x 100 words; regulations not laid; no penalty). Round 3 closed: 0 passes.
