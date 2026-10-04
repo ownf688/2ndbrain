@@ -21,3 +21,4 @@ Rules: `RUBRIC.md` (pre-registered 2026-10-04, commit 0952998).
 ## Round 2 (started 2026-10-04)
 Aimed at the lessons: (a) R8 deep evidence pass to resolve its 4 UNCLEARs; (b) generator D: other jurisdiction seams (GB/NI/ROI) where sellers serve one side; (c) generator E: ideas outside HR that use Belfast/NI's dual-market position, the clothing label or build skill; (d) generator F: high-ticket, low-volume B2B work where the user's seniority is the scarce input and delivery fits evenings.
 - R8 deep pass (`checks/R8_deep.md`): all 4 UNCLEARs resolved to PASS (2, 7 narrowly). **R8 passes Gate 1.** Sent to independent scorer.
+- Generators D (9 seam ideas) and F (10 insider ideas) returned. D reports new evidence relevant to R8: Peninsula and Invest NI give NI contract/handbook templates free (conflicts with R8_deep check 4); SSP reform also applies in NI (the split is not clean). Routed to the critic if R8 scores 70+.
