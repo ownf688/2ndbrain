@@ -30,3 +30,4 @@ To clear 70 an idea needs, at the same time: (1) a priced, close substitute (pay
 
 ## Round 3 (started 2026-10-04)
 Generator G: start from categories with VERIFIED solo/tiny-team revenue in the last 24 months and look for UK/IE segments facing a dated trigger. Generator H: dated, forced platform migrations/deprecations in the next 12 months (APIs, apps, integrations, especially HR/recruiting/payroll systems and small-business stacks) that buyers must pay someone to fix.
+- Kill tests: D1 KILLED (Legal Island + Lewis Silkin already publish GB/NI/ROI three-way table; repeats B1), D3 KILLED (InterTradeIreland funds free advice up to £2,000; free templates), F4 KILLED (audits £300-3,500, same-framed Contra listing, VC platforms free). F2 marginal (3 UNCLEAR); not deep-passed because it has no dated trigger (timing anchor caps at 9), so it cannot reach 70 even if Gate 1 cleared.
